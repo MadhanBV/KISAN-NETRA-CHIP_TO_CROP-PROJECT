@@ -1,0 +1,15 @@
+path: /content/drive/MyDrive/KISAN_NETRA_QUALITY_YOLO26_DATASET_V2
+train: images/train
+val: images/val
+test: images/test
+
+nc: 8
+names:
+  0: fresh_mango
+  1: fresh_potato
+  2: fresh_red_tomato
+  3: fresh_yellow_banana
+  4: rotten_banana
+  5: rotten_mango
+  6: rotten_potato
+  7: rotten_tomato

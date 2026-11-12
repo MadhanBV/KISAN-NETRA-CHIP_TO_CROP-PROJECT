@@ -1,0 +1,321 @@
+{
+  "@@locale": "en",
+  "appName": "CHIP TO CROP",
+  "@appName": { "description": "The title of the application" },
+
+  "kisanNetra": "Kisan Netra",
+  "@kisanNetra": { "description": "Application brand name" },
+
+  "chooseYourLanguage": "Choose Your Language",
+  "@chooseYourLanguage": { "description": "Heading on language selection screen" },
+
+  "selectPreferredLanguage": "Select your preferred language",
+  "@selectPreferredLanguage": { "description": "Subtitle on language selection screen" },
+
+  "searchLanguage": "Search language...",
+  "@searchLanguage": { "description": "Search field hint on language selection screen" },
+
+  "continueAction": "Continue",
+  "@continueAction": { "description": "Generic continue button text" },
+
+  "selectedLanguage": "Selected: {language}",
+  "@selectedLanguage": {
+    "description": "Selected language indicator",
+    "placeholders": {
+      "language": { "type": "String" }
+    }
+  },
+
+  "allLanguages": "All Languages ({count})",
+  "@allLanguages": {
+    "description": "Header for languages list",
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+
+  "skip": "Skip",
+  "@skip": { "description": "Skip onboarding action" },
+
+  "next": "Next",
+  "@next": { "description": "Next step action" },
+
+  "getStarted": "Get Started",
+  "@getStarted": { "description": "Complete onboarding action" },
+
+  "onboarding1Title": "Know Your Crop Health",
+  "@onboarding1Title": { "description": "First onboarding title" },
+
+  "onboarding1Desc": "Detect crop quality, diseases and infections with a simple scan.",
+  "@onboarding1Desc": { "description": "First onboarding description" },
+
+  "onboarding2Title": "Grow Together",
+  "@onboarding2Title": { "description": "Second onboarding title" },
+
+  "onboarding2Desc": "Connect with farmers, share knowledge and buy or sell agricultural products.",
+  "@onboarding2Desc": { "description": "Second onboarding description" },
+
+  "onboarding3Title": "Farm Smarter Every Day",
+  "@onboarding3Title": { "description": "Third onboarding title" },
+
+  "onboarding3Desc": "Stay updated with live weather and get guidance for better farming decisions.",
+  "@onboarding3Desc": { "description": "Third onboarding description" },
+
+  "welcomeToKisanNetra": "Welcome to Kisan Netra",
+  "@welcomeToKisanNetra": { "description": "Auth choice heading" },
+
+  "authChoiceTagline": "Your farm. Your identity. Your digital companion.",
+  "@authChoiceTagline": { "description": "Auth choice subtitle" },
+
+  "register": "REGISTER",
+  "@register": { "description": "Register button" },
+
+  "createNewAccount": "Create a new farmer account",
+  "@createNewAccount": { "description": "Register button subtitle" },
+
+  "login": "LOGIN",
+  "@login": { "description": "Login button" },
+
+  "alreadyHaveAccount": "Already have an account? Sign in",
+  "@alreadyHaveAccount": { "description": "Login button subtitle" },
+
+  "secureBiometricAuth": "Secure biometric face authentication",
+  "@secureBiometricAuth": { "description": "Auth choice footer" },
+
+  "farmerRegistration": "FARMER REGISTRATION",
+  "@farmerRegistration": { "description": "Registration badge" },
+
+  "enterMobileNumber": "Enter your mobile number",
+  "@enterMobileNumber": { "description": "Mobile number title" },
+
+  "registerMobileSubtitle": "Your mobile number is your farmer account ID. Face authentication will protect your account.",
+  "@registerMobileSubtitle": { "description": "Registration mobile subtitle" },
+
+  "continueWithFace": "CONTINUE WITH FACE REGISTRATION",
+  "@continueWithFace": { "description": "Continue with face button" },
+
+  "alreadyRegistered": "Already registered? ",
+  "@alreadyRegistered": { "description": "Already registered prompt" },
+
+  "loginHere": "Login here",
+  "@loginHere": { "description": "Login link" },
+
+  "enter10DigitMobile": "Enter 10-digit mobile",
+  "@enter10DigitMobile": { "description": "Phone input placeholder" },
+
+  "errorEnterMobile": "Please enter your mobile number",
+  "@errorEnterMobile": { "description": "Phone validation empty" },
+
+  "errorValidMobile": "Please enter a valid 10-digit mobile number",
+  "@errorValidMobile": { "description": "Phone validation invalid" },
+
+  "welcomeBack": "Welcome Back",
+  "@welcomeBack": { "description": "Login title" },
+
+  "loginMobileSubtitle": "Enter your registered mobile number to verify your identity with face scan.",
+  "@loginMobileSubtitle": { "description": "Login mobile subtitle" },
+
+  "verifyWithFace": "VERIFY WITH FACE",
+  "@verifyWithFace": { "description": "Verify with face button" },
+
+  "newToKisanNetra": "New to Kisan Netra? ",
+  "@newToKisanNetra": { "description": "New user prompt" },
+
+  "registerNow": "Register now",
+  "@registerNow": { "description": "Register now link" },
+
+  "faceRegistration": "Face Registration",
+  "@faceRegistration": { "description": "Face registration header" },
+
+  "faceVerification": "Face Verification",
+  "@faceVerification": { "description": "Face verification header" },
+
+  "positionFaceInFrame": "Position your face inside the green frame",
+  "@positionFaceInFrame": { "description": "Reticle guidance text" },
+
+  "faceCapturedSuccess": "Face Captured • AI Scanning Complete",
+  "@faceCapturedSuccess": { "description": "Post-capture status badge" },
+
+  "keepHeadStraight": "Keep head straight & ensure even lighting",
+  "@keepHeadStraight": { "description": "Capture tip" },
+
+  "cameraPermissionRequired": "Camera Permission Required",
+  "@cameraPermissionRequired": { "description": "Permission denied title" },
+
+  "cameraPermissionMessage": "Please enable camera access in your device settings to scan your face.",
+  "@cameraPermissionMessage": { "description": "Permission denied explanation" },
+
+  "reviewFacePhoto": "Review Face Photograph",
+  "@reviewFacePhoto": { "description": "Review header register" },
+
+  "confirmFaceForLogin": "Confirm Face for Login",
+  "@confirmFaceForLogin": { "description": "Review header login" },
+
+  "ensureFaceVisible": "Ensure your face is clearly visible.",
+  "@ensureFaceVisible": { "description": "Review subtitle" },
+
+  "biometricConsentText": "I consent to using my face scan for secure authentication.",
+  "@biometricConsentText": { "description": "Consent statement" },
+
+  "confirmAndRegister": "CONFIRM & REGISTER",
+  "@confirmAndRegister": { "description": "Confirm registration button" },
+
+  "verifyFace": "VERIFY FACE",
+  "@verifyFace": { "description": "Confirm login button" },
+
+  "retake": "Retake",
+  "@retake": { "description": "Retake button" },
+
+  "grantPermission": "Grant Permission",
+  "@grantPermission": { "description": "Button to request permission" },
+
+  "preparingBiometricScan": "Preparing biometric scan...",
+  "@preparingBiometricScan": { "description": "Dialog step preparing" },
+
+  "encryptingFaceTemplate": "Encrypting face template...",
+  "@encryptingFaceTemplate": { "description": "Dialog step encrypting" },
+
+  "matchingFacialBiometric": "Matching facial biometric with Face++...",
+  "@matchingFacialBiometric": { "description": "Dialog step matching" },
+
+  "storingEncryptedRecord": "Storing encrypted record...",
+  "@storingEncryptedRecord": { "description": "Dialog step storing" },
+
+  "authSuccessful": "Authentication Successful!",
+  "@authSuccessful": { "description": "Dialog step success" },
+
+  "verificationFailed": "Verification Failed",
+  "@verificationFailed": { "description": "Dialog step failure" },
+
+  "tryAgain": "Try Again",
+  "@tryAgain": { "description": "Dialog retry button" },
+
+  "remainingAttempts": "Remaining attempts: {count}",
+  "@remainingAttempts": {
+    "description": "Remaining login attempts indicator",
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+
+  "navHome": "Home",
+  "@navHome": { "description": "Bottom nav home" },
+
+  "navCommunity": "Community",
+  "@navCommunity": { "description": "Bottom nav community" },
+
+  "navSell": "Sell",
+  "@navSell": { "description": "Bottom nav sell" },
+
+  "navMarketplace": "Marketplace",
+  "@navMarketplace": { "description": "Bottom nav marketplace" },
+
+  "navProfile": "Profile",
+  "@navProfile": { "description": "Bottom nav profile" },
+
+  "homeGreeting": "Hello, Farmer",
+  "@homeGreeting": { "description": "Home greeting" },
+
+  "homeLocation": "Set your location",
+  "@homeLocation": { "description": "Home location placeholder" },
+
+  "homeWeatherTitle": "Today's Weather",
+  "@homeWeatherTitle": { "description": "Home weather section" },
+
+  "homeServicesTitle": "AI Crop Analysis",
+  "@homeServicesTitle": { "description": "Home AI services section" },
+
+  "homeSupportedCrops": "Supported Crops",
+  "@homeSupportedCrops": { "description": "Home supported crops section" },
+
+  "homeQuickServices": "Quick Services",
+  "@homeQuickServices": { "description": "Home quick services section" },
+
+  "qualityDetection": "Quality Detection",
+  "@qualityDetection": { "description": "Service quality title" },
+
+  "qualityDetectionDesc": "Check freshness and crop quality",
+  "@qualityDetectionDesc": { "description": "Service quality desc" },
+
+  "diseaseDetection": "Disease Detection",
+  "@diseaseDetection": { "description": "Service disease title" },
+
+  "diseaseDetectionDesc": "Identify crop diseases and infections",
+  "@diseaseDetectionDesc": { "description": "Service disease desc" },
+
+  "leafDiseaseDetection": "Leaf Disease Detection",
+  "@leafDiseaseDetection": { "description": "Leaf disease detection title" },
+
+  "leafDiseaseDetectionDesc": "Scan leaf photo for instant AI diagnosis, symptoms & remedies",
+  "@leafDiseaseDetectionDesc": { "description": "Leaf disease detection desc" },
+
+  "cropMango": "Mango",
+  "@cropMango": { "description": "Crop mango" },
+
+  "cropBanana": "Banana",
+  "@cropBanana": { "description": "Crop banana" },
+
+  "cropTomato": "Tomato",
+  "@cropTomato": { "description": "Crop tomato" },
+
+  "cropPotato": "Potato",
+  "@cropPotato": { "description": "Crop potato" },
+
+  "serviceWeather": "Weather",
+  "@serviceWeather": { "description": "Quick service weather" },
+
+  "serviceMandiPrices": "Mandi Prices",
+  "@serviceMandiPrices": { "description": "Quick service mandi" },
+
+  "serviceAIAssistant": "AI Assistant",
+  "@serviceAIAssistant": { "description": "Quick service assistant" },
+
+  "serviceLabour": "Find Labour",
+  "@serviceLabour": { "description": "Quick service labour" },
+
+  "weatherLoading": "Loading weather data...",
+  "@weatherLoading": { "description": "Weather loading" },
+
+  "weatherUnavailable": "Weather data unavailable",
+  "@weatherUnavailable": { "description": "Weather unavailable" },
+
+  "weatherSetLocation": "Set your location for weather",
+  "@weatherSetLocation": { "description": "Weather set location prompt" },
+
+  "weatherRetry": "Retry",
+  "@weatherRetry": { "description": "Weather retry" },
+
+  "weatherAdvisory": "Farming Advisory",
+  "@weatherAdvisory": { "description": "Weather advisory title" },
+
+  "myProfile": "My Profile",
+  "@myProfile": { "description": "Profile menu item" },
+
+  "myAiReports": "My AI Reports",
+  "@myAiReports": { "description": "Profile menu item" },
+
+  "myListings": "My Listings",
+  "@myListings": { "description": "Profile menu item" },
+
+  "savedProducts": "Saved Products",
+  "@savedProducts": { "description": "Profile menu item" },
+
+  "myConversations": "My Conversations",
+  "@myConversations": { "description": "Profile menu item" },
+
+  "language": "Language",
+  "@language": { "description": "Profile menu item language" },
+
+  "settings": "Settings",
+  "@settings": { "description": "Profile menu item settings" },
+
+  "helpSupport": "Help & Support",
+  "@helpSupport": { "description": "Profile menu item help" },
+
+  "comingSoon": "Coming Soon",
+  "@comingSoon": { "description": "Placeholder title" },
+
+  "featureComingSoonDesc": "This feature is being developed and will be available soon.",
+  "@featureComingSoonDesc": { "description": "Placeholder subtitle" }
+}
+

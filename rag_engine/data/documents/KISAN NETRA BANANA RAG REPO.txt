@@ -1,0 +1,362 @@
+﻿CHIP TO CROP – BANANA AGRICULTURAL KNOWLEDGE BASE
+Crop: Banana (Musa spp.)
+Disease covered: Banana Anthracnose
+Fungal disease
+1. BANANA ANTHRACNOSE
+1.1 Disease identification
+Parameter
+	Details
+	Common name
+	Banana Anthracnose
+	Crop
+	Banana
+	Scientific name
+	Musa spp.
+	Disease category
+	Fungal disease
+	Major causal organism
+	Colletotrichum musae
+	Other associated organisms
+	Related Colletotrichum species may be involved
+	Affected plant part
+	Mainly fruit peel
+	Occurrence
+	Field and post-harvest
+	Nature
+	Infectious
+	Major impact
+	Fruit quality, storage life and marketability
+	1.2 What is banana anthracnose?
+Banana anthracnose is a fungal disease that primarily affects banana fruits. It can develop while fruits are growing in the field, but symptoms often become more visible during ripening, transportation and storage.
+The fungus may infect young fruits without producing immediately visible symptoms. This is called a latent infection.
+As the banana ripens, the infection can become active, producing dark, sunken lesions on the peel. Under humid conditions, fungal spores may develop on the affected areas.
+The disease is particularly important for farmers, traders and exporters because it reduces fruit quality and market value.
+1.3 Symptoms and identification
+EARLY STAGE
+* Small brown or black spots appear on the banana peel.
+* Initial lesions may be circular.
+* Spots may be difficult to notice on green fruits.
+* Infected areas may become slightly discoloured.
+* Fruits may appear healthy externally despite latent infection.
+MODERATE STAGE
+* Dark brown or black lesions become larger.
+* Affected areas become sunken.
+* Lesions may develop around damaged portions of the peel.
+* Multiple spots may begin merging.
+* Orange or salmon-coloured spore masses may appear under humid conditions.
+SEVERE STAGE
+* Large black and sunken lesions develop.
+* Multiple infected areas merge.
+* The peel becomes damaged and shrivelled.
+* Fruit quality and appearance deteriorate.
+* Advanced infections may extend into the pulp and cause fruit decay.
+1.4 Causal organism
+The major causal organism is Colletotrichum musae.
+Important characteristics:
+* It belongs to the fungal genus Colletotrichum.
+* It produces spores that can spread through water splash and contaminated materials.
+* It can infect fruit during field development.
+* Infections may remain latent until the fruit begins ripening.
+* High humidity and suitable temperatures favour disease development.
+1.5 Disease development and transmission
+1. Fungal spores are present on infected plant material and fruit surfaces.
+2. Spores spread through rain splash, moisture and contaminated handling materials.
+3. The fungus reaches the fruit surface.
+4. Infection occurs through natural openings or damaged tissues.
+5. The fungus may remain inactive or latent in young fruits.
+6. As the fruit ripens, symptoms become visible.
+7. Dark lesions expand and may merge under favourable conditions.
+Major risk factors
+Factor
+	Contribution
+	High humidity
+	Favours fungal development
+	Rainfall
+	Helps spread spores through water splash
+	Wet fruit surfaces
+	Support infection
+	Warm conditions
+	Can favour pathogen activity
+	Fruit injuries
+	Provide opportunities for infection
+	Poor sanitation
+	Increases inoculum
+	Infected plant material
+	Acts as a source of spores
+	Contaminated packaging
+	Can contribute to post-harvest contamination
+	Delayed handling
+	Can increase deterioration risk
+	1.6 Impact on farmers
+* Reduced fruit quality.
+* Lower market value.
+* Increased post-harvest losses.
+* Reduced shelf life.
+* Rejection of affected fruits by retailers and exporters.
+* Increased sorting, grading and packaging costs.
+* Reduced suitability for long-distance transportation.
+1.7 Prevention and management
+A. Field management
+* Maintain good plantation sanitation.
+* Remove severely infected and decaying plant material.
+* Avoid unnecessary fruit injuries.
+* Maintain suitable spacing and canopy ventilation.
+* Avoid excessive moisture around bunches.
+* Use healthy planting material.
+* Follow locally recommended bunch management practices.
+* Monitor fruits regularly for early symptoms.
+B. Harvesting management
+* Harvest fruits carefully.
+* Avoid cutting or bruising the banana fingers.
+* Prevent bunches from touching contaminated soil.
+* Use clean harvesting tools.
+* Avoid dropping bunches during handling.
+* Maintain appropriate maturity standards for the target market.
+C. Post-harvest management
+* Handle harvested bunches carefully.
+* Remove damaged and visibly infected fruits.
+* Use clean water and suitable approved sanitation procedures during washing.
+* Clean and sanitise crates and packaging equipment.
+* Maintain appropriate storage temperature and humidity.
+* Avoid condensation and unnecessary wetness.
+* Ensure good ventilation.
+* Separate infected lots from healthy produce.
+* Follow suitable ripening and transportation practices.
+D. Chemical and biological management
+* Use only currently registered and locally approved fungicides or post-harvest treatments.
+* Verify that the product is approved for the specific crop, disease and application method.
+* Follow label instructions, waiting periods and safety requirements.
+* Do not use unverified chemical dip concentrations or household chemical mixtures.
+* Biological treatments should be selected based on validated efficacy and local recommendations.
+1.8 Farmer monitoring checklist
+Parameter
+	What to monitor
+	Fruit appearance
+	Brown and black spots
+	Lesion shape
+	Circular or irregular
+	Lesion texture
+	Sunken or depressed
+	Peel condition
+	Shrivelling and deterioration
+	Spore development
+	Orange or salmon-coloured masses
+	Fruit maturity
+	Green, mature or ripening
+	Humidity
+	Relative humidity
+	Rainfall
+	Recent rainfall and wet conditions
+	Harvesting
+	Cuts and bruises
+	Storage
+	Temperature and ventilation
+	Packaging
+	Crate cleanliness
+	Disease incidence
+	Percentage of infected fruits
+	1.9 Frequently asked questions
+Q1. Is banana anthracnose a fungal disease?
+Yes. It is mainly associated with Colletotrichum musae.
+Q2. Can healthy-looking green bananas have anthracnose?
+Yes. The fungus can cause latent infections that become visible during ripening.
+Q3. Does banana anthracnose affect only the peel?
+It primarily affects the peel, but advanced infections can extend into the pulp.
+Q4. Does rain increase anthracnose risk?
+Wet conditions and rain splash can favour infection and spore dispersal.
+Q5. Can infected bananas be stored with healthy bananas?
+It is better to segregate visibly infected fruits because they can deteriorate rapidly and contribute to contamination during handling.
+Q6. Can washing remove anthracnose?
+Washing may remove surface dirt and some surface contamination, but it cannot cure an established internal or latent infection.
+2. BANANA ANTHRACNOSE – AI-BASED IDENTIFICATION PARAMETERS
+For CHIP TO CROP, banana anthracnose can be included in an image-based disease identification model.
+2.1 Image recognition parameters
+Parameter
+	Expected observation
+	Crop
+	Banana
+	Plant part
+	Fruit
+	Primary affected region
+	Peel
+	Lesion colour
+	Brown, dark brown or black
+	Lesion shape
+	Circular or irregular
+	Lesion texture
+	Sunken
+	Lesion distribution
+	Isolated or clustered
+	Spore appearance
+	Orange or salmon-coloured masses
+	Fruit stage
+	Green, mature or ripe
+	Severity
+	Mild, moderate or severe
+	Disease
+	Anthracnose
+	Pathogen
+	Colletotrichum musae
+	2.2 Suggested image dataset
+Image ID
+	Crop
+	Condition
+	Fruit stage
+	Visible symptom
+	Diagnosis
+	BAN001
+	Banana
+	Anthracnose
+	Green
+	Small brown spots
+	Anthracnose
+	BAN002
+	Banana
+	Anthracnose
+	Mature
+	Dark circular lesions
+	Anthracnose
+	BAN003
+	Banana
+	Anthracnose
+	Ripe
+	Sunken black spots
+	Anthracnose
+	BAN004
+	Banana
+	Anthracnose
+	Ripe
+	Merged dark lesions
+	Anthracnose
+	BAN005
+	Banana
+	Anthracnose
+	Ripe
+	Salmon-coloured spore masses
+	Anthracnose
+	BAN006
+	Banana
+	Healthy
+	Green
+	Uniform green peel
+	Healthy
+	BAN007
+	Banana
+	Healthy
+	Ripe
+	Normal yellow peel
+	Healthy
+	These are proposed dataset labels, not actual collected or laboratory-confirmed samples.
+2.3 Recommended additional AI parameters
+For better diagnosis, collect:
+* Banana variety or cultivar.
+* Fruit maturity stage.
+* Days after harvest.
+* Storage temperature.
+* Relative humidity.
+* Recent rainfall.
+* Fruit injury history.
+* Packaging and transportation conditions.
+* Lesion count per fruit.
+* Percentage of peel area affected.
+* Expert-confirmed diagnosis.
+Important AI consideration: The model should distinguish anthracnose from other banana peel disorders, including crown rot, cigar-end rot, chilling injury, mechanical bruising and natural ripening spots.
+3. GENERAL BANANA FARMING PRACTICES
+3.1 Soil and climate
+Parameter
+	General recommendation
+	Soil
+	Deep, fertile, well-drained soil
+	Soil texture
+	Loamy to clay loam, depending on drainage
+	Soil pH
+	Approximately 6.0–7.5 is generally suitable
+	Climate
+	Warm and humid tropical conditions
+	Water requirement
+	High, with good drainage
+	Sunlight
+	Adequate sunlight
+	Wind
+	Protection from strong winds is beneficial
+	Actual requirements vary by cultivar, region and production system.
+3.2 Planting material
+* Select healthy, disease-free suckers or quality-assured tissue-culture plants.
+* Use varieties recommended for the local region.
+* Inspect planting material for pests and diseases.
+* Avoid damaged or infected suckers.
+* Maintain proper spacing according to cultivar and cultivation system.
+3.3 Irrigation
+* Maintain consistent soil moisture.
+* Use drip irrigation where suitable.
+* Avoid waterlogging.
+* Increase monitoring during dry periods.
+* Use mulching to reduce evaporation.
+* Consider soil moisture sensors for efficient irrigation.
+3.4 Nutrient management
+* Conduct soil testing.
+* Apply nutrients based on crop stage and local recommendations.
+* Maintain balanced nitrogen and potassium nutrition.
+* Use well-decomposed organic manure where suitable.
+* Consider fertigation for efficient nutrient delivery.
+* Avoid excessive fertiliser application.
+3.5 Plantation management
+* Remove unwanted suckers according to the recommended system.
+* Maintain suitable plant spacing.
+* Remove dry and diseased leaves.
+* Provide support to plants where required.
+* Use bunch covering where appropriate.
+* Maintain field sanitation.
+* Monitor pests and diseases regularly.
+3.6 Harvest and post-harvest practices
+* Harvest at the correct maturity.
+* Prevent bunch injuries.
+* Use clean harvesting tools.
+* Grade fruits based on size and quality.
+* Use suitable packaging materials.
+* Maintain an appropriate cold chain.
+* Follow market-specific ripening and transportation requirements.
+4. CHIP TO CROP – BANANA FARMER DATA PROFILE
+Category
+	Data fields
+	Farmer information
+	Farmer ID, farm ID
+	Crop information
+	Banana variety, planting date
+	Location
+	District, taluk, region
+	Field conditions
+	Soil type, pH, drainage
+	Weather
+	Temperature, humidity, rainfall
+	Irrigation
+	Source, method, frequency
+	Plant health
+	Leaf condition, plant vigour
+	Fruit information
+	Bunch age, maturity, fruit size
+	Disease observations
+	Lesion colour, shape, size
+	Disease severity
+	Mild, moderate, severe
+	Harvest details
+	Harvest date, handling
+	Storage details
+	Temperature, humidity, duration
+	Diagnosis
+	Anthracnose or other condition
+	Management
+	Sanitation, approved treatments
+	Outcome
+	Recovery, deterioration, market rejection
+	Validation
+	Expert-confirmed or unconfirmed
+	Data privacy: Use anonymised farmer and farm identifiers. Obtain consent before collecting personal information or precise farm location.
+5. KEY TAKEAWAYS
+1. Banana anthracnose is primarily a post-harvest quality problem, although infection can begin in the field.
+2. Colletotrichum musae is the major associated pathogen.
+3. Latent infections can become visible as fruits ripen.
+4. Warm, humid and wet conditions favour disease development.
+5. Careful harvesting, sanitation and appropriate storage are essential for management.
+6. AI identification should consider fruit maturity, lesion characteristics and post-harvest conditions.
+Next suggested CHIP TO CROP knowledge-base section: General Agriculture & Farming Techniques — soil health, irrigation, fertiliser management, pest management, precision agriculture, climate-smart farming, post-harvest management and AI-based farmer advisory systems.

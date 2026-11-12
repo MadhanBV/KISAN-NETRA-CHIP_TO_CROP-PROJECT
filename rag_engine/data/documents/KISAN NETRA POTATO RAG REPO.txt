@@ -1,0 +1,489 @@
+﻿CHIP TO CROP – POTATO AGRICULTURAL KNOWLEDGE BASE
+Crop: Potato (Solanum tuberosum L.)
+Topics covered:
+1. Potato Dry Rot Disease
+2. Potato Blackspot Bruising
+These two problems can look similar when a potato is cut open, but they have different causes. Dry rot is an infectious fungal disease, whereas blackspot bruising is a non-infectious physiological injury. Correct identification is essential before recommending treatment.
+1. POTATO DRY ROT DISEASE
+Fungal disease
+1.1 Disease identification
+Parameter
+	Details
+	Common name
+	Potato Dry Rot
+	Crop
+	Potato
+	Scientific name
+	Solanum tuberosum L.
+	Disease category
+	Fungal disease
+	Major causal organisms
+	Fusarium species
+	Commonly associated species
+	Fusarium sambucinum and other Fusarium spp.
+	Affected plant part
+	Mainly tubers
+	Main occurrence
+	Storage, seed tubers and post-harvest handling
+	Disease spread
+	Infected tubers, contaminated materials and wounds
+	Nature
+	Infectious
+	1.2 What is potato dry rot?
+Potato dry rot is a fungal disease that causes the gradual drying and decomposition of potato tubers.
+The fungi generally enter through cuts, bruises, cracks or other damaged areas on the tuber surface. After entering, they colonise the internal tissues and cause brown, dry, sunken and sometimes cavity-like lesions.
+The disease is particularly important during storage because infected tubers can deteriorate and serve as sources of infection for other damaged tubers.
+1.3 Symptoms and identification
+EARLY STAGE
+* Small brown or dark-coloured spots appear on the tuber surface.
+* Slightly sunken lesions develop around wounds.
+* The affected skin may become wrinkled.
+* Initial internal tissue discolouration may be visible after cutting.
+MODERATE STAGE
+* Brown lesions gradually enlarge.
+* The affected tissue becomes dry and corky.
+* Internal brown discolouration spreads into the tuber.
+* The tuber may begin to shrink and lose weight.
+* Cavities may develop inside the affected tissue.
+SEVERE STAGE
+* Extensive internal tissue destruction occurs.
+* Large cavities form inside the tuber.
+* The tuber becomes dry, shrivelled and lightweight.
+* White, pink or other fungal growth may appear under favourable conditions.
+* Severely affected tubers become unsuitable for consumption or planting.
+1.4 Causal organism
+The disease is associated with fungi belonging to the genus Fusarium.
+Important characteristics:
+* These fungi can survive in infected tubers and contaminated storage environments.
+* They commonly enter through mechanical injuries.
+* Different Fusarium species may cause dry rot in different growing regions.
+* The exact species cannot reliably be identified from symptoms alone.
+Important: Laboratory identification may be needed to distinguish the causal species.
+1.5 Disease development and transmission
+1. Infected seed tubers or contaminated storage materials introduce the pathogen.
+2. Harvesting and handling create cuts, bruises and wounds.
+3. Fungal spores enter through damaged tuber tissue.
+4. The fungus grows inside the potato.
+5. Brown, dry and sunken lesions develop.
+6. Infected tubers deteriorate during storage.
+Major risk factors
+Factor
+	How it contributes
+	Mechanical injuries
+	Provide entry points for fungi
+	Infected seed potatoes
+	Introduce pathogens into the crop
+	Poor storage hygiene
+	Allows contamination to persist
+	High storage temperature
+	Can favour fungal development, depending on species
+	Condensation and poor ventilation
+	Increase storage deterioration risk
+	Infected tubers mixed with healthy tubers
+	Increase contamination risk
+	Improper harvesting
+	Causes cuts and bruises
+	1.6 Impact on farmers
+* Loss of marketable potato quantity.
+* Deterioration of stored potatoes.
+* Reduced seed tuber quality.
+* Increased sorting and storage costs.
+* Reduced quality of potatoes intended for processing.
+* Potential spread of infection through contaminated handling and storage systems.
+1.7 Prevention and management
+A. Before planting
+* Use certified, disease-free seed potatoes.
+* Avoid planting visibly infected or damaged tubers.
+* Inspect seed lots before planting.
+* Maintain clean seed-handling equipment.
+* Avoid repeatedly using contaminated planting material.
+B. During harvesting
+* Harvest carefully to prevent cuts and bruises.
+* Avoid throwing potatoes from excessive heights.
+* Use properly adjusted harvesting machinery.
+* Do not mix visibly diseased tubers with healthy produce.
+* Avoid harvesting under unsuitable soil conditions that increase tuber damage.
+C. During storage
+* Clean and disinfect storage areas using suitable approved methods.
+* Remove damaged and infected tubers.
+* Maintain suitable temperature and humidity according to whether potatoes are intended for seed, table consumption or processing.
+* Ensure adequate ventilation.
+* Prevent condensation.
+* Inspect stored potatoes periodically.
+* Keep storage containers and crates clean.
+D. Chemical and biological management
+* Use only locally registered fungicides where an approved treatment is available.
+* Follow the product label and recommended application method.
+* Do not assume that a field fungicide is approved for post-harvest tuber treatment.
+* Biological products should be used only when their efficacy and permitted application are established.
+1.8 Farmer monitoring checklist
+Parameter
+	What to monitor
+	Seed quality
+	Visible fungal infection and damage
+	Tuber condition
+	Cuts, cracks and bruises
+	Surface appearance
+	Brown and sunken lesions
+	Internal condition
+	Dry brown tissue and cavities
+	Storage temperature
+	Suitability for intended use
+	Storage humidity
+	Excessive moisture and condensation
+	Ventilation
+	Air circulation
+	Storage hygiene
+	Clean crates, floors and equipment
+	Disease incidence
+	Percentage of infected tubers
+	1.9 Frequently asked questions
+Q1. Is potato dry rot a fungal disease?
+Yes. It is primarily caused by Fusarium species.
+Q2. Can dry rot spread during storage?
+Yes. Infected tubers and contaminated handling environments can contribute to further infection, particularly when tubers are wounded.
+Q3. Can infected potatoes be used as seeds?
+Severely infected or visibly diseased tubers should not be used as planting material.
+Q4. Does dry rot affect potato quality?
+Yes. It damages internal tissues, reduces weight and makes tubers unsuitable for some markets and uses.
+Q5. Can washing cure dry rot?
+No. Washing does not eliminate an established internal fungal infection.
+2. POTATO BLACKSPOT BRUISING
+Physiological / mechanical disorder
+2.1 Disease identification
+Parameter
+	Details
+	Common name
+	Potato Blackspot Bruising
+	Crop
+	Potato
+	Scientific name
+	Solanum tuberosum L.
+	Category
+	Physiological and mechanical injury
+	Causal factor
+	Impact or compression damage
+	Affected plant part
+	Tuber
+	Main occurrence
+	Harvesting, transportation and storage
+	Nature
+	Non-infectious
+	Chemical control
+	No fungicide treatment
+	2.2 What is potato blackspot bruising?
+Potato blackspot bruising is an internal discolouration that develops when potato tubers experience mechanical impact or pressure.
+Unlike dry rot, it is not caused by fungi, bacteria or viruses.
+When the internal potato cells are damaged, naturally occurring phenolic compounds react with enzymes in the presence of oxygen. This process produces dark pigments, resulting in grey, blue-grey or black areas inside the tuber.
+The potato skin may appear completely normal even when internal bruising is present.
+2.3 Symptoms and identification
+EARLY STAGE
+* No obvious external symptoms may be visible.
+* Internal tissue may initially show little or no discolouration.
+* Damage may become visible after cutting or peeling.
+MODERATE STAGE
+* Grey or blue-grey patches appear inside the potato.
+* Dark discoloured areas develop below the skin.
+* The affected area may become more noticeable after some time.
+* The external skin can remain intact.
+SEVERE STAGE
+* Large dark patches develop inside the tuber.
+* Bruised tissue becomes visibly discoloured.
+* Affected areas reduce the visual and processing quality.
+* Severe mechanical damage can be accompanied by other forms of tissue breakdown.
+2.4 Causes of blackspot bruising
+Primary causes
+1. Dropping potatoes from excessive heights.
+2. Rough harvesting practices.
+3. Impact against hard surfaces.
+4. Improper transportation.
+5. Excessive pressure during storage.
+6. Rough handling during sorting and grading.
+Environmental and physiological risk factors
+Risk factor
+	Effect
+	Low tuber temperature
+	Can increase susceptibility to impact bruising
+	Dehydration
+	Makes tubers more vulnerable to mechanical damage
+	High drop height
+	Increases impact force
+	Hard handling surfaces
+	Increase injury
+	Excessive compression
+	Damages internal cells
+	Variety
+	Different cultivars have different bruising susceptibility
+	Tuber maturity
+	Influences skin and tissue condition
+	Harvest conditions
+	Affect tuber hydration and handling damage
+	2.5 How blackspot bruising develops
+1. A potato experiences impact or compression.
+2. Internal cells are damaged.
+3. Cell compartments break down.
+4. Phenolic compounds come into contact with oxidative enzymes.
+5. Enzymatic oxidation produces dark pigments.
+6. Grey, blue-grey or black discolouration becomes visible.
+Important: Blackspot bruising is not contagious. One bruised potato does not infect another.
+2.6 Impact on farmers
+* Reduced market value.
+* Poor appearance of potatoes.
+* Rejection by retailers and processors.
+* Reduced quality of chips and other processed products.
+* Increased sorting and grading losses.
+* Economic losses during transportation and storage.
+2.7 Prevention and management
+A. During harvesting
+* Avoid excessive drop heights.
+* Adjust harvesting machinery properly.
+* Use padded surfaces where possible.
+* Avoid unnecessary mechanical impact.
+* Handle tubers gently.
+* Avoid harvesting when tubers are excessively cold or dehydrated.
+B. During transportation
+* Use suitable containers and crates.
+* Avoid overfilling transport containers.
+* Prevent excessive movement and impact.
+* Use appropriate cushioning where needed.
+* Minimise repeated loading and unloading.
+C. During storage
+* Avoid excessive compression in storage bins.
+* Maintain suitable storage temperature for the intended potato market.
+* Prevent excessive moisture loss.
+* Use appropriate ventilation.
+* Monitor tuber condition periodically.
+* Avoid rough handling during removal and grading.
+D. Chemical management
+There is no fungicide or pesticide treatment for blackspot bruising because it is not an infectious disease.
+Management depends on reducing mechanical damage and improving harvesting, transportation and storage practices.
+2.8 Farmer monitoring checklist
+Parameter
+	What to monitor
+	Harvesting
+	Drop height and machine adjustment
+	Handling
+	Impact and rough movement
+	Tuber temperature
+	Temperature at harvest and handling
+	Tuber hydration
+	Shrivelling and moisture loss
+	External appearance
+	Cuts, cracks and skin damage
+	Internal appearance
+	Grey, blue-grey or black patches
+	Storage
+	Excessive compression
+	Transportation
+	Damage during loading and unloading
+	Variety
+	Susceptibility to bruising
+	2.9 Frequently asked questions
+Q1. Is blackspot bruising a fungal disease?
+No. It is a physiological disorder caused by mechanical injury and internal enzymatic reactions.
+Q2. Can blackspot bruising spread from one potato to another?
+No. It is not infectious.
+Q3. Can a potato look healthy externally but have blackspot bruising?
+Yes. Internal bruising may not be visible until the tuber is cut or peeled.
+Q4. Can fungicides prevent blackspot bruising?
+No. Fungicides cannot prevent mechanical cell damage.
+Q5. What is the best way to prevent it?
+Reduce impact, avoid excessive drop heights, maintain suitable tuber hydration and temperature, and improve harvesting and transportation practices.
+3. DIFFERENCE BETWEEN POTATO DRY ROT AND BLACKSPOT BRUISING
+This comparison is particularly important for farmers, field workers and AI-based crop diagnosis systems.
+Parameter
+	Potato Dry Rot
+	Potato Blackspot Bruising
+	Category
+	Fungal disease
+	Physiological disorder
+	Main cause
+	Fusarium species
+	Mechanical injury
+	Infectious
+	Yes
+	No
+	External symptoms
+	Often visible sunken lesions
+	Often no visible symptoms
+	Internal appearance
+	Dry brown rot and cavities
+	Grey, blue-grey or black patches
+	Tissue condition
+	Dry, decaying and sometimes corky
+	Discoloured damaged tissue
+	Common occurrence
+	Storage and damaged tubers
+	Harvesting and transportation
+	Spread
+	Through infected tubers and contaminated environments
+	Does not spread
+	Fungicide treatment
+	Only approved treatments where appropriate
+	Not applicable
+	Main prevention
+	Healthy seed, sanitation and wound prevention
+	Gentle handling and impact reduction
+	3.1 AI-based identification parameters
+For CHIP TO CROP, the following parameters can help distinguish the two conditions.
+AI parameter
+	Dry Rot
+	Blackspot Bruising
+	Surface lesion
+	Frequently present
+	Usually absent
+	Sunken area
+	Common
+	Not characteristic
+	Internal brown tissue
+	Common
+	May be dark grey or black
+	Internal cavities
+	Possible
+	Not characteristic
+	Fungal growth
+	May be present
+	Absent
+	Skin appearance
+	May be wrinkled
+	Often normal
+	Mechanical injury history
+	Risk factor
+	Primary cause
+	Storage history
+	Important
+	Important
+	Infectious risk
+	Present
+	Absent
+	Diagnosis type
+	Pathogen-related
+	Physiological injury
+	AI development recommendation: Do not rely exclusively on external potato photographs. Blackspot bruising is frequently an internal condition, so the dataset should include images of cut tubers and handling-history information.
+4. POTATO FARMING – GENERAL AGRICULTURAL PRACTICES
+Beyond disease identification, CHIP TO CROP can provide farmers with practical potato production guidance.
+4.1 Soil requirements
+* Well-drained, loose and friable soil is preferred.
+* Sandy loam and loamy soils are commonly suitable.
+* Avoid poorly drained fields.
+* Conduct soil testing before planting.
+* Maintain suitable soil pH according to the variety and local recommendations.
+* Avoid continuous potato cultivation without suitable crop rotation.
+4.2 Seed selection
+* Use certified, disease-free seed potatoes.
+* Select healthy and properly developed tubers.
+* Avoid tubers with dry rot, soft rot or visible damage.
+* Use suitable varieties recommended for the local agroclimatic region.
+* Maintain seed lot traceability.
+4.3 Irrigation management
+* Maintain consistent soil moisture during tuber development.
+* Avoid waterlogging.
+* Avoid excessive irrigation.
+* Use drip or sprinkler irrigation where suitable.
+* Monitor soil moisture to improve water-use efficiency.
+* Reduce unnecessary overhead irrigation when leaf wetness and disease risk are concerns.
+4.4 Nutrient management
+* Conduct soil testing before fertiliser application.
+* Apply nitrogen, phosphorus and potassium according to crop requirements.
+* Avoid excessive nitrogen.
+* Maintain appropriate potassium nutrition.
+* Use well-decomposed organic manure where suitable.
+* Apply fertilisers in appropriate stages based on local recommendations.
+4.5 Crop rotation
+Rotate potatoes with non-solanaceous crops where practical.
+Examples include:
+* Cereals
+* Legumes
+* Suitable oilseed crops
+Crop rotation can help reduce the buildup of soilborne pathogens, pests and other production problems. Rotation duration should be based on the specific disease and local recommendations.
+4.6 Integrated pest and disease management
+* Regularly inspect plants and tubers.
+* Use healthy planting material.
+* Remove severely infected plant material.
+* Maintain field sanitation.
+* Use disease-resistant or tolerant varieties where available.
+* Monitor pests using suitable traps and field scouting.
+* Apply registered pesticides only when necessary and according to label instructions.
+5. CHIP TO CROP – POTATO DATA COLLECTION PARAMETERS
+These fields can be used to build the potato module of your agricultural AI knowledge base.
+Data category
+	Parameters to collect
+	Crop information
+	Crop name, variety, seed source
+	Plant information
+	Crop age, planting date, growth stage
+	Field information
+	Soil type, pH, drainage
+	Weather
+	Temperature, humidity, rainfall
+	Irrigation
+	Irrigation method, frequency
+	Disease symptoms
+	Lesion colour, shape, size, texture
+	Tuber condition
+	Internal and external appearance
+	Harvesting
+	Harvest date, machinery, handling method
+	Storage
+	Temperature, humidity, ventilation
+	Damage history
+	Cuts, impact, compression
+	Diagnosis
+	Dry rot, blackspot bruising, other
+	Causal organism
+	Fusarium spp. or not applicable
+	Severity
+	Mild, moderate, severe
+	Management
+	Cultural, mechanical, biological or approved chemical
+	Validation
+	Farmer report, expert-confirmed diagnosis
+	5.1 Suggested dataset structure
+Image ID
+	Crop
+	Condition
+	Plant part
+	Symptom
+	Diagnosis
+	POT001
+	Potato
+	Dry Rot
+	Tuber surface
+	Sunken brown lesion
+	Dry Rot
+	POT002
+	Potato
+	Dry Rot
+	Internal tuber
+	Dry brown tissue
+	Dry Rot
+	POT003
+	Potato
+	Dry Rot
+	Internal tuber
+	Cavities and tissue decay
+	Dry Rot
+	POT004
+	Potato
+	Blackspot
+	Internal tuber
+	Grey discolouration
+	Blackspot Bruising
+	POT005
+	Potato
+	Blackspot
+	Internal tuber
+	Dark blue-grey patches
+	Blackspot Bruising
+	POT006
+	Potato
+	Healthy
+	Tuber
+	Normal internal tissue
+	Healthy
+	These are example dataset records, not actual collected images or laboratory-confirmed samples.
+6. Key takeaway for farmers
+* Dry rot: Focus on disease-free seed, avoiding wounds, sanitation and appropriate storage.
+* Blackspot bruising: Focus on gentle harvesting, reduced impact, proper handling and storage.
+* Correct diagnosis: Examine both the external surface and internal tuber tissue before deciding on management.
+Recommended next module: Banana Anthracnose, following the same disease-identification, management, farmer-monitoring and AI-dataset structure.

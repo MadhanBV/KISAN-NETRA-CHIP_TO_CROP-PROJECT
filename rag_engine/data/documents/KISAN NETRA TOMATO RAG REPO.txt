@@ -1,0 +1,1167 @@
+﻿CHIP TO CROP – TOMATO AGRICULTURAL KNOWLEDGE BASE
+Module 02: Tomato (Solanum lycopersicum)
+This module covers tomato diseases, healthy crop production, field diagnosis, disease development, environmental risk factors, integrated management and practical farmer recommendations.
+The content is structured for Indian farmers, with relevance to Karnataka's tomato-growing regions.
+TOMATO TOPIC 01 – LEAF MOLD
+1. Disease identification
+Parameter
+	Information
+	Disease name
+	Tomato Leaf Mold
+	Crop
+	Tomato
+	Scientific name
+	Solanum lycopersicum
+	Causal organism
+	Passalora fulva
+	Older scientific name
+	Fulvia fulva / Cladosporium fulvum
+	Disease category
+	Fungal disease
+	Affected parts
+	Primarily leaves
+	Main symptoms
+	Yellow patches and olive-grey fungal growth
+	Primary impact
+	Reduced photosynthesis and premature leaf fall
+	2. Disease overview
+Tomato Leaf Mold is a fungal disease that mainly affects tomato leaves.
+It is particularly common in protected cultivation, greenhouses and polyhouses where humidity is high and ventilation is inadequate.
+The fungus develops on leaf surfaces and can cause yellow patches on the upper side of leaves and olive-green to greyish fungal growth on the lower side.
+Severe infection causes leaves to dry and fall, reducing the plant's ability to produce healthy fruits.
+3. Symptoms and identification
+Early-stage symptoms
+* Pale green or yellowish patches appear on the upper leaf surface.
+* Small discoloured areas develop between leaf veins.
+* Olive-coloured fungal growth may begin appearing on the underside.
+* Lower and older leaves are commonly affected first.
+Moderate-stage symptoms
+* Yellow patches become larger.
+* Olive-green or greyish fungal growth becomes more visible underneath leaves.
+* Leaves begin curling.
+* Affected leaf tissues become dry.
+Severe-stage symptoms
+* Extensive leaf yellowing.
+* Premature leaf fall.
+* Reduced photosynthetic activity.
+* Poor fruit development due to loss of functional foliage.
+* Reduced marketable yield under severe disease pressure.
+4. Causal organism
+The disease is caused by Passalora fulva.
+It is a specialised fungal pathogen of tomato.
+It can survive in infected crop debris, volunteer tomato plants and contaminated protected-cultivation environments. In some situations, contaminated seed or planting material may also contribute to introduction.
+5. Disease development and transmission
+1. Fungal inoculum survives on infected plant material.
+2. Spores spread through air currents, water splash and handling.
+3. Spores reach susceptible tomato leaves.
+4. High humidity favours spore germination and infection.
+5. Fungal growth develops, particularly on the lower leaf surface.
+6. Additional spores are produced and spread to nearby leaves.
+6. Favourable environmental conditions
+Parameter
+	Effect
+	Relative humidity
+	Very high humidity favours infection
+	Temperature
+	Moderate, warm conditions are favourable
+	Leaf wetness
+	Prolonged wetness increases risk
+	Ventilation
+	Poor ventilation increases humidity
+	Plant spacing
+	Crowded plants restrict airflow
+	Irrigation
+	Overhead irrigation can prolong leaf wetness
+	7. Effects on tomato production
+* Reduced leaf area.
+* Reduced photosynthesis.
+* Premature defoliation.
+* Poor fruit development under severe infection.
+* Reduced fruit quality and marketable yield.
+* Increased crop-protection costs.
+8. Prevention and management
+Cultural management
+* Maintain adequate spacing between plants.
+* Improve greenhouse and polyhouse ventilation.
+* Remove heavily infected leaves where practical.
+* Avoid excessive overhead irrigation.
+* Irrigate early in the day where foliage wetting occurs.
+* Remove crop residues after harvesting.
+* Rotate away from tomato where practical.
+Resistant varieties
+* Select resistant or tolerant cultivars where available.
+* Check resistance claims against the locally prevalent pathogen races.
+Chemical management
+* Use only registered fungicides recommended for tomato leaf mold.
+* Apply according to local disease pressure and label instructions.
+* Rotate fungicide modes of action.
+* Observe pre-harvest and re-entry intervals.
+9. Farmer monitoring parameters
+Parameter
+	What to observe
+	Upper leaf surface
+	Yellow patches
+	Lower leaf surface
+	Olive-grey fungal growth
+	Leaf age
+	Older or lower leaves affected
+	Humidity
+	Relative humidity
+	Ventilation
+	Air movement inside crop
+	Disease severity
+	Percentage of affected leaf area
+	Defoliation
+	Number of fallen leaves
+	10. Farmer action checklist
+1. Inspect the upper and lower surfaces of leaves.
+2. Identify yellow patches.
+3. Check for olive-grey fungal growth.
+4. Improve ventilation.
+5. Remove severely affected leaves where practical.
+6. Avoid prolonged leaf wetness.
+7. Monitor disease progression.
+8. Obtain local expert advice before selecting fungicides.
+11. Frequently asked questions
+Q1. Which part of the tomato plant is mainly affected?
+Leaves, particularly older and lower leaves.
+Q2. What is the most characteristic symptom?
+Yellow patches on the upper surface and olive-grey fungal growth underneath.
+Q3. Does high humidity increase disease risk?
+Yes. High humidity and prolonged leaf wetness are important risk factors.
+Q4. Can it affect fruit directly?
+Fruit infection is uncommon; the main damage occurs through leaf infection and defoliation.
+TOMATO TOPIC 02 – HEALTHY TOMATO CROP MANAGEMENT
+1. Crop identification
+Parameter
+	Information
+	Crop name
+	Tomato
+	Scientific name
+	Solanum lycopersicum
+	Plant family
+	Solanaceae
+	Crop category
+	Vegetable crop
+	Propagation
+	Seeds and nursery seedlings
+	Economic product
+	Fresh tomato fruits and processed products
+	Commercial uses
+	Fresh consumption, sauces, ketchup, puree and processing
+	2. Overview
+Tomato is one of the most widely cultivated vegetable crops in India.
+It is grown in open fields, protected cultivation systems, polyhouses and greenhouses.
+Healthy tomato production requires proper nursery management, soil preparation, balanced nutrition, irrigation, staking, pest monitoring and harvesting.
+The main objective is to produce healthy, uniform, high-quality fruits while reducing disease incidence and production costs.
+3. Climate requirements
+Parameter
+	General requirement
+	Climate
+	Warm-season crop
+	Temperature
+	Approximately 20–30°C is suitable for many cultivars
+	Sunlight
+	Full sunlight
+	Soil
+	Well-drained loamy or sandy loam
+	Soil pH
+	Approximately 6.0–7.5
+	Water
+	Consistent moisture
+	Frost
+	Sensitive to frost
+	Humidity
+	Excessive humidity can increase disease pressure
+	Actual optimum conditions depend on cultivar, growth stage and local climate.
+4. Soil requirements
+Tomato grows well in fertile, well-drained soils.
+Important soil parameters:
+1. Soil pH.
+2. Electrical conductivity.
+3. Soil organic carbon.
+4. Nitrogen availability.
+5. Phosphorus availability.
+6. Potassium availability.
+7. Calcium availability.
+8. Magnesium availability.
+9. Micronutrients.
+10. Soil drainage and water-holding capacity.
+Soil testing is recommended before cultivation.
+5. Seed selection and nursery management
+Seed selection
+* Select certified, healthy seeds.
+* Choose varieties suitable for the local climate.
+* Consider disease resistance.
+* Consider fruit size and market demand.
+* Select suitable determinate or indeterminate varieties.
+Nursery management
+* Use clean nursery trays.
+* Use disease-free growing media.
+* Maintain adequate moisture.
+* Avoid excessive irrigation.
+* Ensure proper ventilation.
+* Protect seedlings from insects.
+* Remove unhealthy seedlings.
+Healthy seedlings should be selected for transplantation.
+6. Land preparation and transplantation
+Important practices:
+* Prepare a fine and well-drained seedbed.
+* Incorporate well-decomposed organic manure based on local recommendations.
+* Form suitable raised beds or ridges.
+* Maintain recommended spacing.
+* Transplant healthy seedlings.
+* Irrigate after transplantation.
+* Replace dead or severely damaged seedlings early.
+Spacing must be selected according to variety, growth habit, training system and local package of practices.
+7. Tomato growth stages
+Stage
+	Description
+	Farmer activity
+	Germination
+	Seed develops into seedling
+	Nursery moisture management
+	Seedling
+	Young plant development
+	Disease prevention
+	Transplantation
+	Seedlings moved to field
+	Root establishment
+	Vegetative
+	Stem and leaves develop
+	Nutrition and weed control
+	Flowering
+	Flowers develop
+	Pollination and water management
+	Fruit setting
+	Fruits begin forming
+	Balanced irrigation
+	Fruit development
+	Fruits increase in size
+	Nutrient and pest monitoring
+	Maturity
+	Fruits change colour
+	Harvest planning
+	Harvesting
+	Mature fruits collected
+	Grading and storage
+	8. Irrigation management
+Tomato is sensitive to irregular water availability.
+Recommended practices
+* Prefer drip irrigation where economical.
+* Maintain consistent soil moisture.
+* Avoid excessive irrigation.
+* Ensure good drainage.
+* Avoid sudden heavy irrigation after prolonged drought.
+* Monitor soil moisture during flowering and fruit development.
+* Use mulching to reduce moisture loss.
+Important: Water stress during flowering and fruit development can reduce fruit setting and yield. Sudden moisture fluctuations can also contribute to fruit cracking and blossom-end rot.
+9. Nutrient management
+Nutrient
+	Importance
+	Nitrogen
+	Vegetative growth and leaf development
+	Phosphorus
+	Root growth and energy transfer
+	Potassium
+	Fruit development and quality
+	Calcium
+	Cell-wall development and fruit tissue health
+	Magnesium
+	Chlorophyll formation
+	Sulphur
+	Protein synthesis
+	Boron
+	Flowering and reproductive development
+	Zinc
+	Enzyme activity and growth
+	Iron
+	Chlorophyll synthesis
+	Farmer recommendations
+* Conduct soil testing.
+* Use well-decomposed organic manure.
+* Apply nutrients according to crop stage.
+* Avoid excessive nitrogen.
+* Maintain adequate potassium and calcium.
+* Correct micronutrient deficiencies based on diagnosis.
+10. Staking and training
+Staking helps support tomato plants and keeps fruits away from the soil.
+Benefits:
+* Better air circulation.
+* Improved sunlight exposure.
+* Easier harvesting.
+* Reduced fruit-soil contact.
+* Improved field inspection.
+* Better disease management.
+For indeterminate varieties, suitable trellising and pruning systems may be used.
+11. Major tomato pests and diseases
+Problem
+	Category
+	Affected part
+	Leaf Mold
+	Fungal
+	Leaves
+	Early Blight
+	Fungal
+	Leaves, stems and fruits
+	Bacterial Spot
+	Bacterial
+	Leaves, stems and fruits
+	Anthracnose
+	Fungal
+	Primarily fruits
+	Late Blight
+	Oomycete
+	Leaves, stems and fruits
+	Fusarium Wilt
+	Fungal
+	Vascular tissues
+	Bacterial Wilt
+	Bacterial
+	Whole plant
+	Leaf Curl
+	Viral
+	Leaves and shoots
+	Fruit Borer
+	Insect
+	Fruits
+	Whitefly
+	Insect
+	Leaves
+	Thrips
+	Insect
+	Leaves and growing points
+	Root-Knot Nematode
+	Nematode
+	Roots
+	12. Harvesting and post-harvest management
+Tomatoes can be harvested at different maturity stages depending on the intended market.
+Maturity stages
+* Mature green.
+* Breaker.
+* Turning.
+* Pink.
+* Light red.
+* Red ripe.
+Post-harvest practices
+* Harvest carefully.
+* Avoid mechanical injury.
+* Remove damaged fruits.
+* Grade according to size and maturity.
+* Use clean ventilated crates.
+* Avoid excessive stacking.
+* Maintain appropriate storage temperatures.
+* Transport carefully.
+13. Modern tomato farming techniques
+1. Drip irrigation.
+2. Fertigation.
+3. Mulching.
+4. Polyhouse cultivation.
+5. Hydroponics.
+6. Automated irrigation.
+7. Soil moisture sensors.
+8. Weather-based crop advisory.
+9. AI-based disease identification.
+10. Smart greenhouse monitoring.
+11. Integrated pest management.
+12. Digital yield tracking.
+14. Farmer monitoring checklist
+Parameter
+	Frequency
+	Leaf health
+	Weekly
+	Stem condition
+	Weekly
+	Root health
+	During field inspection
+	Flower development
+	During flowering
+	Fruit setting
+	Regularly
+	Soil moisture
+	Regularly
+	Pest infestation
+	Weekly or more frequently
+	Disease incidence
+	Weekly or after favourable weather
+	Fruit quality
+	At every harvest
+	15. Frequently asked questions
+Q1. Which soil is suitable for tomato?
+Well-drained loamy and sandy-loam soils with good fertility are generally suitable.
+Q2. Why is staking important?
+It supports plants, improves fruit quality and makes harvesting easier.
+Q3. Why do tomato fruits crack?
+Irregular water availability, sudden moisture changes, variety susceptibility and other growing conditions can contribute.
+Q4. What is the importance of calcium?
+Calcium supports cell-wall development and fruit tissue integrity. Blossom-end rot is associated with inadequate calcium delivery to developing fruit tissue, often influenced by irregular water supply.
+Q5. Which irrigation system is recommended?
+Drip irrigation is often useful for efficient water management and fertigation.
+TOMATO TOPIC 03 – EARLY BLIGHT
+1. Disease identification
+Parameter
+	Information
+	Disease name
+	Tomato Early Blight
+	Crop
+	Tomato
+	Scientific name
+	Solanum lycopersicum
+	Causal organism
+	Alternaria solani
+	Disease category
+	Fungal disease
+	Affected parts
+	Leaves, stems, petioles and fruits
+	Primary symptoms
+	Brown spots with concentric rings
+	Common identification feature
+	Target or bull's-eye appearance
+	Major impact
+	Defoliation and reduced fruit production
+	2. Disease overview
+Tomato Early Blight is a common fungal disease affecting tomato crops.
+It can occur at different growth stages but is frequently first noticed on older and lower leaves.
+The disease produces characteristic brown lesions with concentric rings, resembling a target or bull's-eye.
+As the disease progresses, lesions enlarge, merge and cause leaf drying and premature leaf fall.
+Severe infection reduces photosynthetic activity and exposes fruits to direct sunlight, potentially resulting in sunscald.
+3. Symptoms and visual identification
+Early-stage symptoms
+* Small dark brown or black spots develop on older leaves.
+* Initial lesions are usually circular.
+* A yellowish region may develop around the spots.
+* Concentric rings may become visible as lesions enlarge.
+Moderate-stage symptoms
+* Brown spots become larger.
+* Target-like concentric rings become prominent.
+* Multiple lesions merge.
+* Leaves begin yellowing.
+* Lower leaves start drying.
+Severe-stage symptoms
+* Extensive leaf blighting.
+* Premature defoliation.
+* Stem lesions may develop.
+* Fruits may develop dark lesions near the calyx or stem attachment.
+* Fruit quality and marketability decline.
+4. Causal organism
+The disease is caused by Alternaria solani.
+The pathogen produces dark, multicellular spores.
+It can survive in:
+* Infected crop debris.
+* Volunteer tomato plants.
+* Infected plant material.
+* Potentially contaminated seed.
+5. Disease development and transmission
+1. The fungus survives on infected plant debris and other inoculum sources.
+2. Spores develop on infected tissues.
+3. Wind and rain splash disperse spores.
+4. Spores reach healthy tomato leaves.
+5. Infection occurs under favourable environmental conditions.
+6. Brown necrotic lesions develop.
+7. New spores are produced and spread to nearby plants.
+6. Favourable environmental conditions
+Parameter
+	Effect
+	Temperature
+	Approximately 24–29°C can favour infection
+	Humidity
+	High humidity increases disease pressure
+	Rainfall
+	Rain splash helps spread spores
+	Leaf wetness
+	Prolonged wetness favours infection
+	Plant stress
+	Water and nutrient stress can increase susceptibility
+	Crop debris
+	Provides a survival source
+	7. Effects on tomato production
+* Loss of healthy leaf area.
+* Reduced photosynthesis.
+* Premature leaf fall.
+* Reduced fruit development under severe infection.
+* Fruit sunscald due to canopy loss.
+* Reduced marketable yield.
+* Increased crop-protection expenditure.
+8. Prevention and management
+Cultural management
+* Use healthy seeds and seedlings.
+* Remove infected plant debris.
+* Rotate with non-solanaceous crops.
+* Maintain adequate plant spacing.
+* Use staking where suitable.
+* Avoid prolonged leaf wetness.
+* Maintain consistent irrigation.
+* Remove severely affected lower leaves where practical.
+Biological management
+* Use locally recommended biological control organisms where appropriate.
+* Trichoderma-based products may be used as part of approved preventive programmes.
+* Maintain healthy soil and good crop sanitation.
+Chemical management
+* Registered fungicides may be recommended when disease risk justifies treatment.
+* Use only products labelled for tomato and the target disease.
+* Rotate fungicide modes of action.
+* Follow the label's dose, waiting period and safety instructions.
+9. Early Blight versus Late Blight
+Parameter
+	Early Blight
+	Late Blight
+	Causal organism
+	Alternaria solani
+	Phytophthora infestans
+	Category
+	True fungus
+	Oomycete
+	Leaf symptoms
+	Brown target-like spots
+	Irregular water-soaked lesions
+	Lesion pattern
+	Concentric rings
+	Usually no characteristic target rings
+	Common starting area
+	Older/lower leaves
+	Can spread rapidly through susceptible foliage
+	Favourable weather
+	Warm and humid
+	Cool to moderate and very wet conditions
+	Fruit symptoms
+	Dark, often concentric lesions
+	Firm, irregular brown lesions
+	10. Disease monitoring parameters
+Parameter
+	Measurement
+	Leaf infection
+	Percentage of affected leaves
+	Lesion number
+	Spots per leaf
+	Lesion size
+	Diameter in mm
+	Leaf defoliation
+	Percentage of lost foliage
+	Stem infection
+	Number of affected stems
+	Fruit infection
+	Percentage of affected fruits
+	Weather
+	Temperature and humidity
+	Disease severity
+	Percentage of affected leaf area
+	11. Farmer action plan
+1. Inspect lower leaves regularly.
+2. Identify circular brown lesions.
+3. Check for concentric rings.
+4. Remove severely affected leaves where appropriate.
+5. Remove infected crop residues.
+6. Maintain balanced irrigation.
+7. Avoid excessive leaf wetness.
+8. Rotate crops.
+9. Seek local disease-management advice.
+10. Monitor new leaves and fruits.
+12. Frequently asked questions
+Q1. What is the most important symptom?
+Brown lesions with concentric rings resembling a target.
+Q2. Which leaves are usually affected first?
+Older and lower leaves.
+Q3. Can early blight affect tomato fruits?
+Yes. Dark lesions can develop near the calyx or stem attachment.
+Q4. Does rainfall contribute to disease spread?
+Yes. Rain splash can disperse fungal spores.
+Q5. Can early blight be prevented through crop rotation?
+Crop rotation with non-host crops helps reduce inoculum, particularly when combined with sanitation and healthy planting material.
+TOMATO TOPIC 04 – BACTERIAL SPOT
+1. Disease identification
+Parameter
+	Information
+	Disease name
+	Tomato Bacterial Spot
+	Crop
+	Tomato
+	Scientific name
+	Solanum lycopersicum
+	Disease category
+	Bacterial disease
+	Causal organisms
+	Xanthomonas species complex
+	Important species
+	X. euvesicatoria, X. vesicatoria, X. perforans and X. gardneri
+	Affected parts
+	Leaves, stems, petioles and fruits
+	Main symptoms
+	Dark spots and water-soaked lesions
+	Major impact
+	Defoliation and fruit-quality reduction
+	2. Disease overview
+Tomato Bacterial Spot is an important bacterial disease affecting tomato production.
+It produces small, water-soaked lesions on leaves, stems and fruits.
+The disease can spread rapidly under warm, humid and rainy conditions.
+Severe infection causes leaf damage, defoliation and fruit blemishes, reducing the market value of harvested tomatoes.
+3. Symptoms and identification
+Early-stage symptoms
+* Small water-soaked spots appear on leaves.
+* Spots may initially appear greenish or translucent.
+* Small brown lesions develop.
+* Yellow halos may appear around some lesions.
+Moderate-stage symptoms
+* Lesions become dark brown or black.
+* Multiple lesions develop on individual leaves.
+* Spots may become angular or irregular.
+* Older leaves begin yellowing.
+* Leaf tissue may become damaged and dry.
+Severe-stage symptoms
+* Extensive leaf spotting.
+* Premature leaf fall.
+* Stem and petiole lesions.
+* Dark, raised and scabby fruit spots.
+* Reduced fruit appearance and marketability.
+4. Symptoms on different plant parts
+Plant part
+	Symptoms
+	Leaves
+	Small water-soaked brown or black spots
+	Leaf margins
+	Necrotic lesions and drying
+	Stems
+	Dark lesions and tissue damage
+	Petioles
+	Brown or black spots
+	Green fruits
+	Small water-soaked spots
+	Mature fruits
+	Dark, raised or scabby lesions
+	5. Causal organism
+Tomato Bacterial Spot is associated with several Xanthomonas species.
+The bacterial species complex includes:
+1. Xanthomonas euvesicatoria.
+2. Xanthomonas vesicatoria.
+3. Xanthomonas perforans.
+4. Xanthomonas gardneri.
+Species identification may require laboratory testing.
+6. Disease development and transmission
+1. Bacteria survive in infected crop residues and other plant material.
+2. Infected seeds and seedlings can introduce the pathogen.
+3. Rain splash disperses bacteria.
+4. Bacteria reach healthy leaves and fruits.
+5. Entry occurs through natural openings or wounds.
+6. Lesions develop on infected tissues.
+7. Further spread occurs through rain, irrigation splash and contaminated handling.
+7. Favourable environmental conditions
+Parameter
+	Effect
+	Temperature
+	Warm conditions favour disease development
+	Humidity
+	High humidity increases infection risk
+	Rainfall
+	Rain splash spreads bacteria
+	Leaf wetness
+	Persistent wetness increases risk
+	Irrigation
+	Overhead irrigation may increase spread
+	Plant injury
+	Wounds provide entry points
+	8. Impact on tomato production
+* Leaf damage.
+* Premature defoliation.
+* Reduced photosynthesis.
+* Fruit blemishes.
+* Reduced market quality.
+* Increased sorting and rejection.
+* Reduced marketable yield.
+9. Prevention and management
+Seed and nursery management
+* Use healthy, pathogen-tested seeds where available.
+* Use disease-free seedlings.
+* Maintain nursery sanitation.
+* Clean seed trays and equipment.
+* Avoid overcrowding in nurseries.
+Cultural management
+* Remove infected crop residues.
+* Avoid working in wet fields.
+* Use drip irrigation where practical.
+* Maintain adequate spacing.
+* Rotate with non-host crops.
+* Remove volunteer tomato and pepper plants.
+* Avoid unnecessary mechanical injuries.
+Biological management
+* Use locally recommended biological products where evidence and registration support their use.
+* Maintain healthy soil conditions.
+* Integrate preventive cultural practices.
+Chemical management
+* Copper-based protectants may be considered where currently registered and locally recommended, but efficacy can be limited by bacterial resistance.
+* Do not assume fungicides will control bacterial diseases.
+* Do not use antibiotics or unregistered antibiotic mixtures.
+* Confirm products and recommendations with the local agricultural authority.
+10. Difference between Bacterial Spot and Early Blight
+Parameter
+	Bacterial Spot
+	Early Blight
+	Pathogen
+	Xanthomonas species
+	Alternaria solani
+	Disease type
+	Bacterial
+	Fungal
+	Leaf symptoms
+	Small water-soaked to dark lesions
+	Brown target-like spots
+	Concentric rings
+	Not characteristic
+	Characteristic
+	Fruit symptoms
+	Raised scabby spots
+	Dark concentric lesions
+	Spread
+	Rain splash and contaminated material
+	Wind and rain-dispersed spores
+	Management
+	Bacterial disease management
+	Fungal disease management
+	11. Farmer monitoring parameters
+Parameter
+	What to monitor
+	Leaf lesions
+	Number of spots per leaf
+	Lesion colour
+	Brown or black
+	Water-soaked appearance
+	Present / absent
+	Fruit infection
+	Percentage affected
+	Defoliation
+	Percentage of leaves lost
+	Rainfall
+	Recent rainfall
+	Humidity
+	Relative humidity
+	Spread
+	Number of newly affected plants
+	12. Farmer action checklist
+1. Inspect leaves and fruits.
+2. Identify water-soaked lesions.
+3. Check for raised scabby fruit spots.
+4. Remove heavily infected plants where justified.
+5. Avoid handling wet plants.
+6. Use clean equipment.
+7. Maintain field sanitation.
+8. Avoid unnecessary overhead irrigation.
+9. Seek expert confirmation where symptoms are uncertain.
+10. Use only registered and recommended treatments.
+13. Frequently asked questions
+Q1. Is bacterial spot caused by a fungus?
+No. It is caused by bacteria belonging to the Xanthomonas group.
+Q2. Can bacterial spot affect fruits?
+Yes. It causes dark, raised and scabby lesions on fruits.
+Q3. Does rainfall contribute to the spread?
+Yes. Rain splash is an important mechanism of bacterial spread.
+Q4. Can the disease spread through seeds?
+Yes. Infected seeds and contaminated seedlings can introduce the pathogen.
+Q5. Can fungicides cure bacterial spot?
+Ordinary fungicides do not cure bacterial infections. Management requires bacterial disease-specific preventive measures.
+TOMATO TOPIC 05 – ANTHRACNOSE
+1. Disease identification
+Parameter
+	Information
+	Disease name
+	Tomato Anthracnose
+	Crop
+	Tomato
+	Scientific name
+	Solanum lycopersicum
+	Disease category
+	Fungal disease
+	Main causal organism
+	Colletotrichum coccodes
+	Other associated species
+	Other Colletotrichum species
+	Main affected part
+	Fruits
+	Common disease name
+	Ripe Fruit Rot
+	Primary symptoms
+	Circular, sunken fruit lesions
+	Major impact
+	Post-harvest fruit decay
+	2. Disease overview
+Tomato Anthracnose is an important fungal disease that mainly affects ripe and overripe tomato fruits.
+The disease is caused by fungi belonging to the Colletotrichum group.
+Infection can occur while fruits are still green, but visible symptoms commonly develop as the fruits approach maturity and ripening.
+The disease reduces fruit quality, shortens shelf life and increases post-harvest losses.
+Some Colletotrichum species, particularly C. coccodes, can also cause root infections known as black dot root rot.
+3. Symptoms and identification
+Early-stage symptoms
+* Small circular spots appear on fruits.
+* Lesions may be slightly sunken.
+* Initial spots may be difficult to identify on green fruits.
+* Infection may remain latent before ripening.
+Moderate-stage symptoms
+* Lesions become larger and depressed.
+* Dark spots develop at the centre.
+* Lesions may develop concentric patterns.
+* Small black structures may appear within the affected tissue.
+Severe-stage symptoms
+* Large sunken fruit lesions develop.
+* Infected areas become soft and rotten.
+* Salmon-pink or orange spore masses may appear during moist conditions.
+* Multiple lesions may merge.
+* Fruits become unsuitable for marketing.
+4. Symptoms on different plant parts
+Plant part
+	Possible symptoms
+	Fruits
+	Circular, sunken, dark lesions
+	Leaves
+	Occasional necrotic spots depending on species
+	Stems
+	Localised lesions in some infections
+	Roots
+	Brown lesions and black microsclerotia in C. coccodes infection
+	Fruit surface
+	Salmon-coloured spore masses under favourable conditions
+	5. Causal organism
+The main commonly reported causal organism is Colletotrichum coccodes.
+Other Colletotrichum species may also cause anthracnose-like symptoms.
+The fungi can survive in:
+* Infected crop residues.
+* Soil.
+* Infected plant material.
+* Volunteer host plants.
+* Contaminated field environments.
+6. Disease development and transmission
+1. Fungal inoculum survives in soil and infected plant material.
+2. Spores are produced on infected tissues.
+3. Spores spread through water splash and contact.
+4. Infection may occur on developing green fruits.
+5. The pathogen may remain latent.
+6. Symptoms become visible as fruits ripen.
+7. Infected fruits develop sunken lesions and decay.
+8. Diseased fruits can contribute to further contamination.
+7. Favourable environmental conditions
+Parameter
+	Effect
+	Temperature
+	Warm conditions favour disease
+	Relative humidity
+	High humidity increases risk
+	Rainfall
+	Rain splash spreads spores
+	Fruit maturity
+	Ripening favours symptom development
+	Soil moisture
+	Wet conditions can favour disease
+	Crop sanitation
+	Poor sanitation increases inoculum
+	Temperatures around 28–32°C and high humidity have been reported as favourable in some tomato anthracnose references. These are not universal thresholds for every Colletotrichum species.
+8. Impact on tomato production
+* Fruit rot.
+* Reduced shelf life.
+* Increased post-harvest rejection.
+* Reduced marketable yield.
+* Transportation losses.
+* Increased sorting and storage costs.
+* Lower farmer income.
+9. Prevention and management
+Cultural management
+* Use healthy seeds and seedlings.
+* Rotate with non-host crops.
+* Remove infected fruits.
+* Remove infected plant debris.
+* Maintain proper plant spacing.
+* Use staking to prevent fruit-soil contact.
+* Maintain proper drainage.
+* Avoid overhead irrigation where possible.
+Harvest management
+* Harvest fruits at suitable maturity.
+* Avoid bruising and skin injury.
+* Remove diseased and overripe fruits.
+* Use clean harvesting containers.
+* Avoid mixing infected fruits with healthy produce.
+Post-harvest management
+* Maintain hygienic storage areas.
+* Use clean crates.
+* Sort infected fruits before packaging.
+* Avoid excessive moisture during storage.
+* Maintain suitable temperature and ventilation.
+Chemical management
+* Use only currently registered fungicides where locally recommended.
+* Apply preventive measures according to disease risk.
+* Follow label instructions and pre-harvest intervals.
+* Avoid unnecessary repeated applications.
+10. Difference between Tomato Anthracnose and Early Blight
+Parameter
+	Anthracnose
+	Early Blight
+	Causal organism
+	Colletotrichum spp.
+	Alternaria solani
+	Main affected part
+	Fruit
+	Leaves, stems and fruits
+	Main fruit symptom
+	Circular sunken lesions
+	Dark lesions, often concentric
+	Typical appearance
+	Depressed circular spots
+	Target-like lesions
+	Fruit maturity
+	Mainly ripe and overripe fruits
+	Can occur on green and ripe fruits
+	Post-harvest importance
+	High
+	Can be important
+	Main concern
+	Fruit rot
+	Defoliation and fruit damage
+	11. Farmer monitoring parameters
+Parameter
+	What to record
+	Fruit infection
+	Percentage of infected fruits
+	Lesion size
+	Diameter in mm
+	Lesion shape
+	Circular / irregular
+	Lesion depth
+	Superficial / sunken
+	Spore appearance
+	Black / salmon-coloured
+	Fruit maturity
+	Green / turning / ripe
+	Storage duration
+	Number of days
+	Fruit decay
+	Percentage of rotting fruits
+	12. Farmer action plan
+1. Inspect developing fruits.
+2. Monitor fruit maturity.
+3. Identify circular sunken lesions.
+4. Remove infected fruits.
+5. Avoid fruit injuries.
+6. Maintain field sanitation.
+7. Use clean harvesting containers.
+8. Separate diseased produce.
+9. Monitor fruit during ripening.
+10. Maintain hygienic storage conditions.
+13. Frequently asked questions
+Q1. Which part of the tomato plant is mainly affected?
+The fruits, especially ripe and overripe fruits.
+Q2. Can green tomatoes be infected?
+Yes. Infection can occur while fruits are green, with symptoms developing later during ripening.
+Q3. What is the main identifying symptom?
+Circular, depressed or sunken lesions on fruits.
+Q4. What are the pink or orange spots sometimes seen on infected fruits?
+They can be masses of fungal spores produced under moist conditions.
+Q5. Why is the disease important after harvesting?
+It causes fruit decay, reduces shelf life and increases market rejection.
+6. CONSOLIDATED TOMATO DISEASE COMPARISON
+This section is particularly useful for building the CHIP TO CROP disease identification engine.
+Disease
+	Category
+	Main affected part
+	Characteristic symptom
+	Leaf Mold
+	Fungal
+	Leaves
+	Yellow patches with olive-grey growth underneath
+	Early Blight
+	Fungal
+	Leaves and fruits
+	Brown concentric target-like spots
+	Bacterial Spot
+	Bacterial
+	Leaves and fruits
+	Water-soaked dark spots and scabby fruit lesions
+	Anthracnose
+	Fungal
+	Primarily fruits
+	Circular, sunken fruit lesions
+	7. Tomato disease identification parameters for AI
+Each tomato disease should be represented using the following structured parameters.
+Parameter
+	Description
+	Crop ID
+	CROP_TOMATO
+	Crop name
+	Tomato
+	Scientific name
+	Solanum lycopersicum
+	Disease ID
+	Unique disease identifier
+	Disease name
+	Identified disease
+	Disease category
+	Fungal / bacterial
+	Causal organism
+	Pathogen name
+	Affected plant part
+	Leaf / stem / fruit / root
+	Symptom colour
+	Brown / black / yellow / grey
+	Symptom shape
+	Circular / irregular / angular
+	Symptom texture
+	Powdery / water-soaked / sunken / scabby
+	Early-stage symptoms
+	Initial infection signs
+	Moderate-stage symptoms
+	Developing infection
+	Severe-stage symptoms
+	Advanced infection
+	Temperature
+	Measured environmental temperature
+	Relative humidity
+	Measured humidity
+	Rainfall
+	Recent rainfall
+	Crop growth stage
+	Vegetative / flowering / fruiting
+	Disease severity
+	Low / moderate / high
+	Prevention
+	Preventive measures
+	Management
+	Recommended intervention
+	Expert verification
+	Required / not required
+	Suggested AI severity classification
+Severity
+	General interpretation
+	Early
+	Few isolated symptoms
+	Moderate
+	Multiple lesions or expanding affected areas
+	Severe
+	Extensive tissue damage, defoliation or fruit decay
+	Severity must be calculated using crop-specific scoring criteria, not just the percentage of the image occupied by a symptom.
+8. GENERAL TOMATO FARMER KNOWLEDGE
+The CHIP TO CROP platform should also provide farmers with practical information beyond the four diseases.
+Category
+	Knowledge to provide
+	Seed selection
+	Variety, hybrid and disease resistance
+	Nursery management
+	Seedling health and transplantation
+	Soil management
+	pH, organic matter and soil testing
+	Irrigation
+	Drip irrigation and moisture management
+	Fertilisation
+	NPK and micronutrient requirements
+	Weed management
+	Mechanical, cultural and approved chemical methods
+	Staking
+	Plant support and training
+	Pest management
+	Whiteflies, thrips, aphids and fruit borers
+	Disease management
+	Integrated disease management
+	Weather advisory
+	Temperature, rainfall and humidity
+	Harvesting
+	Fruit maturity and harvesting practices
+	Post-harvest
+	Grading, packaging and storage
+	Marketing
+	Market prices and buyer connections
+	9. Modern farming techniques for tomato
+A. Precision agriculture
+* Soil moisture sensors.
+* Automated drip irrigation.
+* Weather monitoring systems.
+* GPS-based field mapping.
+* Drone-based crop observation.
+* Digital crop records.
+B. Smart irrigation
+* Drip irrigation.
+* Fertigation.
+* Automated irrigation controllers.
+* Soil moisture monitoring.
+* Rainwater harvesting.
+* Mulching.
+C. Integrated Pest Management
+* Regular crop scouting.
+* Yellow and blue sticky traps for monitoring suitable flying pests.
+* Pheromone traps for selected target insects.
+* Biological control.
+* Resistant varieties.
+* Crop rotation.
+* Need-based registered pesticides.
+D. Protected cultivation
+* Polyhouse farming.
+* Greenhouse cultivation.
+* Insect-proof net houses.
+* Automated ventilation.
+* Drip fertigation.
+* Climate monitoring.
+E. AI-powered farming
+CHIP TO CROP can help farmers through:
+1. Tomato leaf disease identification.
+2. Fruit disease identification.
+3. Disease severity estimation.
+4. Environmental risk assessment.
+5. Crop-stage identification.
+6. Irrigation advisory.
+7. Fertiliser recommendations based on soil testing.
+8. Local-language farmer chatbot.
+9. Pest and disease alerts.
+10. Market and harvesting guidance.
+10. TOMATO DISEASE KNOWLEDGE DATABASE STRUCTURE
+Use the following standard structure for the CHIP TO CROP database.
+Database field
+	Example
+	crop_id
+	CROP_TOMATO
+	crop_name
+	Tomato
+	scientific_name
+	Solanum lycopersicum
+	disease_id
+	TOMATO_EARLY_BLIGHT
+	disease_name
+	Early Blight
+	category
+	Fungal
+	causal_agent
+	Alternaria solani
+	affected_parts
+	Leaves, stems, fruits
+	early_symptoms
+	Small brown spots
+	moderate_symptoms
+	Concentric lesions
+	severe_symptoms
+	Extensive blighting
+	environmental_risk
+	Warm, humid, wet conditions
+	transmission
+	Wind and rain splash
+	prevention
+	Crop rotation and sanitation
+	management
+	Integrated disease management
+	severity
+	Early / Moderate / Severe
+	expert_verification
+	Yes / No
+	11. SCIENTIFIC AND AGRICULTURAL REFERENCE FRAMEWORK
+For verification of tomato information, use these agricultural research institutions and extension resources:
+1. ICAR – Indian Council of Agricultural Research: Tomato cultivation and farmer advisories.
+2. ICAR-IIVR – Indian Institute of Vegetable Research: Tomato production and crop improvement.
+3. ICAR-NIPHM/NIPHM: Integrated pest management resources.
+4. Tamil Nadu Agricultural University: Tomato crop protection and disease management.
+5. Kerala Agricultural University: Tomato disease identification and management.
+6. University of Agricultural Sciences, Bengaluru: Regional crop-production recommendations.
+7. APS – American Phytopathological Society: Plant pathology and pathogen identification.
+8. UC Integrated Pest Management: Tomato anthracnose disease guidance.
+Scientific verification notes:
+* Early Blight information is supported by TNAU and Kerala Agricultural University.
+* Bacterial Spot information is based on TNAU's tomato bacterial disease guidance; its older pathogen nomenclature should be interpreted using current Xanthomonas taxonomy.
+* Anthracnose information is supported by TNAU and university extension references.
+* Tomato cultivation guidance is based on ICAR-IIVR and TNAU crop-production resources.
+Tomato module – completion summary
+5 topics covered
+1. Tomato Leaf Mold
+2. Healthy Tomato Crop Management
+3. Tomato Early Blight
+4. Tomato Bacterial Spot
+5. Tomato Anthracnose
+Knowledge coverage: Crop identification, pathogen identification, symptoms, infection cycle, environmental factors, disease management, farmer checklists, FAQs, AI parameters and modern farming techniques.
+Next crop module: Potato – Dry Rot Disease and Blackspot Bruising.

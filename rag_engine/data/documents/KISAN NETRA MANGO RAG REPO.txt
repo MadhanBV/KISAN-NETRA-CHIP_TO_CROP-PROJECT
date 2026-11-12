@@ -1,0 +1,1306 @@
+﻿CHIP TO CROP – MANGO AGRICULTURAL KNOWLEDGE BASE
+Module 01: Mango (Mangifera indica)
+This section contains the complete text-based agricultural knowledge for mango diseases and healthy crop management. It is structured for farmers, agricultural experts and integration into the CHIP TO CROP AI knowledge system.
+The content focuses on Indian agricultural conditions, with relevance to mango-growing regions of Karnataka.
+MANGO TOPIC 01 – SOOTY MOULD
+1. Disease identification
+Parameter
+	Information
+	Disease name
+	Mango Sooty Mould
+	Crop
+	Mango
+	Scientific crop name
+	Mangifera indica
+	Disease category
+	Fungal growth associated with insect infestation
+	Common fungal genera
+	Capnodium spp.
+	Main associated pests
+	Mango hoppers, scales, mealybugs
+	Affected parts
+	Leaves, petioles, twigs and fruit surfaces
+	Primary concern
+	Reduced photosynthesis and weakened tree growth
+	2. What is Mango Sooty Mould?
+Mango Sooty Mould is characterised by a black, soot-like fungal coating on the surface of mango leaves, branches and sometimes fruits.
+It is generally a secondary problem caused by honeydew-producing insects. These insects suck sap from the plant and release a sugary substance called honeydew. Fungi grow on this honeydew, creating the black coating.
+The fungus usually grows on the plant surface rather than directly invading healthy plant tissue.
+3. Symptoms and identification
+Early symptoms
+* Small black spots or patches appear on leaf surfaces.
+* Sticky honeydew may be noticed on leaves.
+* Ant activity may increase around affected branches.
+* Small insect colonies may appear on leaf undersides.
+Moderate symptoms
+* Black fungal coating spreads across larger leaf areas.
+* Leaves become dirty-looking and sticky.
+* Photosynthesis may decrease.
+* Leaves may begin to yellow.
+Severe symptoms
+* Large portions of the canopy may be covered with black fungal growth.
+* Leaf function and overall tree vigour may decline.
+* Heavy insect infestation can contribute to premature leaf drop and reduced productivity.
+* Fruit surfaces may become dirty and lose market appeal.
+4. Causes of the disease
+The primary cause is the growth of sooty-mould fungi on honeydew.
+Important contributing insects include:
+1. Mango hoppers.
+2. Mealybugs.
+3. Scale insects.
+4. Other honeydew-producing sap-sucking insects.
+5. Disease development and transmission
+1. Sap-sucking insects settle on mango leaves and shoots.
+2. They feed on plant sap.
+3. Sugary honeydew is released onto plant surfaces.
+4. Sooty-mould fungal spores land on the honeydew.
+5. Fungal growth develops into a black coating.
+6. Additional honeydew production allows the coating to spread.
+6. Environmental conditions
+Parameter
+	Effect
+	Temperature
+	Warm conditions favour insect activity
+	Humidity
+	Moist conditions can favour fungal growth
+	Canopy density
+	Dense canopy restricts airflow
+	Sunlight
+	Shaded conditions can prolong surface moisture
+	Insect population
+	Higher populations produce more honeydew
+	Orchard sanitation
+	Poor management encourages pest persistence
+	These are general risk factors, not fixed disease thresholds.
+7. Impact on mango production
+* Reduced photosynthetic activity.
+* Reduced plant vigour under heavy infestation.
+* Poor appearance of fruits.
+* Lower market quality.
+* Increased orchard management costs.
+8. Prevention and management
+Cultural management
+* Maintain proper canopy spacing and pruning.
+* Remove heavily infested and dead plant material.
+* Improve sunlight penetration.
+* Maintain orchard sanitation.
+* Monitor new flushes regularly.
+Biological management
+* Conserve ladybird beetles.
+* Encourage lacewings and parasitoids.
+* Protect natural enemies of mealybugs and scale insects.
+* Avoid unnecessary broad-spectrum insecticides.
+Pest management
+* Identify the honeydew-producing insect.
+* Monitor its population.
+* Use locally recommended and registered pest-control measures when necessary.
+* Manage ants where they protect scale insects or mealybugs.
+9. Farmer action plan
+Situation
+	Recommended action
+	Few black patches
+	Inspect for insects and honeydew
+	Sticky leaves
+	Check for sap-sucking pests
+	Increasing black coating
+	Assess pest population and canopy
+	Heavy infestation
+	Seek KVK or horticulture officer advice
+	Fruit contamination
+	Separate affected fruit during grading
+	10. Important precautions
+* Do not treat only the black fungal coating.
+* Control the underlying insect infestation.
+* Avoid unnecessary chemical spraying.
+* Follow pesticide label instructions.
+* Observe pre-harvest intervals.
+* Protect pollinators and beneficial insects.
+11. Frequently asked questions
+Q1. Is Sooty Mould a fungal disease?
+Yes. It is a fungal growth that develops on honeydew deposited by insects.
+Q2. Does it directly kill mango trees?
+Usually not. However, severe infestations can reduce photosynthesis and weaken tree vigour.
+Q3. Can the black coating be removed?
+Superficial growth may be washed off, but it can return if honeydew-producing insects are not controlled.
+Q4. What is the most important management step?
+Identifying and managing the insects responsible for producing honeydew.
+MANGO TOPIC 02 – POWDERY MILDEW
+1. Disease identification
+Parameter
+	Information
+	Disease name
+	Mango Powdery Mildew
+	Crop
+	Mango
+	Scientific name
+	Mangifera indica
+	Causal organism
+	Oidium mangiferae
+	Disease category
+	Fungal disease
+	Main affected parts
+	Flowers, panicles, leaves and young fruits
+	Major susceptible stage
+	Flowering and fruit setting
+	Primary impact
+	Flower destruction and fruit drop
+	2. Disease overview
+Mango Powdery Mildew is an important fungal disease affecting mango orchards, particularly during flowering and early fruit development.
+The fungus produces white or grey powder-like growth on plant surfaces. It damages flowers and young fruits, resulting in poor fruit setting and reduced yield.
+It is particularly important because infection during flowering can significantly affect the number of fruits produced.
+3. Symptoms
+Early-stage symptoms
+* Small white powdery patches appear on leaves.
+* White fungal growth develops on flower panicles.
+* Young leaves may show distortion.
+* Tender floral tissues become infected.
+Moderate-stage symptoms
+* Powdery growth spreads across panicles.
+* Flowers begin drying and turning brown.
+* Flower stalks become weakened.
+* Small fruitlets may begin dropping.
+Severe-stage symptoms
+* Entire flower panicles may become infected.
+* Flowers dry before successful pollination and fertilisation.
+* Young fruits drop prematurely.
+* Fruit production can decrease substantially.
+4. Causes and infection cycle
+The disease is caused by Oidium mangiferae.
+1. Fungal spores develop on infected plant tissues.
+2. Spores become airborne.
+3. They reach susceptible mango leaves, flowers and panicles.
+4. Spores germinate and establish infection on plant surfaces.
+5. White powdery fungal growth develops.
+6. New spores spread to nearby susceptible tissues.
+5. Environmental conditions
+Parameter
+	Disease relationship
+	Temperature
+	Moderate temperatures can favour infection
+	Humidity
+	Suitable humidity and dew favour disease development
+	Rainfall
+	Heavy rain is not necessary for infection
+	Dew
+	Can support spore germination
+	Canopy
+	Dense canopy can increase disease pressure
+	Crop stage
+	Flowering is particularly vulnerable
+	6. Effect on mango production
+* Reduced flower viability.
+* Poor fruit setting.
+* Premature fruit drop.
+* Reduced fruit numbers per panicle.
+* Lower overall marketable yield.
+* Increased production costs.
+7. Prevention and management
+Cultural practices
+* Maintain an open orchard canopy.
+* Prune overcrowded branches after harvest.
+* Remove severely affected panicles where practical.
+* Avoid excessive nitrogen fertilisation.
+* Maintain balanced tree nutrition.
+Monitoring
+* Start monitoring when flower panicles emerge.
+* Inspect flowers and young fruitlets regularly.
+* Increase surveillance during favourable weather.
+* Record the percentage of affected panicles.
+Chemical management
+* Sulphur-based fungicides and other registered fungicides may be recommended under local crop-protection guidelines.
+* Apply only when disease pressure and crop stage justify treatment.
+* Follow the registered product label and local recommendations.
+* Rotate fungicide modes of action to reduce resistance risk.
+8. Farmer action checklist
+1. Inspect flower panicles regularly.
+2. Identify white powdery growth early.
+3. Remove heavily infected panicles where feasible.
+4. Avoid excessive nitrogen application.
+5. Maintain canopy ventilation.
+6. Obtain local agricultural advice before spraying.
+7. Monitor fruit setting after flowering.
+9. Frequently asked questions
+Q1. Which stage is most vulnerable?
+Flowering and early fruit development.
+Q2. Does the disease affect mango fruits?
+Yes. Young fruits can become infected and drop prematurely.
+Q3. Can it spread without heavy rainfall?
+Yes. Powdery mildew does not require prolonged rainfall or heavy leaf wetness.
+Q4. What is the primary management objective?
+Protect healthy panicles and flowers during flowering and fruit setting.
+MANGO TOPIC 03 – HEALTHY MANGO CROP MANAGEMENT
+1. Crop identification
+Parameter
+	Information
+	Crop
+	Mango
+	Scientific name
+	Mangifera indica
+	Crop category
+	Perennial fruit crop
+	Family
+	Anacardiaceae
+	Propagation
+	Primarily grafting for commercial orchards
+	Economic product
+	Fresh fruit and processed mango products
+	Important growth stages
+	Vegetative growth, flowering, fruit setting and fruit development
+	2. Overview
+Healthy mango cultivation involves maintaining proper soil health, balanced nutrition, water availability, canopy structure, pest management and post-harvest practices.
+The objective is to achieve:
+* Consistent fruit production.
+* Good fruit size and quality.
+* Healthy trees and roots.
+* Reduced disease incidence.
+* Improved marketable yield.
+* Long-term orchard productivity.
+3. Climate requirements
+Mango is adapted to tropical and subtropical climates.
+Parameter
+	General requirement
+	Climate
+	Tropical and subtropical
+	Temperature
+	Warm conditions favour growth
+	Sunlight
+	Full sunlight preferred
+	Rainfall
+	Seasonal rainfall; adequate drainage essential
+	Humidity
+	Varies by cultivar and production region
+	Wind
+	Strong winds can damage flowers and fruits
+	These are broad requirements; suitable conditions vary by cultivar and location.
+4. Soil requirements
+Mango performs well in deep, well-drained soils.
+Important soil parameters:
+* Soil depth.
+* Soil texture.
+* Soil pH.
+* Organic carbon.
+* Electrical conductivity.
+* Available nitrogen.
+* Available phosphorus.
+* Available potassium.
+* Micronutrient availability.
+* Drainage capacity.
+Soil testing should be performed before establishing an orchard and periodically thereafter.
+5. Important mango growth stages
+Growth stage
+	Description
+	Farmer focus
+	Establishment
+	Young tree development
+	Root growth and irrigation
+	Vegetative stage
+	Development of leaves and shoots
+	Nutrition and pest monitoring
+	Floral initiation
+	Development of flower buds
+	Tree health and orchard management
+	Flowering
+	Panicle emergence and bloom
+	Pollinator protection and disease monitoring
+	Fruit setting
+	Young fruits develop
+	Water and pest management
+	Fruit development
+	Fruit size and weight increase
+	Balanced irrigation and nutrition
+	Maturity
+	Fruit approaches harvest
+	Maturity assessment
+	Post-harvest
+	Tree and orchard recovery
+	Pruning and sanitation
+	6. Irrigation management
+Water requirements depend on:
+* Tree age.
+* Soil type.
+* Rainfall.
+* Temperature.
+* Crop growth stage.
+* Irrigation method.
+* Root-zone moisture.
+Recommended practices
+1. Use drip irrigation where economically suitable.
+2. Avoid prolonged waterlogging.
+3. Maintain adequate soil moisture during establishment.
+4. Monitor soil moisture rather than following a fixed calendar blindly.
+5. Use organic mulch to reduce evaporation.
+6. Maintain proper drainage during heavy rainfall.
+7. Nutrient management
+Important nutrients include:
+Nutrient
+	Main function
+	Nitrogen (N)
+	Leaf and shoot development
+	Phosphorus (P)
+	Root development and energy transfer
+	Potassium (K)
+	Fruit development and water regulation
+	Calcium (Ca)
+	Cell-wall structure and tissue strength
+	Magnesium (Mg)
+	Chlorophyll formation
+	Sulphur (S)
+	Protein synthesis
+	Zinc (Zn)
+	Enzyme activity and growth
+	Boron (B)
+	Flowering, pollen function and fruit development
+	Iron (Fe)
+	Chlorophyll formation
+	Farmer recommendation: Use soil testing and, where appropriate, leaf analysis to establish nutrient requirements. Do not apply excessive nitrogen, as it can encourage unwanted vegetative growth.
+8. Orchard management techniques
+Pruning
+* Remove dead branches.
+* Remove diseased shoots.
+* Improve canopy airflow.
+* Remove crossing and overcrowded branches.
+* Maintain a manageable tree structure.
+Mulching
+* Reduces moisture loss.
+* Helps regulate soil temperature.
+* Reduces weed growth.
+* Can improve soil organic matter when suitable organic material is used.
+Weed management
+* Maintain clean basins around young trees.
+* Avoid damaging roots during mechanical weeding.
+* Use suitable organic mulch.
+* Follow registered herbicide labels if chemical control is used.
+9. Major pests and diseases to monitor
+Problem
+	Category
+	Main affected part
+	Sooty Mould
+	Fungal growth associated with insects
+	Leaves
+	Powdery Mildew
+	Fungal
+	Flowers and panicles
+	Gall Midge
+	Insect
+	Leaves and panicles
+	Dieback
+	Primarily fungal disease complex
+	Branches
+	Bacterial Canker
+	Bacterial
+	Leaves, twigs and fruits
+	Anthracnose
+	Fungal
+	Leaves, flowers and fruits
+	Stem-End Rot
+	Post-harvest fungal disease complex
+	Fruits
+	Mango Hopper
+	Insect
+	Panicles
+	Fruit Fly
+	Insect
+	Fruits
+	Mealybug
+	Insect
+	Leaves, shoots and fruits
+	10. Harvesting and post-harvest management
+* Harvest at appropriate physiological maturity.
+* Avoid dropping fruits.
+* Use clean harvesting equipment.
+* Prevent damage to fruit skin.
+* Keep harvested fruit away from direct sunlight.
+* Use clean, ventilated crates.
+* Grade fruits based on size, maturity and quality.
+* Separate damaged and diseased fruits.
+* Follow suitable storage and transport conditions.
+11. Modern farming techniques for mango
+1. Drip irrigation and fertigation.
+2. Soil moisture sensors.
+3. Weather-based irrigation scheduling.
+4. Orchard mapping using GPS.
+5. Drone-assisted orchard monitoring where permitted.
+6. AI-based disease identification.
+7. Digital farm records.
+8. Integrated pest management.
+9. Fruit grading and sorting technologies.
+10. Solar-powered irrigation systems.
+12. Farmer's seasonal checklist
+Activity
+	Recommended timing
+	Soil testing
+	Before planting and periodically
+	Orchard sanitation
+	Throughout the year
+	Pruning
+	After harvest, depending on region and tree condition
+	Pest monitoring
+	Throughout the growing season
+	Flower monitoring
+	Panicle emergence to flowering
+	Fruit monitoring
+	Fruit setting to harvest
+	Irrigation monitoring
+	According to soil moisture
+	Harvest planning
+	Based on fruit maturity
+	Storage inspection
+	Throughout post-harvest handling
+	MANGO TOPIC 04 – GALL MIDGE
+1. Disease and pest identification
+Parameter
+	Information
+	Name
+	Mango Gall Midge
+	Crop
+	Mango
+	Scientific crop name
+	Mangifera indica
+	Pest category
+	Insect
+	Insect family
+	Cecidomyiidae
+	Important genera
+	Procontarinia, Erosomyia
+	Affected parts
+	Leaves, shoots, panicles and sometimes young fruits
+	Damaging stage
+	Larval stage
+	Primary impact
+	Leaf deformation, panicle damage and fruit loss
+	2. Overview
+Mango Gall Midge is an insect pest problem caused by tiny fly-like insects.
+Adult midges lay eggs on susceptible mango tissues. The larvae feed on developing plant tissues and may cause abnormal swelling, galls, tunnels and deformation.
+Different gall-midge species attack different parts of mango trees. Therefore, correct identification is important before selecting management measures.
+3. Symptoms
+Early symptoms
+* Small raised spots on young leaves.
+* Tiny swellings or blister-like formations.
+* Small puncture marks.
+* Abnormal development of tender tissues.
+Moderate symptoms
+* Development of visible leaf galls.
+* Curling and deformation of leaves.
+* Small tunnels within affected panicles.
+* Browning of damaged plant tissues.
+Severe symptoms
+* Drying of inflorescences.
+* Premature dropping of affected flowers.
+* Drying and deformation of tender shoots.
+* Reduced fruit setting.
+* Reduced production where infestation is extensive.
+4. Causes and life cycle
+The pest belongs to the gall-midge group of small flies.
+Its general life cycle includes:
+1. Adult female lays eggs on susceptible plant tissues.
+2. Eggs hatch into tiny larvae.
+3. Larvae feed on developing tissues.
+4. Galls or abnormal growth may develop.
+5. Mature larvae leave the affected tissues in species that pupate outside the plant.
+6. Pupation and adult emergence follow.
+The precise life cycle and pupation location depend on the species.
+5. Environmental factors
+* Availability of tender leaves and panicles.
+* Seasonal emergence of adult midges.
+* Suitable humidity.
+* Orchard sanitation.
+* Local rainfall and soil conditions.
+* Presence of susceptible mango varieties.
+6. Damage to mango production
+* Reduced healthy leaf development.
+* Deformation of shoots.
+* Damage to flower panicles.
+* Poor fruit setting.
+* Premature fruitlet drop.
+* Reduced marketable production.
+7. Management strategies
+Cultural management
+* Remove and destroy heavily infested leaves and panicles where feasible.
+* Remove fallen affected plant material.
+* Maintain orchard cleanliness.
+* Prune damaged shoots.
+* Monitor new flushes and panicle development.
+Mechanical management
+* Inspect affected tissues.
+* Collect representative galls for identification.
+* Remove severely affected plant material.
+* Avoid spreading infested debris between orchard blocks.
+Biological management
+* Conserve natural enemies.
+* Avoid unnecessary broad-spectrum insecticide applications.
+* Maintain biodiversity within the orchard where compatible with commercial production.
+Chemical management
+* Identify the particular gall-midge species first.
+* Determine the vulnerable life-cycle stage.
+* Use only currently registered products recommended for mango and the identified pest.
+* Follow local KVK and horticulture department recommendations.
+8. Monitoring parameters
+Parameter
+	What to monitor
+	Leaf gall incidence
+	Percentage of affected leaves
+	Panicle damage
+	Percentage of affected panicles
+	Shoot damage
+	Number of damaged shoots
+	Larval presence
+	Larvae within galls or tunnels
+	Pest activity
+	Adult emergence where monitored
+	Crop impact
+	Fruit-set reduction
+	9. Farmer action plan
+1. Inspect newly developed leaves.
+2. Check panicles during flowering.
+3. Identify galls and abnormal tissue.
+4. Collect samples for expert identification.
+5. Remove heavily infested plant parts where practical.
+6. Maintain orchard sanitation.
+7. Monitor new growth after management.
+10. Frequently asked questions
+Q1. What causes mango gall formation?
+Feeding and tissue interactions associated with certain gall-inducing insects, including gall midges.
+Q2. Does gall midge affect flowers?
+Yes. Certain species attack mango inflorescences and can damage flower panicles.
+Q3. Are all mango galls caused by gall midges?
+No. Other insects, mites and physiological conditions can also produce abnormal growth.
+Q4. Which stage should farmers monitor?
+Tender leaf flushes and developing flower panicles.
+MANGO TOPIC 05 – DIEBACK
+1. Disease identification
+Parameter
+	Information
+	Disease name
+	Mango Dieback
+	Crop
+	Mango
+	Scientific name
+	Mangifera indica
+	Disease category
+	Primarily fungal branch and twig disease
+	Common causal organism
+	Lasiodiplodia theobromae
+	Other possible pathogens
+	Botryosphaeriaceae fungi
+	Affected parts
+	Twigs, branches and shoots
+	Main symptom
+	Progressive drying from shoot tips
+	2. Overview
+Mango Dieback is a serious branch and twig disease characterised by progressive drying of plant tissues.
+The disease often begins at the terminal end of a branch and progresses towards the main stem.
+Infected branches gradually lose their leaves and become dry. Severe infection can affect major branches and reduce orchard productivity.
+3. Symptoms
+Early-stage symptoms
+* Drying of shoot tips.
+* Yellowing or browning of leaves.
+* Wilting of terminal shoots.
+* Small areas of bark discolouration.
+Moderate-stage symptoms
+* Drying progresses down the branch.
+* Leaves turn brown and may remain attached temporarily.
+* Bark may develop cracks.
+* Internal wood may show brown discolouration.
+Severe-stage symptoms
+* Entire branches become dry.
+* Larger woody tissues may become infected.
+* Extensive canopy damage occurs.
+* Tree vigour and productivity decline.
+4. Causal organism
+A commonly associated fungus is Lasiodiplodia theobromae.
+It can survive in infected woody tissues and dead branches.
+The fungus may enter through:
+* Pruning wounds.
+* Mechanical injuries.
+* Cracks in bark.
+* Damaged plant tissues.
+* Infected planting material.
+Other fungi can also cause dieback-like symptoms, so laboratory identification may be necessary.
+5. Disease development
+1. Fungal inoculum survives in infected branches.
+2. Spores are produced on infected tissues.
+3. Spores spread through rain splash and other local dispersal mechanisms.
+4. Spores reach wounds or susceptible plant tissues.
+5. Infection develops within woody tissues.
+6. Shoot tips begin drying.
+7. Infection may progress towards larger branches.
+6. Favourable conditions
+* High humidity.
+* Rainy conditions.
+* Wounds caused by pruning.
+* Poor orchard sanitation.
+* Drought stress.
+* Waterlogging.
+* Weak or poorly maintained trees.
+7. Impact on production
+* Loss of productive branches.
+* Reduced canopy development.
+* Reduced flowering potential.
+* Declining tree vigour.
+* Reduced fruit production.
+* Increased orchard maintenance costs.
+8. Prevention and management
+Cultural management
+* Prune infected branches below the visibly affected region and into healthy wood.
+* Remove and safely dispose of infected branches.
+* Avoid unnecessary mechanical injury.
+* Maintain balanced irrigation.
+* Avoid waterlogging.
+* Maintain proper orchard sanitation.
+Pruning sanitation
+* Clean pruning tools before use.
+* Disinfect tools between affected trees.
+* Avoid carrying infected plant debris through the orchard.
+* Perform pruning during suitable dry weather.
+Chemical management
+* Copper-based protectants or other approved wound-management products may be recommended in certain local management programmes.
+* Use only products approved for the intended crop and application.
+* Chemical applications should supplement sanitation and pruning, not replace them.
+9. Farmer monitoring checklist
+Parameter
+	Observation
+	Shoot-tip drying
+	Present / Absent
+	Leaf browning
+	Present / Absent
+	Bark cracking
+	Present / Absent
+	Branch discolouration
+	Present / Absent
+	Internal wood browning
+	Present / Absent
+	Number of affected branches
+	Record
+	Disease progression
+	Stable / Increasing
+	10. Frequently asked questions
+Q1. What is the main symptom of mango dieback?
+Progressive drying beginning from the shoot tip and extending towards the branch.
+Q2. Can pruning control dieback?
+Pruning can remove infected branches and reduce inoculum when performed correctly.
+Q3. Can the disease spread through pruning tools?
+Contaminated tools can contribute to the spread of pathogens and should be cleaned and disinfected.
+Q4. Can a severely affected tree recover?
+Recovery depends on the extent of infection, the health of the remaining canopy and whether major woody tissues are affected.
+MANGO TOPIC 06 – BACTERIAL CANKER
+1. Disease identification
+Parameter
+	Information
+	Disease name
+	Mango Bacterial Canker
+	Crop
+	Mango
+	Scientific name
+	Mangifera indica
+	Disease category
+	Bacterial disease
+	Causal organism
+	Xanthomonas citri pv. mangiferaeindicae
+	Affected parts
+	Leaves, petioles, twigs, branches and fruits
+	Main symptoms
+	Dark lesions, cankers and cracking
+	Major concern
+	Reduced fruit quality and tree health
+	2. Overview
+Mango Bacterial Canker is a bacterial disease that affects several parts of the mango tree.
+It can produce dark spots on leaves, raised lesions on twigs and branches, and characteristic blemishes on fruits.
+Severe infection can affect fruit quality and reduce the market value of harvested mangoes.
+3. Symptoms
+Leaf symptoms
+* Small water-soaked lesions.
+* Dark brown or black spots.
+* Angular or irregular lesions.
+* Yellow halos around certain lesions.
+* Drying and dropping of severely affected leaves.
+Stem and branch symptoms
+* Raised lesions.
+* Bark cracking.
+* Canker formation.
+* Discolouration of affected tissues.
+* Sometimes gummy or bacterial exudation.
+Fruit symptoms
+* Small dark spots.
+* Raised lesions on fruit surfaces.
+* Cracking of affected areas.
+* Reduced external appearance.
+* Poor market quality.
+4. Causal organism
+The disease is associated with Xanthomonas citri pv. mangiferaeindicae.
+It is a bacterial plant pathogen.
+Bacteria can survive in infected plant tissues and spread through:
+* Rain splash.
+* Wind-driven rain.
+* Contaminated tools.
+* Infected planting material.
+* Mechanical injuries.
+5. Disease development
+1. Bacteria survive in infected plant material.
+2. Rain and wind-driven water disperse bacteria.
+3. Bacteria reach healthy leaves, shoots or fruits.
+4. Entry occurs through natural openings or wounds.
+5. Infection develops in susceptible plant tissues.
+6. Dark lesions and cankers become visible.
+7. Further spread occurs under favourable wet conditions.
+6. Favourable conditions
+* Warm and humid weather.
+* Frequent rainfall.
+* Prolonged surface wetness.
+* Storms and wind-driven rain.
+* Mechanical injuries.
+* Contaminated pruning equipment.
+7. Effects on mango production
+* Reduced leaf health.
+* Branch damage.
+* Fruit blemishes.
+* Reduced marketability.
+* Increased orchard management costs.
+* Potential losses when infection is severe.
+8. Management strategies
+Preventive practices
+* Use healthy nursery plants.
+* Use disease-free propagation material.
+* Maintain orchard sanitation.
+* Avoid unnecessary injuries.
+* Avoid working in wet foliage.
+* Clean pruning equipment.
+Cultural management
+* Remove infected fallen material.
+* Prune severely affected branches where appropriate.
+* Improve canopy airflow.
+* Maintain proper drainage.
+* Avoid excessive overhead irrigation.
+Chemical management
+* Certain copper-based protectants may be included in preventive programmes where registered and recommended.
+* These are protectants, not reliable cures for established internal infections.
+* Do not use antibiotics or homemade chemical mixtures without official authorisation.
+9. Disease monitoring
+Parameter
+	Monitoring requirement
+	Leaf spots
+	Presence and number
+	Canker formation
+	Branch inspection
+	Fruit lesions
+	Percentage of affected fruits
+	Rainfall
+	Recent rainfall events
+	Canopy wetness
+	Duration of wet conditions
+	Disease progression
+	Weekly observations
+	10. Frequently asked questions
+Q1. Is bacterial canker caused by a fungus?
+No. It is a bacterial disease.
+Q2. Can it affect mango fruits?
+Yes. It can cause dark, raised and cracked fruit lesions.
+Q3. Does rainfall help the spread?
+Yes. Rain splash and wind-driven rain can spread the bacteria.
+Q4. Can infected branches be pruned?
+Severely affected branches can be removed where appropriate, using clean tools and proper sanitation.
+MANGO TOPIC 07 – ANTHRACNOSE
+1. Disease identification
+Parameter
+	Information
+	Disease name
+	Mango Anthracnose
+	Crop
+	Mango
+	Scientific name
+	Mangifera indica
+	Disease category
+	Fungal disease
+	Main causal organism
+	Colletotrichum gloeosporioides species complex
+	Affected parts
+	Leaves, flowers, panicles, twigs and fruits
+	Main symptoms
+	Dark spots, blossom blight and fruit rot
+	Major concern
+	Pre-harvest and post-harvest losses
+	2. Overview
+Mango Anthracnose is one of the most economically important fungal diseases affecting mango production.
+It affects leaves, flowers, panicles, twigs and fruits.
+The disease is particularly damaging during flowering and fruit development. It can also cause significant post-harvest losses.
+An important characteristic is latent infection: fruits can become infected while still developing on the tree, but visible symptoms may appear only when the fruit ripens.
+3. Symptoms
+Leaf symptoms
+* Small brown or black spots.
+* Irregular necrotic patches.
+* Spots may merge into larger lesions.
+* Severe infection can cause leaf drying and premature leaf fall.
+Flower symptoms
+* Dark spots on flower panicles.
+* Browning and drying of flowers.
+* Blossom blight.
+* Reduced fruit setting.
+Twig symptoms
+* Small necrotic lesions.
+* Drying of young shoots.
+* Localised twig blight.
+Fruit symptoms
+* Small dark spots on fruit skin.
+* Circular or irregular lesions.
+* Sunken black patches.
+* Lesions enlarge as fruits ripen.
+* Softening and rotting of infected fruit.
+* Salmon-pink spore masses may sometimes develop under humid conditions.
+4. Causal organism
+The disease is caused by fungi belonging to the Colletotrichum species complex.
+A commonly reported species is Colletotrichum gloeosporioides.
+These fungi can survive on:
+* Infected leaves.
+* Dead branches.
+* Diseased panicles.
+* Infected fruits.
+* Mummified plant material.
+5. Disease development and transmission
+1. Fungal pathogens survive on infected plant debris.
+2. Spores develop on infected tissues.
+3. Rain splash and wind-driven rain spread spores.
+4. Spores reach healthy leaves, flowers or fruits.
+5. Infection develops under favourable conditions.
+6. Young fruits may carry latent infections.
+7. Symptoms become visible during ripening and storage.
+6. Environmental conditions
+Parameter
+	Effect
+	Temperature
+	Warm conditions favour infection
+	Humidity
+	High humidity supports disease development
+	Rainfall
+	Rain splash spreads spores
+	Leaf wetness
+	Prolonged wetness favours infection
+	Canopy density
+	Dense canopies can increase disease pressure
+	Fruit maturity
+	Latent infection may become visible during ripening
+	Temperatures around 24–32°C can be favourable under suitable moisture conditions, although optimum conditions vary among Colletotrichum species and isolates.
+7. Impact on mango production
+Before harvesting
+* Flower destruction.
+* Reduced fruit setting.
+* Leaf damage.
+* Reduced fruit development.
+After harvesting
+* Fruit rotting.
+* Reduced storage life.
+* Increased rejection during grading.
+* Reduced market value.
+* Losses during transportation and storage.
+8. Prevention and management
+Orchard management
+* Prune overcrowded branches.
+* Remove infected plant material.
+* Collect fallen and mummified fruits.
+* Maintain proper canopy airflow.
+* Avoid unnecessary overhead irrigation.
+* Monitor flowering and fruit development.
+Fungicide management
+* Use registered fungicides only when locally recommended.
+* Apply preventive measures according to disease risk and crop stage.
+* Rotate fungicide modes of action.
+* Follow the label's dose and waiting period.
+Post-harvest management
+* Harvest at appropriate maturity.
+* Avoid bruising and skin injury.
+* Use clean harvesting crates.
+* Remove diseased fruits.
+* Maintain packhouse hygiene.
+* Use only validated and approved post-harvest treatments.
+9. Monitoring parameters
+Parameter
+	Measurement
+	Leaf infection
+	Percentage of affected leaves
+	Panicle infection
+	Percentage of affected panicles
+	Fruit infection
+	Percentage of affected fruits
+	Disease severity
+	Lesion size and affected area
+	Rainfall
+	Recent rainfall
+	Humidity
+	Relative humidity
+	Storage decay
+	Percentage of rotting fruits
+	10. Farmer action plan
+1. Inspect mango trees during new leaf flush.
+2. Monitor panicles during flowering.
+3. Check developing fruits for lesions.
+4. Remove infected and fallen fruit.
+5. Maintain orchard sanitation.
+6. Harvest without damaging fruit.
+7. Inspect fruits during ripening.
+8. Separate infected fruits from healthy produce.
+11. Frequently asked questions
+Q1. Can anthracnose affect mango flowers?
+Yes. It causes blossom blight and can reduce fruit setting.
+Q2. Can healthy-looking mangoes carry anthracnose?
+Yes. Latent infections may remain invisible until ripening.
+Q3. Is anthracnose a post-harvest disease?
+It can cause substantial post-harvest fruit rot, although infection may originate in the orchard.
+Q4. What is the most important preventive practice?
+Orchard sanitation, moisture management, appropriate disease monitoring and careful post-harvest handling.
+MANGO TOPIC 08 – STEM-END ROT
+Post-harvest disease
+1. Disease identification
+Parameter
+	Information
+	Disease name
+	Mango Stem-End Rot
+	Crop
+	Mango
+	Scientific name
+	Mangifera indica
+	Disease category
+	Fungal post-harvest disease complex
+	Common causal organism
+	Lasiodiplodia theobromae
+	Other associated fungi
+	Neofusicoccum and other Botryosphaeriaceae
+	Affected part
+	Stem attachment and fruit pulp
+	Main symptom
+	Rot beginning around the stem end
+	Major impact
+	Fruit decay during ripening and storage
+	2. Overview
+Mango Stem-End Rot is an important post-harvest disease affecting mango fruits.
+The disease usually begins around the stem attachment or stem scar and progresses towards the internal fruit flesh.
+The infection may develop during fruit growth and remain latent until harvest. Visible symptoms commonly appear during ripening, storage and transportation.
+It is particularly important for farmers involved in commercial mango marketing and export.
+3. Symptoms
+Early-stage symptoms
+* Brown discolouration around the stem end.
+* Small dark patches near the stem scar.
+* Initial softening around the affected area.
+Moderate-stage symptoms
+* Brown or black rot spreads from the stem end.
+* Internal fruit flesh becomes discoloured.
+* Softening increases.
+* The affected area expands during ripening.
+Severe-stage symptoms
+* Extensive internal fruit decay.
+* Dark brown or black pulp.
+* Watery or soft fruit tissues.
+* Unpleasant odour may develop.
+* Fruits become unsuitable for marketing.
+4. Causal organisms
+The disease is commonly associated with Lasiodiplodia theobromae and other fungi belonging to the Botryosphaeriaceae family.
+These fungi may survive in:
+* Dead branches.
+* Infected twigs.
+* Dead panicles.
+* Infected plant debris.
+* Infected orchard tissues.
+5. Disease development
+1. Fungal pathogens survive in infected orchard material.
+2. They colonise susceptible plant tissues.
+3. Fruit infection may occur before harvesting.
+4. Infection may remain latent during fruit development.
+5. Fungi become active during fruit ripening.
+6. Rot develops around the stem end.
+7. Internal fruit tissues become damaged.
+6. Favourable conditions
+* Warm temperatures.
+* High relative humidity.
+* Poor orchard sanitation.
+* Infected branches and plant debris.
+* Harvesting injuries.
+* Improper fruit handling.
+* Contaminated crates.
+* Unsuitable storage conditions.
+7. Difference between Anthracnose and Stem-End Rot
+Parameter
+	Anthracnose
+	Stem-End Rot
+	Main disease area
+	Fruit peel and other plant parts
+	Stem-end region
+	Typical appearance
+	Dark sunken lesions
+	Brown/black rot around stem scar
+	Infection source
+	Colletotrichum species
+	Commonly Botryosphaeriaceae fungi
+	Flower infection
+	Common
+	Not its defining symptom
+	Latent infection
+	Yes
+	Yes
+	Post-harvest impact
+	High
+	High
+	8. Management strategies
+Orchard management
+* Remove dead branches and infected plant material.
+* Maintain orchard sanitation.
+* Prune diseased branches.
+* Monitor fruit health.
+* Avoid unnecessary tree injuries.
+Harvest management
+* Harvest at appropriate maturity.
+* Avoid pulling fruits forcefully from branches.
+* Prevent stem-end injury.
+* Use clean harvesting equipment.
+* Keep fruits away from soil.
+* Avoid bruising during collection.
+Post-harvest management
+* Use clean crates.
+* Remove infected fruits.
+* Use potable water for washing.
+* Maintain packhouse hygiene.
+* Dry fruit surfaces before packing.
+* Maintain suitable storage temperature and ventilation.
+* Follow validated treatment protocols.
+9. Storage and transportation considerations
+Parameter
+	Farmer requirement
+	Fruit maturity
+	Harvest at suitable physiological maturity
+	Handling
+	Avoid physical injury
+	Packaging
+	Clean, ventilated packaging
+	Storage
+	Cultivar-appropriate temperature
+	Hygiene
+	Clean crates and storage facilities
+	Inspection
+	Regularly identify decaying fruits
+	Transportation
+	Avoid excessive compression and vibration
+	10. Farmer action plan
+1. Remove dead and diseased branches from orchards.
+2. Harvest mangoes carefully.
+3. Avoid stem-end injuries.
+4. Use clean collection crates.
+5. Separate damaged fruits.
+6. Maintain hygiene during sorting and packing.
+7. Monitor fruits during ripening.
+8. Record the percentage of affected fruits.
+11. Frequently asked questions
+Q1. Why does mango rot start near the stem?
+Certain fungi infect or colonise tissues around the stem attachment and subsequently spread into the fruit.
+Q2. Does the disease appear only after harvesting?
+No. Infection can occur before harvesting, but symptoms often become visible during ripening.
+Q3. Can stem-end rot be confused with anthracnose?
+Yes. Both cause fruit decay, but their typical starting locations and symptom patterns differ.
+Q4. Can washing prevent the disease completely?
+No. Washing and sanitation can reduce contamination but cannot eliminate latent internal infections.
+Q5. Is it important for mango exporters?
+Yes. Post-harvest decay can lead to shipment rejection, reduced shelf life and financial losses.
+9. CONSOLIDATED MANGO DISEASE COMPARISON
+This table is particularly useful for the CHIP TO CROP AI disease identification system.
+Disease
+	Category
+	Main affected part
+	Key identification feature
+	Sooty Mould
+	Fungal growth associated with insects
+	Leaves
+	Black superficial coating
+	Powdery Mildew
+	Fungal
+	Flowers and panicles
+	White powdery growth
+	Gall Midge
+	Insect
+	Leaves and panicles
+	Galls and tissue deformation
+	Dieback
+	Primarily fungal
+	Branches
+	Progressive shoot drying
+	Bacterial Canker
+	Bacterial
+	Leaves, branches and fruits
+	Dark lesions and cankers
+	Anthracnose
+	Fungal
+	Leaves, flowers and fruits
+	Dark spots and sunken fruit lesions
+	Stem-End Rot
+	Fungal disease complex
+	Fruits
+	Rot beginning around stem end
+	10. Mango disease identification parameters for AI
+For CHIP TO CROP, each disease should be represented through structured parameters.
+Parameter
+	Description
+	Crop
+	Mango
+	Scientific name
+	Mangifera indica
+	Disease name
+	Identified disease
+	Disease category
+	Fungal / bacterial / insect / physiological
+	Causal organism
+	Pathogen or pest
+	Plant part
+	Leaf / fruit / stem / flower / root
+	Symptom type
+	Spot / mould / gall / rot / drying
+	Symptom colour
+	Black / brown / white / yellow
+	Symptom shape
+	Circular / irregular / angular
+	Symptom texture
+	Powdery / sunken / raised / sticky
+	Disease stage
+	Early / moderate / severe
+	Temperature
+	Recorded environmental temperature
+	Humidity
+	Relative humidity
+	Rainfall
+	Recent rainfall
+	Crop stage
+	Vegetative / flowering / fruiting
+	Management
+	Recommended intervention
+	Prevention
+	Preventive agricultural practices
+	Diagnosis confidence
+	AI model confidence
+	Expert verification
+	Required / not required
+	Important: Environmental values should be stored as observed measurements or evidence-based risk ranges, not invented fixed thresholds. AI image classification should be treated as preliminary screening, especially when diseases have overlapping symptoms.
+11. GENERAL MANGO FARMER KNOWLEDGE
+Beyond disease management, CHIP TO CROP should provide the following agricultural advisory categories.
+Knowledge category
+	Information to provide
+	Soil management
+	Soil testing, soil fertility, pH and organic matter
+	Irrigation
+	Drip irrigation, water scheduling and drainage
+	Fertilisation
+	NPK and micronutrient management
+	Orchard management
+	Spacing, pruning and canopy management
+	Pest management
+	Integrated pest management
+	Disease management
+	Integrated disease management
+	Weather advisory
+	Rainfall, humidity and temperature
+	Flowering management
+	Panicle monitoring and pollinator protection
+	Fruit management
+	Fruit development and fruit-drop management
+	Harvesting
+	Maturity indicators and harvesting methods
+	Post-harvest
+	Sorting, grading, packaging and storage
+	Marketing
+	Market prices, buyers and supply chains
+	Technology
+	Drones, sensors, AI and precision agriculture
+	12. Important modern farming techniques
+A. Precision agriculture
+* Soil moisture sensors.
+* Weather stations.
+* Automated irrigation.
+* GPS-based orchard mapping.
+* Satellite crop monitoring.
+* Drone-based orchard observation.
+B. Integrated Pest Management (IPM)
+IPM combines:
+1. Regular pest monitoring.
+2. Cultural practices.
+3. Mechanical control.
+4. Biological control.
+5. Resistant varieties where available.
+6. Need-based chemical control.
+C. Integrated Disease Management (IDM)
+IDM combines:
+* Disease-free planting material.
+* Orchard sanitation.
+* Canopy management.
+* Monitoring environmental conditions.
+* Removal of infected plant material.
+* Biological measures where appropriate.
+* Registered fungicides or bactericides when necessary.
+D. Smart irrigation
+Farmers can use:
+* Drip irrigation.
+* Soil moisture sensors.
+* Weather-based irrigation scheduling.
+* Rainwater harvesting.
+* Mulching.
+* Automated irrigation controllers.
+E. AI-based farming
+CHIP TO CROP can support farmers through:
+* Image-based disease screening.
+* Disease severity classification.
+* Crop-specific recommendations.
+* Weather-based disease-risk alerts.
+* Fertiliser advisory based on soil test data.
+* Irrigation recommendations.
+* Agricultural knowledge chatbot.
+* Local-language explanations.
+13. RECOMMENDED KNOWLEDGE DATABASE STRUCTURE
+For the actual CHIP TO CROP platform, use this structure for each mango disease.
+Database field
+	Example
+	crop_id
+	CROP_MANGO
+	crop_name
+	Mango
+	scientific_name
+	Mangifera indica
+	disease_id
+	MANGO_ANTHRACNOSE
+	disease_name
+	Anthracnose
+	category
+	Fungal
+	causal_agent
+	Colletotrichum species complex
+	affected_parts
+	Leaf, flower, fruit, twig
+	early_symptoms
+	Small dark spots
+	moderate_symptoms
+	Enlarging lesions
+	severe_symptoms
+	Extensive necrosis and fruit rot
+	favourable_conditions
+	Warm, humid, wet conditions
+	transmission
+	Rain splash and infected plant material
+	prevention
+	Orchard sanitation and canopy management
+	management
+	Integrated disease management
+	severity
+	Low / Medium / High
+	verification
+	Agricultural expert confirmation
+	14. Knowledge sources and scientific verification
+The mango content should be cross-checked against:
+1. ICAR – Indian Council of Agricultural Research.
+2. ICAR-NRIIPM – National Research Institute for Integrated Pest Management.
+3. ICAR-CISH – Central Institute for Subtropical Horticulture.
+4. Tamil Nadu Agricultural University – Agritech Portal.
+5. Kerala Agricultural University – Agri-Infotech Portal.
+6. University of Agricultural Sciences, Bengaluru and Dharwad.
+7. Directorate of Plant Protection, Quarantine and Storage.
+8. Central Insecticides Board and Registration Committee.
+For pesticide recommendations, verify current Indian registration, crop and pest label, application instructions, pre-harvest interval and worker-safety requirements.
+Mango module coverage: 8 topics
+1. Sooty Mould
+2. Powdery Mildew
+3. Healthy Mango Crop Management
+4. Gall Midge
+5. Dieback
+6. Bacterial Canker
+7. Anthracnose
+8. Stem-End Rot
+This completes the text-based first edition of the Mango knowledge module. The next improvement should be adding district-specific Karnataka recommendations, verified pesticide label information, disease severity scoring and Kannada translations.

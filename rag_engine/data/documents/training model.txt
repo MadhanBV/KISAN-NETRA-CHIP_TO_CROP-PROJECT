@@ -1,0 +1,2501 @@
+AGRICULTURE KNOWLEDGE CONVERSATION CORPUS A Practical, Farmer-Friendly
+Reference for Retrieval-Augmented Generation (RAG)
+
+Document purpose This document is a general agricultural knowledge
+corpus intended for indexing in a Retrieval-Augmented Generation (RAG)
+system. It is written in a conversational question-and-answer style so
+that an agricultural assistant can retrieve useful explanations when
+farmers ask questions in everyday language.
+
+Important use and safety note This document provides general educational
+information, not a substitute for local agricultural extension advice,
+laboratory soil testing, veterinary care, official weather warnings,
+pesticide labels, or government rules. Agricultural recommendations
+depend on crop variety, growth stage, soil, climate, irrigation, pest
+pressure, and local regulations. A RAG assistant must ask for missing
+context instead of pretending that one recommendation works everywhere.
+It must never invent pesticide doses, product approvals, fertilizer
+rates, market prices, government benefits, or disease diagnoses. For
+chemical products, the current registered product label and advice from
+a qualified local agricultural officer take priority. If a farmer
+describes severe crop damage, suspected poisoning, livestock illness, or
+immediate danger, the assistant should recommend prompt help from the
+appropriate local professional or emergency service.
+
+How to use this corpus Treat the conversations as reference material,
+not as scripts that must be repeated word for word. Retrieve the most
+relevant passages, combine them with the farmer’s crop and location
+details, and explain the answer in simple language. If a question
+requires current information, such as today’s weather, mandi price,
+product availability, scheme eligibility, or pesticide registration,
+retrieve that information from a trusted live source. This document does
+not contain live data.
+
+============================================================ PART 1.
+UNDERSTANDING A FARM AND A FARMER’S QUESTION
+============================================================
+
+Conversation: Getting the right details before giving advice
+
+Farmer: My crop is not growing properly. What should I do?
+
+Agricultural Assistant: I can help you think through the problem. First,
+please tell me which crop you are growing, where your farm is located,
+and how old the crop is. Is the whole field affected, or only a few
+plants? Are the leaves yellow, curled, spotted, dry, or unusually small?
+Has there been heavy rain, hot weather, waterlogging, or a recent
+fertilizer or pesticide application?
+
+Farmer: Why do you need so many details? Can’t you just tell me which
+fertilizer to use?
+
+Agricultural Assistant: I understand that you want a quick solution. But
+slow growth can have many causes. The crop may need nutrients, or the
+roots may be damaged by waterlogging. The soil may be too acidic or
+alkaline. There may be a pest, disease, poor seed quality, unsuitable
+weather, or irrigation problem. Adding fertilizer without identifying
+the cause can waste money and sometimes make the problem worse. Let’s
+identify the likely cause first.
+
+Farmer: What information should I keep about my farm?
+
+Agricultural Assistant: Keep a simple farm record. Note the village or
+approximate farm location, field area, crop and variety, sowing or
+transplanting date, seed source, soil type if known, irrigation source,
+fertilizer applications, pest and disease observations, sprays, labour
+costs, and harvest quantity. Even a notebook is useful. If you use a
+digital application, the same information can be stored there. These
+records make future advice more accurate.
+
+Farmer: I do not know the exact soil type or soil nutrients.
+
+Agricultural Assistant: That is common. You can begin with what you
+know. Is the soil sandy and loose, sticky when wet, or somewhere in
+between? Does water drain quickly or remain in the field? For a reliable
+nutrient and pH assessment, arrange a soil test through an appropriate
+soil testing laboratory, agricultural department, university, or
+authorised service. Visual observation alone cannot accurately measure
+nitrogen, phosphorus, potassium, or soil pH.
+
+Guidance for the assistant: Ask only the most important follow-up
+questions. Do not overwhelm the farmer with a long form. Start with
+crop, location, crop age or stage, symptoms, affected area, and recent
+weather or farm operations. If the farmer cannot answer every question,
+provide cautious general guidance and explain what remains uncertain.
+
+Conversation: Understanding crop growth stages
+
+Farmer: What do you mean by crop growth stage?
+
+Agricultural Assistant: A crop passes through different stages during
+its life. Many crops begin with germination or establishment, then
+develop leaves and stems, produce branches, flower, form fruits or
+grains, fill those fruits or grains, and finally mature. The names and
+timing differ between crops. A tomato plant, a paddy crop, a mango tree,
+and a groundnut crop do not follow exactly the same schedule.
+
+Farmer: Why does the stage matter?
+
+Agricultural Assistant: Because the crop’s needs change. A young plant
+needs successful establishment and healthy roots. During vegetative
+growth, it develops leaves and stems. During flowering and fruit
+formation, water stress, heat, poor pollination, or nutrient imbalance
+can affect yield. During fruit or grain filling, the crop needs suitable
+conditions to develop quality and weight. Near harvest, the farmer must
+consider maturity, weather, market demand, labour, storage, and
+transport.
+
+Farmer: Can the application calculate the crop stage from a photograph?
+
+Agricultural Assistant: A photograph may help estimate visible growth
+stage for some crops, but it cannot always determine the exact age or
+variety. The system should combine the image with the farmer’s sowing
+date, crop type, variety, and field observations. It should show an
+estimate and allow the farmer to correct it.
+
+============================================================ PART 2.
+SOIL HEALTH AND SOIL TESTING
+============================================================
+
+Conversation: Why is soil testing important?
+
+Farmer: My neighbour uses a lot of fertilizer and gets a good harvest.
+Should I use the same amount?
+
+Agricultural Assistant: Not necessarily. Two nearby farms can have
+different soil conditions, crop varieties, irrigation, and previous
+nutrient applications. Applying the same fertilizer amount to every
+field may cause waste or nutrient imbalance. A soil test helps
+understand the soil’s condition and supports a more suitable nutrient
+plan.
+
+Farmer: What does a soil test tell me?
+
+Agricultural Assistant: Depending on the laboratory and test package, it
+may report soil pH, electrical conductivity, organic carbon, available
+nitrogen, phosphorus, potassium, and selected secondary or
+micronutrients. The report may also include recommendations for a
+particular crop. Read the units and interpretation carefully because
+results from different methods are not always directly comparable.
+
+Farmer: What is soil pH?
+
+Agricultural Assistant: Soil pH indicates how acidic or alkaline the
+soil is. It affects the availability of nutrients to plants and the
+activity of soil organisms. Some nutrients become less available when
+the pH is too low or too high. Different crops tolerate different pH
+ranges, so there is no single ideal value for every crop and soil.
+
+Farmer: If my soil is acidic, should I add lime?
+
+Agricultural Assistant: Lime may be recommended for certain acidic
+soils, but the quantity depends on soil test results, soil texture,
+crop, and the soil’s buffering capacity. Do not guess the quantity. A
+soil laboratory or agricultural specialist can interpret the result and
+recommend an appropriate material and application method. Liming is not
+a universal treatment for every field.
+
+Farmer: What if the soil is alkaline?
+
+Agricultural Assistant: The correct management depends on why the soil
+is alkaline and whether it is also saline or sodic. Water quality,
+drainage, soil structure, and the source of salts matter. A soil and
+irrigation-water test is useful. Do not apply amendments simply because
+someone says the soil is alkaline. Follow a site-specific
+recommendation.
+
+Conversation: Soil sampling
+
+Farmer: How should I collect soil for testing?
+
+Agricultural Assistant: First contact the testing laboratory or local
+agricultural service for its preferred sampling instructions. In
+general, collect several small samples from representative spots in the
+same field and combine them into one composite sample. Avoid unusual
+spots such as compost heaps, field edges, bunds, water channels,
+fertilizer piles, and places where manure was recently concentrated. Use
+clean tools and a clean container. The sampling depth depends on the
+crop and the laboratory’s protocol. Keep different fields or clearly
+different soil zones separate.
+
+Farmer: Can I mix soil from all my fields into one bag?
+
+Agricultural Assistant: It is better not to mix fields that have
+different crops, soil types, management histories, or drainage. A single
+mixed sample may hide important differences. Label each sample with the
+field name, location, crop, date, and any other details requested by the
+laboratory.
+
+Conversation: Organic matter and compost
+
+Farmer: What is organic matter, and why do people say it improves soil?
+
+Agricultural Assistant: Organic matter comes from decomposed plant and
+animal materials. It can improve soil structure, water-holding capacity,
+aeration, and biological activity. It helps soil aggregates remain
+stable and can contribute nutrients as it decomposes. The benefit
+develops over time; compost is not an instant cure for every crop
+problem.
+
+Farmer: Is farmyard manure the same as compost?
+
+Agricultural Assistant: They are related organic inputs, but their
+composition and preparation can differ. Well-decomposed farmyard manure,
+compost, vermicompost, green manure, and crop residues are all used in
+soil management. Their nutrient content varies. Fresh or poorly
+decomposed material may create problems, including temporary nutrient
+competition, weed seeds, or undesirable organisms. Use properly prepared
+material and follow local recommendations.
+
+Farmer: Can I burn crop residues?
+
+Agricultural Assistant: Burning residues can cause air pollution,
+destroy useful organic material, and create health and environmental
+problems. Where practical, consider options such as chopping and
+incorporating suitable residues, composting, mulching, using
+residue-management equipment, or other locally recommended uses. The
+best method depends on the crop, residue, time available, machinery, and
+the next crop.
+
+============================================================ PART 3.
+PLANT NUTRIENTS AND FERTILIZER MANAGEMENT
+============================================================
+
+Conversation: Understanding NPK
+
+Farmer: I see NPK written on fertilizer bags. What does it mean?
+
+Agricultural Assistant: NPK refers to nitrogen, phosphorus, and
+potassium, three major plant nutrients.
+
+Nitrogen supports leaf and stem growth and is part of chlorophyll and
+proteins. Too little nitrogen may cause older leaves to become pale or
+yellow and can reduce growth. Too much nitrogen can cause excessive
+vegetative growth, weak plants, delayed maturity, lodging in some crops,
+or greater disease and pest susceptibility.
+
+Phosphorus supports energy transfer, root development, flowering, and
+seed formation. Deficiency can restrict growth and may sometimes cause
+dark green or purplish leaves, although symptoms vary with crop and
+temperature.
+
+Potassium supports water regulation, enzyme activity, stress tolerance,
+and crop quality. Deficiency may cause leaf-edge yellowing or scorching
+in some crops, but symptoms are not identical across species.
+
+Farmer: Can I identify the exact missing nutrient from leaf colour?
+
+Agricultural Assistant: Leaf symptoms can suggest a nutrient problem,
+but they are not proof. Disease, water stress, root damage, pH,
+salinity, and several nutrient deficiencies can look similar. Soil
+testing, plant tissue testing where appropriate, crop history, and field
+inspection provide stronger evidence.
+
+Conversation: Why more fertilizer is not always better
+
+Farmer: If a little fertilizer helps, will a larger amount give me a
+larger harvest?
+
+Agricultural Assistant: No. More fertilizer does not automatically mean
+more yield. Excess fertilizer can damage roots, increase salt
+concentration, cause nutrient imbalance, contaminate water, increase
+production costs, and sometimes reduce crop quality. The right amount
+depends on crop, yield target, soil test, previous applications,
+irrigation, and local recommendations.
+
+Farmer: How should I decide the fertilizer amount?
+
+Agricultural Assistant: Use a crop-specific recommendation based on soil
+testing and local agricultural guidance. Check the nutrient content on
+the bag, not just the brand name. Different products contain different
+percentages of nutrients. Record the amount applied and the date. If a
+recommendation is given in kilograms of nutrient per hectare but the
+product is sold as a fertilizer blend, the calculation must account for
+the product’s nutrient percentage and the field area. Ask a qualified
+adviser to verify calculations if you are unsure.
+
+Farmer: Should I apply all fertilizer at once?
+
+Agricultural Assistant: Not always. Some crops benefit from split
+applications, especially when nutrients can be lost through leaching,
+runoff, or volatilisation, or when crop demand changes through the
+season. The correct schedule depends on the crop and local
+recommendation. Do not copy a schedule from a different crop or region.
+
+Conversation: Fertilizer application safety
+
+Farmer: What should I remember when applying fertilizer?
+
+Agricultural Assistant: Read the product label and follow the
+recommended crop, rate, timing, placement, and precautions. Use clean
+measuring equipment. Avoid spilling fertilizer into wells, ponds,
+streams, and drainage channels. Do not mix products unless the label or
+a qualified adviser confirms compatibility. Store fertilizer in its
+original labelled packaging in a dry, secure place, away from children,
+animals, food, and drinking water. Wash hands after handling.
+
+Farmer: Can I use fertilizer that has become wet?
+
+Agricultural Assistant: It depends on the product and how it was stored.
+Some fertilizers cake or change physically after absorbing moisture. Do
+not assume the product is still suitable. Check the label and ask the
+supplier or manufacturer. Never use an unidentified or unlabelled
+material.
+
+Conversation: Micronutrients
+
+Farmer: What are micronutrients?
+
+Agricultural Assistant: Micronutrients are nutrients plants need in
+smaller quantities, but they are still essential. Examples include zinc,
+iron, boron, manganese, copper, molybdenum, chlorine, and nickel. A
+deficiency can affect growth, flowering, fruit formation, or quality.
+However, excess amounts can also be harmful. Use soil or plant test
+information and crop-specific advice before applying micronutrient
+products.
+
+============================================================ PART 4.
+WATER MANAGEMENT AND IRRIGATION
+============================================================
+
+Conversation: How often should I irrigate?
+
+Farmer: How many days should I wait between irrigations?
+
+Agricultural Assistant: There is no single irrigation interval for every
+crop. It depends on crop type, growth stage, soil texture, rooting
+depth, weather, rainfall, irrigation method, and water availability.
+Sandy soils generally drain faster than many clay soils, but field
+conditions vary. Crops may need different water amounts during
+flowering, fruit development, or grain filling.
+
+Farmer: How do I know whether the crop needs water?
+
+Agricultural Assistant: Observe soil moisture in the root zone, crop
+appearance, recent rainfall, and weather forecasts. Soil moisture
+sensors can help when properly installed and interpreted. A wilted plant
+does not always mean the soil is dry; roots may be damaged or
+waterlogged. Check the soil before irrigating.
+
+Farmer: Can I irrigate just before heavy rain?
+
+Agricultural Assistant: If useful rainfall is expected, additional
+irrigation may be unnecessary. Check the reliability of the forecast and
+the current soil moisture. Avoid waterlogging, runoff, and erosion. The
+decision should consider the crop’s sensitivity and the amount of rain
+expected.
+
+Conversation: Drip irrigation
+
+Farmer: What is drip irrigation?
+
+Agricultural Assistant: Drip irrigation delivers water near the plant
+root zone through pipes and emitters. It can improve water-use
+efficiency when properly designed and maintained. It may also support
+precise nutrient application through fertigation where permitted and
+appropriately managed.
+
+Farmer: Is drip irrigation suitable for every farm?
+
+Agricultural Assistant: It is useful for many crops, but suitability
+depends on crop spacing, field layout, water quality, filtration needs,
+cost, maintenance capacity, and available support. Emitters can clog,
+pipes can leak, and uneven pressure can create uneven irrigation. A
+system should be designed for the farm rather than purchased only
+because it is popular.
+
+Conversation: Waterlogging
+
+Farmer: My field has standing water after rain. What should I do?
+
+Agricultural Assistant: Waterlogging reduces oxygen around roots and can
+cause yellowing, wilting, root damage, and increased disease risk. If
+safe and feasible, restore drainage using locally suitable field
+channels or other recommended methods. Avoid walking or operating heavy
+machinery on very wet soil if it may cause compaction. Check whether the
+crop has suffered root damage and seek local advice for severe or
+persistent waterlogging.
+
+============================================================ PART 5.
+WEATHER, CLIMATE AND FARM DECISIONS
+============================================================
+
+Conversation: Using weather forecasts
+
+Farmer: The weather application says rain is expected. Can I trust it
+completely?
+
+Agricultural Assistant: Forecasts are useful but not perfect. Weather
+can vary across short distances, and forecast confidence changes with
+time. Use forecasts as decision support, not as a guarantee. Check the
+forecast issue time, location, expected rainfall range, and warning
+level. Combine it with what you observe in your field.
+
+Farmer: What farm activities can weather affect?
+
+Agricultural Assistant: Weather can affect sowing, transplanting,
+irrigation, fertilizer application, pesticide application, flowering,
+pollination, harvesting, drying, storage, and transport. Heavy rain can
+wash away inputs or damage crops. High winds can affect spraying and
+cause lodging or physical damage. Heat can cause flower drop, sunscald,
+or water stress in sensitive crops. Humid conditions can favour some
+fungal diseases.
+
+Farmer: Should I spray before rain?
+
+Agricultural Assistant: Do not make that decision from a general rule.
+The product label specifies rainfastness, application conditions, and
+other restrictions. Rain shortly after application may reduce
+effectiveness or increase runoff, depending on the product. Wind,
+temperature, humidity, pollinator activity, and worker safety also
+matter. Follow the label and local expert advice.
+
+Conversation: Heat stress
+
+Farmer: My plants are wilting during very hot afternoons. Is that always
+a disease?
+
+Agricultural Assistant: Not necessarily. High temperature and high
+evaporative demand can cause temporary midday wilting, especially when
+roots cannot supply water quickly enough. Check whether plants recover
+in the evening and inspect soil moisture. Persistent wilting, root
+damage, vascular disease, salinity, or waterlogging can also cause
+symptoms. Do not diagnose from one observation alone.
+
+Farmer: What can I do during a heatwave?
+
+Agricultural Assistant: Follow local crop-specific advisories. Maintain
+appropriate soil moisture without overwatering, use suitable mulching
+where recommended, avoid unnecessary disturbance, and protect sensitive
+nursery plants where practical. Irrigation timing should follow local
+guidance and water availability. Do not apply unverified mixtures or
+chemicals as a heat treatment.
+
+============================================================ PART 6.
+COMMON PESTS AND INTEGRATED PEST MANAGEMENT
+============================================================
+
+Conversation: What is integrated pest management?
+
+Farmer: I see insects on my crop. Should I spray immediately?
+
+Agricultural Assistant: Not every insect is harmful. Some insects are
+pollinators or natural enemies that feed on crop pests. Integrated Pest
+Management, or IPM, combines several methods to manage pests while
+reducing unnecessary pesticide use.
+
+Farmer: What are the main steps?
+
+Agricultural Assistant: First, identify the pest correctly. Then monitor
+its presence and damage. Check whether the pest level is important
+enough to require action. Use suitable cultural, mechanical, biological,
+and, when necessary, chemical methods. Evaluate the result and keep
+records.
+
+Farmer: What is a beneficial insect?
+
+Agricultural Assistant: Beneficial insects include predators and
+parasitoids that naturally reduce pest populations. Ladybird beetles,
+lacewings, certain wasps, and other organisms may help control pests.
+Their presence is one reason to avoid unnecessary broad-spectrum
+pesticide use.
+
+Farmer: What are cultural methods?
+
+Agricultural Assistant: Cultural methods change farm practices to make
+conditions less favourable for pests. Examples include crop rotation,
+field sanitation, timely sowing, removal of heavily infested plant
+material where appropriate, balanced nutrition, resistant varieties,
+proper spacing, and management of alternate host plants.
+
+Farmer: What are mechanical methods?
+
+Agricultural Assistant: Mechanical methods physically remove or block
+pests. Depending on the crop and pest, these may include hand-picking,
+barriers, traps, nets, or removal of affected plant parts. Use methods
+that are practical and safe for the crop.
+
+Farmer: What are biological methods?
+
+Agricultural Assistant: Biological control uses natural enemies or
+approved biological products to suppress pests. Their effectiveness
+depends on correct identification, timing, environmental conditions,
+product quality, and compatibility with other practices. Buy biological
+products from reliable sources and follow their instructions.
+
+Conversation: Monitoring pests
+
+Farmer: How often should I inspect my field?
+
+Agricultural Assistant: Inspect regularly, with frequency based on crop
+stage, pest risk, and local advice. Look at different parts of the field
+rather than only the edge. Examine upper and lower leaf surfaces,
+growing points, flowers, fruits, and stems as relevant. Record what you
+observe and take clear photographs. A consistent monitoring record helps
+identify changes over time.
+
+Farmer: What should I record?
+
+Agricultural Assistant: Record the date, field, crop stage, pest or
+symptom observed, approximate number of affected plants or sample units,
+distribution in the field, weather, and action taken. If you use traps,
+record the trap type, location, and counts. Follow a recognised local
+sampling method when available.
+
+============================================================ PART 7.
+PLANT DISEASES AND CROP HEALTH
+============================================================
+
+Conversation: Understanding leaf symptoms
+
+Farmer: My leaves have yellow spots. What disease is it?
+
+Agricultural Assistant: Yellow spots can have several causes. They may
+be linked to a fungal or bacterial disease, a virus, insect feeding,
+nutrient deficiency, chemical injury, sun damage, or water stress. I
+need more information. Which crop is affected? Are the spots circular or
+irregular? Do they have dark edges? Are they on older or younger leaves?
+Are stems or fruits also affected? Is the problem spreading?
+
+Farmer: Can I upload a photograph?
+
+Agricultural Assistant: Yes. Take a clear photograph in natural light if
+possible. Include one close view of the symptom and another showing the
+whole plant. Avoid strong filters. If practical, photograph both the
+upper and lower leaf surfaces. Also share the crop name, variety if
+known, location, crop age, and recent spray history.
+
+Farmer: Will the AI always identify the disease correctly?
+
+Agricultural Assistant: No. An image model can make mistakes, especially
+with poor photographs, unfamiliar varieties, mixed infections, early
+symptoms, or diseases not represented in its training data. Treat the
+result as a preliminary assessment. A low-confidence result should be
+labelled uncertain and referred for expert review when necessary.
+
+Conversation: Preventing disease spread
+
+Farmer: Some plants are infected. Should I remove them?
+
+Agricultural Assistant: It depends on the disease and crop. For some
+diseases, removing severely affected plants or plant parts can reduce
+sources of infection. For others, removal may not help or may spread
+contaminated material if handled incorrectly. Ask a local crop
+specialist before taking large-scale action. Clean tools appropriately,
+avoid moving contaminated soil or plant material between fields, and
+manage crop residues according to local recommendations.
+
+Farmer: Does crop rotation help?
+
+Agricultural Assistant: Crop rotation can reduce some soil-borne pests
+and diseases, especially when the next crop is not a suitable host. Its
+effectiveness depends on the pathogen’s survival, host range, soil
+conditions, and rotation length. It is not a complete solution for every
+disease.
+
+Conversation: Treatment tracking
+
+Farmer: I used a recommended treatment. How will I know whether it
+worked?
+
+Agricultural Assistant: Record the date, product or method, crop stage,
+affected area, and the result. Take photographs from similar angles and
+under similar lighting at follow-up. Compare new growth and the spread
+of symptoms rather than relying only on old damaged leaves. Some damaged
+leaves will not become healthy again even if the treatment is effective.
+Look for healthy new growth and whether new symptoms continue to appear.
+
+Farmer: When should I ask an expert?
+
+Agricultural Assistant: Seek expert help when the disease is spreading
+rapidly, a large part of the field is affected, the diagnosis is
+uncertain, the crop is valuable, treatment has failed, or the symptoms
+could be caused by a serious regulated pest or disease. Do not delay
+when the problem may affect neighbouring farms.
+
+============================================================ PART 8.
+SAFE AND RESPONSIBLE PESTICIDE USE
+============================================================
+
+Conversation: Choosing a pesticide
+
+Farmer: Which pesticide should I buy for my crop?
+
+Agricultural Assistant: First identify the pest or disease. A pesticide
+must be approved or registered for the relevant crop and target
+organism, and the product label must permit the intended use. Do not
+select a product only because a shopkeeper or neighbour recommends it.
+Check the current label, registration information, crop, target pest,
+application rate, protective equipment, waiting period, and
+restrictions. A qualified local agricultural officer can help verify the
+choice.
+
+Farmer: Can I use a pesticide meant for another crop?
+
+Agricultural Assistant: Do not assume that a product approved for one
+crop is safe or permitted for another. Crop safety, residue limits,
+application rates, and legal approvals may differ. Use only products
+whose current label permits the intended crop and use.
+
+Farmer: Can I mix two pesticides to save time?
+
+Agricultural Assistant: Never assume that two products can be mixed.
+Some mixtures may reduce effectiveness, damage the crop, create
+hazardous exposure, or cause physical incompatibility. Mix products only
+when the labels or a qualified professional explicitly support the
+combination. Follow the specified mixing order and precautions where
+applicable.
+
+Conversation: Personal protection
+
+Farmer: What should I wear when spraying?
+
+Agricultural Assistant: Follow the product label’s personal protective
+equipment instructions. Depending on the product, this may include
+suitable gloves, protective clothing, eye protection, footwear, and a
+correctly specified respirator. Ordinary cloth masks are not
+automatically suitable for chemical vapours or aerosols. Avoid spraying
+into the wind and keep children, animals, and unprotected people away
+from the application area.
+
+Farmer: Can I eat or smoke while spraying?
+
+Agricultural Assistant: No. Do not eat, drink, or smoke while handling
+or applying pesticides. Wash hands and exposed skin after handling.
+Remove contaminated clothing carefully and wash it separately according
+to the label and local safety guidance. Store products in their original
+containers with labels intact.
+
+Farmer: What if pesticide gets on my skin or in my eyes?
+
+Agricultural Assistant: Stop exposure immediately and follow the product
+label’s first-aid instructions. Remove contaminated clothing. If the
+product contacts the eyes or skin, use the label’s specified rinsing
+instructions and seek medical advice promptly. Take the product
+container or label information to the healthcare professional if
+possible. If someone has breathing difficulty, seizures, collapse, or
+severe symptoms, seek emergency medical help immediately. Do not induce
+vomiting unless a medical professional or poison service specifically
+instructs you to do so.
+
+Conversation: Pre-harvest interval
+
+Farmer: Can I harvest vegetables the day after spraying?
+
+Agricultural Assistant: It depends on the exact product and its label.
+The pre-harvest interval is the required time between the last
+application and harvesting. It differs by active ingredient,
+formulation, crop, and permitted use. Never guess this period. Check the
+current product label and follow it exactly. If you do not know what was
+sprayed, do not assume the produce is safe to harvest or sell. Seek
+advice from an appropriate agricultural or food-safety authority.
+
+============================================================ PART 9.
+FRUIT MATURITY, HARVESTING AND QUALITY
+============================================================
+
+Conversation: What does ripe mean?
+
+Farmer: My application says a fruit is ripe. Does that mean I should
+harvest it immediately?
+
+Agricultural Assistant: Not always. Ripe for eating and mature enough to
+harvest are not always the same thing. Some fruits are harvested at
+mature-green or other defined maturity stages and ripen during transport
+or storage. Other fruits develop their best quality on the plant. The
+correct stage depends on the fruit species, variety, intended market,
+distance to buyer, storage conditions, and transport time.
+
+Farmer: Can colour tell the maturity?
+
+Agricultural Assistant: Colour can be useful for some fruits, but it is
+not enough by itself. Varieties differ, lighting changes how colour
+appears, and fruit maturity may also depend on size, firmness, days
+after flowering, internal quality, dry matter, or other crop-specific
+indicators. A computer vision model should be calibrated for the fruit
+and variety.
+
+Farmer: What should the AI result show?
+
+Agricultural Assistant: It should show the fruit type if recognised, the
+estimated maturity class, confidence, visible signs, and a clear
+explanation that the result is an estimate. If the image is unclear or
+the fruit is outside the model’s supported classes, the system should
+ask for another image or recommend manual assessment.
+
+Conversation: Harvesting at the right time
+
+Farmer: What happens if I harvest too early?
+
+Agricultural Assistant: Early harvesting may reduce size, flavour,
+colour development, weight, and market quality, depending on the crop.
+Some fruits may not ripen properly after harvest if picked before the
+appropriate physiological maturity stage.
+
+Farmer: What happens if I harvest too late?
+
+Agricultural Assistant: Late harvesting can increase the risk of
+softening, cracking, fruit drop, pest damage, disease, over-ripening, or
+field losses. The risk depends on crop and weather. Market prices and
+labour availability also matter.
+
+Farmer: How should I handle harvested produce?
+
+Agricultural Assistant: Handle produce gently. Avoid throwing or
+dropping it. Use clean containers that protect the produce from
+crushing. Keep harvested produce out of direct sun when appropriate.
+Separate damaged or diseased produce. Use suitable sorting, grading,
+ventilation, and packaging for the commodity. Clean tools and
+containers. Follow food safety and hygiene requirements.
+
+Conversation: Quality grading
+
+Farmer: Why do buyers ask for grades?
+
+Agricultural Assistant: Grades help buyers understand the quality and
+consistency of produce. Depending on the commodity, grading may consider
+size, shape, colour, maturity, firmness, visible defects, damage,
+cleanliness, and other standards. A grade should be based on an agreed
+and transparent method.
+
+Farmer: Can the application grade fruit from a photograph?
+
+Agricultural Assistant: It can estimate visible characteristics if the
+model is trained and validated for that commodity. A photograph cannot
+reliably measure every internal quality attribute, residue level, hidden
+damage, or exact weight. The platform should distinguish visual grading
+from laboratory testing or physical inspection.
+
+============================================================ PART 10.
+POST-HARVEST STORAGE AND SPOILAGE
+============================================================
+
+Conversation: Why does produce spoil?
+
+Farmer: My tomatoes became soft before I could sell them. Why?
+
+Agricultural Assistant: Produce continues to change after harvest.
+Respiration, moisture loss, microbial growth, physical injury,
+temperature, humidity, and handling conditions affect quality. Some
+fruits produce ethylene, a natural plant hormone involved in ripening.
+Poor ventilation, unsuitable temperature, rough handling, and delays can
+accelerate deterioration.
+
+Farmer: Can I store every fruit in the same cold room?
+
+Agricultural Assistant: No. Different fruits and vegetables have
+different temperature and humidity requirements. Some commodities can
+suffer chilling injury at temperatures that are too low. Some release
+ethylene and can affect nearby produce. Storage should follow
+commodity-specific guidance and the facility’s operating instructions.
+
+Farmer: What should I check before booking storage?
+
+Agricultural Assistant: Check the commodity suitability, temperature
+range, humidity management, cleanliness, capacity, charges, handling
+arrangements, duration, insurance or liability terms, and transport
+access. Confirm the actual availability before moving produce.
+
+Conversation: Reducing post-harvest loss
+
+Farmer: I am a small farmer. I cannot afford a cold storage facility.
+What can I do?
+
+Agricultural Assistant: You can still reduce losses through better
+harvesting, sorting, shade, clean crates, careful handling, timely sale,
+and suitable short-term storage. You can also explore shared storage
+through farmer producer organisations, cooperatives, collection centres,
+packhouses, or local service providers. The right option depends on the
+crop and local infrastructure.
+
+Farmer: Should I wash produce before selling?
+
+Agricultural Assistant: It depends on the crop, buyer specification,
+available clean water, drying facilities, and packaging requirements.
+Washing with contaminated water can create food safety problems. Wet
+produce packed without proper drying may spoil faster. Follow
+commodity-specific handling standards and buyer requirements.
+
+============================================================ PART 11.
+MARKET ACCESS, BUYERS AND SELLING
+============================================================
+
+Conversation: How should I decide where to sell?
+
+Farmer: A buyer offered me a price. How do I know whether it is fair?
+
+Agricultural Assistant: Compare the offer with recent prices for the
+same commodity, variety, quality, quantity, and market location. Also
+consider transport, loading, weighing, packaging, commission, payment
+timing, rejection conditions, and other deductions. A higher quoted
+price may not mean a higher final amount received.
+
+Farmer: What is the difference between a quoted price and the amount I
+receive?
+
+Agricultural Assistant: The final amount may change after weighing,
+quality grading, transport charges, market fees, commissions, and agreed
+deductions. Ask for the full terms in writing or in a message you can
+keep. Make sure the quantity, grade, price per unit, delivery location,
+and payment date are clear.
+
+Farmer: How can the application help me find buyers?
+
+Agricultural Assistant: It can create a listing with crop, variety,
+quantity, quality, location, expected availability, photographs, and
+price expectations. Buyers can search and send offers. You can compare
+offers and select one. The application should show buyer verification
+status and transaction history where available.
+
+Conversation: Group selling
+
+Farmer: I only have 100 kilograms, but the buyer wants 500 kilograms.
+What can I do?
+
+Agricultural Assistant: You may be able to join a collective sale with
+nearby farmers who have the same crop and acceptable quality. The
+platform can combine quantities while keeping each farmer’s contribution
+and payment separate.
+
+Farmer: What should we agree before joining?
+
+Agricultural Assistant: Agree on crop variety, quality standard,
+quantity, weighing method, price, collection date, transport cost,
+packaging, rejection rules, and payment allocation. Each farmer should
+know how much produce is included and how much money they will receive.
+Do not combine produce of very different quality without a transparent
+grading arrangement.
+
+Conversation: Buyer verification and fraud prevention
+
+Farmer: Someone says they will buy my produce but asks me to pay a
+registration fee first. Is that safe?
+
+Agricultural Assistant: Be careful. Verify the buyer’s identity and
+business details through reliable channels. Do not pay unexplained
+advance fees or share OTPs, passwords, or banking PINs. Use documented
+order terms and traceable payment methods. If the platform provides a
+verified-buyer badge, understand what was actually checked; verification
+is not a guarantee that every future transaction is risk-free.
+
+Farmer: What if the buyer refuses to pay?
+
+Agricultural Assistant: Keep the order confirmation, agreed terms,
+weighment records, delivery proof, messages, and payment details. Use
+the platform’s dispute process and seek help from the relevant market
+authority, farmer organisation, or legal support where appropriate. The
+platform should not promise recovery unless it has a real and lawful
+mechanism to do so.
+
+Conversation: Understanding mandi prices
+
+Farmer: What is the modal price?
+
+Agricultural Assistant: In market reporting, the modal price is
+generally the price at which the largest volume of transactions occurred
+during the reporting period. Minimum and maximum prices show the lower
+and upper reported prices. These figures can vary by market, quality,
+variety, and date. Always check the reporting time and unit.
+
+Farmer: Can the application tell me tomorrow’s exact price?
+
+Agricultural Assistant: No system can guarantee tomorrow’s exact market
+price. A model may estimate trends using historical prices, arrivals,
+seasonality, weather, and other factors, but the estimate can be wrong.
+Show forecasts as uncertain scenarios, not guaranteed prices.
+
+============================================================ PART 12.
+FARM EXPENSES, PROFIT AND FINANCIAL PLANNING
+============================================================
+
+Conversation: Calculating crop profit
+
+Farmer: I sold my crop for a good amount, but I still do not know
+whether I made a profit.
+
+Agricultural Assistant: To calculate profit, record all costs associated
+with the crop. Include seed, fertilizer, crop protection, labour,
+irrigation, machinery, land preparation, harvesting, packaging,
+transport, storage, market charges, and other expenses. Then compare the
+total cost with the money actually received from sales.
+
+Farmer: Should I include family labour?
+
+Agricultural Assistant: For a complete economic picture, it is useful to
+estimate the value of family labour even if no cash payment was made.
+You can maintain both cash expenses and estimated economic costs. This
+helps you understand the real cost of production.
+
+Farmer: What is break-even price?
+
+Agricultural Assistant: Break-even price is the approximate selling
+price per unit needed to cover the total cost, assuming the saleable
+quantity is known. If the crop has multiple grades or some produce is
+lost, calculate using the quantity actually sold or expected to be sold.
+Make sure all costs use consistent units.
+
+Farmer: Can the application tell me which crop will earn the most?
+
+Agricultural Assistant: It can compare scenarios using estimated input
+costs, expected yield, historical or current market information, water
+needs, crop duration, and risk. But it should not promise a profit.
+Prices, weather, pests, labour, and yield can change. Show assumptions
+clearly and encourage farmers to consider local suitability and risk.
+
+Conversation: Keeping farm accounts
+
+Farmer: I find it difficult to maintain accounts every day.
+
+Agricultural Assistant: Start with a simple record. You can record an
+expense by speaking it, selecting a category, or asking a village
+assistant to enter it. For example: “I spent 800 rupees on labour
+today.” The application can save the date, amount, category, crop, and
+description. Review the records weekly or after each major activity.
+
+============================================================ PART 13.
+SEEDS, VARIETIES AND CROP PLANNING
+============================================================
+
+Conversation: Selecting seeds
+
+Farmer: Which seed variety should I buy?
+
+Agricultural Assistant: The suitable variety depends on your location,
+season, soil, irrigation, crop duration, market preference, disease
+pressure, and local recommendations. Check whether the variety is
+suitable for your agro-climatic region and intended market. Purchase
+from a reliable and authorised source. Check the seed label, lot number,
+germination information, expiry or validity details where applicable,
+and any certification information.
+
+Farmer: Is the most expensive seed always the best?
+
+Agricultural Assistant: No. Price alone does not prove suitability or
+quality. Compare the variety’s characteristics, local performance, seed
+quality information, seller reliability, and suitability for your farm.
+Be cautious of unrealistic yield claims.
+
+Conversation: Seed storage
+
+Farmer: Can I keep leftover seeds for the next season?
+
+Agricultural Assistant: Storage life depends on crop species, seed
+moisture, packaging, temperature, humidity, and initial seed quality.
+Keep seeds labelled and stored in a clean, dry, cool place according to
+the supplier’s instructions. Some seeds lose viability quickly. Before
+sowing saved seed, check its condition and germination where
+appropriate. Do not assume all leftover seed will remain suitable.
+
+Conversation: Crop rotation and diversification
+
+Farmer: Why do agricultural officers recommend crop rotation?
+
+Agricultural Assistant: Growing different crops in sequence can help
+break pest and disease cycles, improve nutrient use, diversify income,
+and reduce dependence on one crop. The benefits depend on the crops
+selected and local conditions. Legumes can contribute biologically fixed
+nitrogen through suitable root bacteria, but the amount available to the
+next crop depends on biomass, residue management, and other factors.
+Rotation should be planned for local markets, water availability, and
+soil needs.
+
+============================================================ PART 14.
+POLLINATION, FLOWERING AND FRUIT SET
+============================================================
+
+Conversation: Flowers are falling
+
+Farmer: My crop is flowering, but many flowers are falling. Why?
+
+Agricultural Assistant: Flower drop can occur because of heat, cold,
+irregular watering, excessive vegetative growth, nutrient imbalance,
+poor pollination, pest damage, disease, or natural crop behaviour. The
+cause differs by crop. Tell me the crop, growth stage, recent
+temperature, irrigation pattern, and whether insects are visiting the
+flowers.
+
+Farmer: Can insects help my crop?
+
+Agricultural Assistant: Yes. Bees and other pollinators support
+pollination in many crops. Protect pollinators by avoiding unnecessary
+pesticide applications during flowering and following label
+restrictions. Where pesticide use is required, seek advice on
+pollinator-safe timing and methods. Do not spray flowering crops in a
+way that exposes bees or other beneficial insects to harmful chemicals.
+
+Farmer: Why are fruits forming but remaining small?
+
+Agricultural Assistant: Small fruit can be related to variety, poor
+pollination, water stress, nutrient imbalance, excessive fruit load,
+pests, disease, or environmental stress. Check whether the crop has
+enough suitable water and whether the problem affects all fruits or only
+certain branches or plants. A local specialist can help distinguish the
+cause.
+
+============================================================ PART 15.
+WEEDS AND FIELD MANAGEMENT
+============================================================
+
+Conversation: Why should I control weeds?
+
+Farmer: There are many weeds in my field. Are they really harmful?
+
+Agricultural Assistant: Weeds can compete with crops for light, water,
+nutrients, and space. Some weeds host pests or diseases and can
+interfere with harvesting. However, not every plant growing between crop
+rows is automatically harmful. Management depends on the crop, weed
+species, density, and growth stage.
+
+Farmer: What are the ways to manage weeds?
+
+Agricultural Assistant: Methods include clean seed, crop rotation,
+timely land preparation, suitable spacing, mulching, hand weeding,
+mechanical cultivation, cover crops, and approved herbicides when
+necessary. Integrated weed management combines suitable methods over
+time.
+
+Farmer: Can I use any herbicide on any crop?
+
+Agricultural Assistant: No. Herbicide selectivity and permitted use
+differ. A product may damage the crop if applied incorrectly or to the
+wrong crop stage. Follow the current label and local agricultural
+advice. Avoid drift onto neighbouring crops, water bodies, and sensitive
+areas.
+
+============================================================ PART 16.
+LIVESTOCK AND MIXED FARMING
+============================================================
+
+Conversation: Integrating crops and livestock
+
+Farmer: I keep cattle along with farming. Can the application help with
+both?
+
+Agricultural Assistant: A broader farm management platform can record
+livestock information as well as crop information. It may include animal
+identification, vaccination reminders, feed records, breeding records,
+milk production, and veterinary contacts. However, animal health
+diagnosis and treatment should be handled by qualified veterinary
+professionals.
+
+Farmer: Can I use animal manure in my field?
+
+Agricultural Assistant: Properly managed manure can contribute organic
+matter and nutrients. Its nutrient content varies with animal diet,
+bedding, storage, and handling. Poorly managed manure can carry
+pathogens, create odour, contaminate water, or cause nutrient losses.
+Composting or other approved treatment and safe application timing are
+important. Follow food safety and local manure-management guidance.
+
+Farmer: My animal is sick. Can the crop AI diagnose it?
+
+Agricultural Assistant: A plant disease model should not be used to
+diagnose animals. Livestock health requires a separate veterinary
+workflow and suitable expertise. If an animal is seriously ill, unable
+to stand, having difficulty breathing, bleeding, or showing severe
+symptoms, contact a veterinarian promptly.
+
+============================================================ PART 17.
+FARMER ORGANISATIONS AND SHARED SERVICES
+============================================================
+
+Conversation: What is an FPO?
+
+Farmer: I have heard people talk about an FPO. What does it mean?
+
+Agricultural Assistant: A Farmer Producer Organisation is a collective
+organisation formed by farmers to improve their ability to access
+inputs, services, markets, processing, storage, and other opportunities.
+The legal structure and services vary. Farmers should understand
+membership conditions, governance, fees, responsibilities, and
+benefit-sharing arrangements before joining.
+
+Farmer: How can a digital agriculture platform support an FPO?
+
+Agricultural Assistant: It can help an FPO register member farmers,
+collect crop and expected harvest information, aggregate produce,
+coordinate quality grading, organise transport, negotiate with buyers,
+manage input orders, and maintain transaction records. It can also help
+members access expert advice and shared equipment.
+
+Conversation: Sharing equipment
+
+Farmer: I need a tractor only for one day. Buying one is too expensive.
+
+Agricultural Assistant: A verified equipment rental marketplace can help
+you find nearby tractor owners or service providers. Check the hourly or
+daily rate, operator charges, fuel, transport, deposit, booking time,
+cancellation terms, and responsibility for damage. Confirm the equipment
+is suitable and safe for the intended work.
+
+Farmer: What should the vendor dashboard include?
+
+Agricultural Assistant: Vendors should be able to register equipment,
+provide photos and specifications, set availability, publish transparent
+rates, accept or reject booking requests, record completed jobs, and
+manage customer complaints. Farmers should be able to see verification
+status and booking terms before confirming.
+
+============================================================ PART 18.
+FARM INSURANCE, DISASTER SUPPORT AND GOVERNMENT SERVICES
+============================================================
+
+Conversation: Crop insurance
+
+Farmer: Heavy rain damaged my crop. Can I get compensation?
+
+Agricultural Assistant: Eligibility depends on the insurance policy,
+notified crop and area, enrolment status, cause of loss, reporting
+deadline, and applicable scheme rules. Keep your policy details, crop
+records, photographs, date of damage, and other required documents.
+Contact the official insurance channel or local agriculture department
+promptly. Do not rely on an unofficial message about eligibility.
+
+Farmer: Can the application file my claim automatically?
+
+Agricultural Assistant: It may help organise documents, explain the
+process, create reminders, and guide you to official claim channels.
+Actual submission requires the permitted integration, farmer consent,
+correct documents, and compliance with the scheme’s current process.
+Never claim that a submission is complete unless the official system
+confirms it.
+
+Conversation: Government agricultural schemes
+
+Farmer: Which government scheme can help me?
+
+Agricultural Assistant: It depends on your state, landholding or tenancy
+situation, crop, income category where relevant, social eligibility
+criteria, and the purpose of support. Schemes change over time. The
+assistant should ask your state and the type of help you need, then
+retrieve current information from official government sources.
+
+Farmer: Someone sent me a link asking for my bank OTP to receive a
+subsidy.
+
+Agricultural Assistant: Do not share an OTP, PIN, password, or full
+banking credentials with anyone. Verify the scheme through its official
+government website, local government office, bank, or authorised service
+centre. Be careful of fake registration links and requests for
+unexplained fees.
+
+Conversation: Natural disasters
+
+Farmer: My field was flooded. What should I do first?
+
+Agricultural Assistant: First protect people and animals. Do not enter
+floodwater if there may be electrical hazards, unstable ground, or
+dangerous currents. Follow local emergency instructions. Once it is
+safe, document the damage, note the affected area, and contact the local
+agriculture department or insurance provider as applicable. Avoid eating
+or selling produce that may be contaminated until it has been assessed
+under relevant food safety guidance.
+
+============================================================ PART 19.
+DIGITAL AGRICULTURE FOR FARMERS WITH LIMITED SMARTPHONE ACCESS
+============================================================
+
+Conversation: I do not know how to use an application
+
+Farmer: I have a basic mobile phone. I cannot use a complicated
+application.
+
+Agricultural Assistant: You should still be able to access important
+agricultural information. A platform can provide a telephone-based
+service, voice menu, SMS alerts, and assistance through a village
+agricultural assistant or a nearby service centre. You should not have
+to learn a complex smartphone interface just to ask about your crop.
+
+Farmer: How does a missed-call service work?
+
+Agricultural Assistant: You call a designated number and disconnect. The
+platform recognises the registered number and may call you back. A voice
+menu can guide you through options using the phone keypad. The exact
+service depends on the telephony provider and whether your number has
+been registered with consent.
+
+Farmer: Can the system speak in my language?
+
+Agricultural Assistant: It should support selected regional languages
+where reliable speech recognition and voice output are available. The
+platform should allow you to choose your preferred language. If
+automatic language recognition is uncertain, it should ask you to select
+the language rather than guessing.
+
+Conversation: Voice messages
+
+Farmer: I cannot type a long question. Can I speak?
+
+Agricultural Assistant: Yes, on a supported smartphone or through a
+telephone service. You can describe the problem in your own words. The
+system should convert speech to text, identify the crop and concern, and
+ask a short follow-up question if needed. It should read the answer
+aloud when possible.
+
+Farmer: What if the system misunderstands me?
+
+Agricultural Assistant: It should repeat the important details and ask
+you to confirm them. For example: “I heard that your chilli leaves are
+curling. Is that correct?” You should be able to correct the crop,
+symptom, or location.
+
+Conversation: Village agricultural assistant
+
+Farmer: Can someone help me use the service?
+
+Agricultural Assistant: A trained village agricultural assistant can
+help you register, record crop details, take photographs, create a
+disease case, find buyers, and access agricultural services. You should
+be told what information is being entered and be able to review
+important details. The assistant should not make unauthorised decisions
+or control your money.
+
+Farmer: What if the assistant enters the wrong crop or quantity?
+
+Agricultural Assistant: The system should allow corrections and maintain
+a record of important changes. Before a listing or order is confirmed,
+the farmer should hear or see the crop, quantity, price, and other key
+terms in a language they understand.
+
+============================================================ PART 20.
+HOW A RAG AGRICULTURAL ASSISTANT SHOULD RESPOND
+============================================================
+
+Conversation: A farmer asks a vague question
+
+Farmer: My crop is dying. Tell me a medicine.
+
+Good assistant response: “I am sorry your crop is having trouble. I do
+not want to suggest the wrong medicine. Which crop is it, and what
+changes are you seeing? Are the leaves yellow, spotted, curled, or dry?
+Is the problem affecting a few plants or most of the field? If you can,
+share a clear photograph of the whole plant and one close photograph of
+the affected part.”
+
+Why this is good: It avoids guessing, asks relevant questions, and seeks
+evidence before recommending treatment.
+
+Poor assistant response: “Spray pesticide X immediately.”
+
+Why this is poor: It assumes a diagnosis, may cause crop damage, can
+expose people and the environment to unnecessary chemicals, and may
+recommend an unapproved use.
+
+Conversation: The farmer asks for a fertilizer dose
+
+Farmer: How much urea should I apply to one acre?
+
+Good assistant response: “The correct amount depends on your crop, crop
+stage, soil test, previous fertilizer applications, and local
+recommendation. Which crop are you growing, and how old is it? If you
+have a soil test or nutrient recommendation, share it. I can help you
+understand the information, but I should not guess a fertilizer dose
+without the necessary details.”
+
+Why this is good: It recognises that fertilizer rates are crop- and
+context-specific.
+
+Conversation: The farmer asks about a current price
+
+Farmer: What is today’s tomato price in my market?
+
+Good assistant response: “I can help you compare prices, but today’s
+price needs live market information. Which market or district do you
+want to check? I will also need to distinguish the reported market price
+from a confirmed buyer offer. Please check the date, unit, quality and
+market before making a selling decision.”
+
+Why this is good: The corpus cannot provide today’s live price. The RAG
+system must use an up-to-date market source.
+
+Conversation: The farmer asks about a disease from an image
+
+Farmer: This leaf has brown spots. What is the disease?
+
+Good assistant response: “Brown spots can be caused by different
+diseases or by non-disease problems. Please tell me the crop, location
+and crop age. A clear photograph of the upper and lower leaf surfaces
+and the whole plant will help. I can provide a preliminary assessment,
+but a photograph alone may not confirm the disease.”
+
+Why this is good: It distinguishes a visual symptom from a confirmed
+diagnosis.
+
+Conversation: The farmer asks whether a fruit is ready
+
+Farmer: My mango looks yellow. Can I harvest it?
+
+Good assistant response: “Colour is one clue, but mango maturity varies
+by variety and growing conditions. What variety is it, and is the fruit
+intended for local sale or long-distance transport? The correct harvest
+stage may differ. A maturity assessment should consider more than colour
+alone.”
+
+Why this is good: It avoids treating colour as a universal maturity
+indicator.
+
+============================================================ PART 21.
+AGRICULTURAL INFORMATION THE ASSISTANT SHOULD COLLECT
+============================================================
+
+For useful agricultural guidance, the system should maintain an optional
+farmer and farm profile.
+
+Farmer information: - Preferred name. - Preferred language. - Village,
+district and state. - Preferred communication method. - Smartphone or
+basic phone access, if voluntarily provided. - Whether the farmer
+prefers voice or text.
+
+Farm information: - Farm identifier. - Approximate location. - Farm area
+and unit. - Soil type if known. - Irrigation source. - Water
+availability. - Drainage conditions. - Farm management practices.
+
+Crop information: - Crop name. - Variety. - Sowing or transplanting
+date. - Crop growth stage. - Area planted. - Seed source. - Previous
+crops. - Fertilizer applications. - Irrigation history. - Pest and
+disease history. - Expected harvest period.
+
+Problem information: - Symptom description. - Date first noticed. -
+Number or percentage of plants affected, if known. - Field
+distribution. - Recent weather. - Recent farm operations. - Images. -
+Previous treatment.
+
+Marketplace information: - Crop quantity. - Quality grade. - Harvest
+date. - Location. - Buyer requirements. - Agreed price. - Delivery
+method.
+
+Collect only information needed for the service. Do not require a farmer
+to provide every detail before receiving basic guidance.
+
+============================================================ PART 22.
+AGRICULTURAL GLOSSARY IN SIMPLE LANGUAGE
+============================================================
+
+Agriculture: The practice of growing crops, raising livestock, and
+producing food and other farm products.
+
+Agro-climatic zone: A region with broadly similar climate, soil, and
+agricultural conditions.
+
+Germination: The process by which a seed begins to grow.
+
+Seedling: A young plant that has developed from a seed.
+
+Transplanting: Moving young plants from a nursery or one location to the
+field.
+
+Vegetative growth: The stage when a plant develops roots, stems, and
+leaves.
+
+Flowering: The stage when a plant produces flowers.
+
+Pollination: Transfer of pollen that enables fertilisation in flowering
+plants.
+
+Fruit set: The stage when a flower develops into a young fruit.
+
+Maturity: A stage when a crop or fruit has developed sufficiently for
+its intended use or harvest.
+
+Harvesting: Collecting the mature crop or produce.
+
+Yield: The quantity of crop produced from a given area.
+
+Crop rotation: Growing different crops in a planned sequence on the same
+land.
+
+Intercropping: Growing two or more crops together in a planned
+arrangement.
+
+Mulching: Covering the soil surface with suitable organic or other
+materials to manage moisture, weeds, and soil conditions.
+
+Compost: Decomposed organic material used to improve soil.
+
+Farmyard manure: Organic manure made from livestock dung, urine, and
+bedding material after suitable handling and decomposition.
+
+Soil pH: A measure of how acidic or alkaline soil is.
+
+Salinity: The presence of excessive soluble salts in soil or water.
+
+Soil organic carbon: Carbon contained in soil organic matter, used as an
+indicator of soil condition.
+
+Nitrogen: A major plant nutrient important for leaf and stem growth.
+
+Phosphorus: A major plant nutrient involved in energy transfer, roots,
+and reproductive development.
+
+Potassium: A major plant nutrient involved in water regulation and many
+plant processes.
+
+Micronutrients: Essential plant nutrients required in small quantities.
+
+Fertigation: Applying suitable soluble nutrients through an irrigation
+system.
+
+Drip irrigation: Applying water slowly near plant roots through
+emitters.
+
+Waterlogging: A condition where excess water fills soil pores and
+reduces oxygen around roots.
+
+Evapotranspiration: Water loss through evaporation from soil and
+transpiration from plants.
+
+Pest: An organism that causes harm to crops or stored produce.
+
+Pathogen: An organism or infectious agent that causes disease.
+
+Fungus: A group of organisms that includes many plant disease-causing
+species as well as beneficial species.
+
+Bacteria: Microscopic organisms; some cause plant diseases and others
+are beneficial.
+
+Virus: An infectious agent that can cause plant disease and often
+depends on living host cells to multiply.
+
+Integrated Pest Management: A strategy that combines monitoring and
+multiple management methods to control pests responsibly.
+
+Biological control: Using natural enemies or biological agents to reduce
+pests or diseases.
+
+Pre-harvest interval: The required time between the last pesticide
+application and harvest, as specified by the product label.
+
+Post-harvest loss: Reduction in quantity or quality after harvesting.
+
+Grading: Sorting produce according to agreed quality characteristics.
+
+Cold chain: Temperature-managed handling and transport from production
+to storage, processing, or sale.
+
+Mandi: An agricultural wholesale market.
+
+Modal price: The price at which the largest volume of reported
+transactions occurred in a market during a reporting period.
+
+FPO: Farmer Producer Organisation, a collective organisation formed by
+farmers.
+
+IVR: Interactive Voice Response, a telephone system that lets callers
+use voice or keypad choices to access information.
+
+RAG: Retrieval-Augmented Generation, a method in which an AI system
+retrieves relevant information from a knowledge collection before
+generating an answer.
+
+============================================================ PART 23.
+RULES FOR THE AGRICULTURAL RAG SYSTEM
+============================================================
+
+1.  Give priority to retrieved evidence relevant to the farmer’s crop,
+    location, growth stage, and question.
+2.  Do not treat general agricultural information as a crop-specific
+    prescription.
+3.  Ask for missing information when it changes the safety or
+    correctness of an answer.
+4.  Use simple language and explain technical words.
+5.  Prefer short, practical steps for farmers who use voice or basic
+    phones.
+6.  Provide more detailed explanations when the farmer asks for them.
+7.  Distinguish confirmed information, estimates, model predictions, and
+    assumptions.
+8.  Never invent live weather, market prices, stock availability, scheme
+    rules, or government approvals.
+9.  Use official and current sources for changing regulatory or scheme
+    information.
+10. Never invent pesticide rates, mixing instructions, or pre-harvest
+    intervals.
+11. Never recommend a pesticide solely from an uncertain image
+    classification.
+12. Encourage expert confirmation for severe, spreading, unusual, or
+    uncertain crop problems.
+13. Do not claim that a crop is safe for consumption based only on an
+    image.
+14. Do not claim that a buyer, seller, or vendor is verified unless the
+    platform’s verification record supports it.
+15. Protect personal and farm location information.
+16. Never ask for OTPs, passwords, PINs, or unnecessary financial
+    credentials.
+17. If the farmer cannot read, offer a concise spoken explanation or
+    assisted service.
+18. If the farmer has no smartphone, offer the available telephone, SMS,
+    or village-assistant channel.
+19. Explain uncertainty honestly.
+20. When evidence is missing, say what needs to be checked rather than
+    inventing an answer.
+
+============================================================ PART 24.
+SAMPLE EVERYDAY FARMER CONVERSATIONS
+============================================================
+
+Conversation: Yellow leaves in tomato
+
+Farmer: My tomato leaves are turning yellow. Is it because of less
+fertilizer?
+
+Assistant: It could be related to nutrients, but yellow leaves can also
+occur because of overwatering, root damage, disease, pests, or natural
+ageing. Are the older leaves yellowing first, or are the young leaves
+yellowing? Is the whole leaf yellow, or are the veins remaining green?
+Is the soil wet or dry?
+
+Farmer: The older leaves are yellow and the soil is wet.
+
+Assistant: Wet soil may be reducing oxygen around the roots, especially
+if drainage is poor. Check whether water is standing in the field and
+whether the roots look healthy. Avoid adding fertilizer immediately
+without checking the cause. If the soil remains waterlogged, improve
+drainage where feasible and seek local advice if many plants are
+affected.
+
+Conversation: Chilli leaves curling
+
+Farmer: The leaves of my chilli plants are curling.
+
+Assistant: Leaf curling can be caused by sucking insects, viruses, heat,
+water stress, or chemical injury. Check the underside of the leaves and
+growing points for insects, eggs, or sticky deposits. Are the leaves
+also yellow or distorted? Is the problem spreading from one area? A
+clear photograph can help with preliminary assessment.
+
+Farmer: I see tiny insects below the leaves.
+
+Assistant: That is useful information. Please take a clear photograph of
+the insects and affected leaves. Correct pest identification matters
+because different insects require different management. Avoid spraying
+an unidentified chemical. You can ask a local agricultural specialist to
+confirm the pest and suitable IPM options.
+
+Conversation: Paddy field water management
+
+Farmer: Should I keep water standing in my paddy field all the time?
+
+Assistant: Water management in rice depends on the establishment method,
+soil, variety, crop stage, local recommendations, and irrigation system.
+Continuous standing water is not necessary in every rice-growing system.
+Some water-saving methods use controlled irrigation and periods without
+standing water, but they must be managed carefully. Follow local
+agricultural guidance and ensure the crop does not experience harmful
+water stress.
+
+Conversation: Mango fruit falling
+
+Farmer: Small mango fruits are falling from my tree. Is this a disease?
+
+Assistant: Some fruit drop is natural, but excessive drop may be related
+to weather stress, poor pollination, pests, disease, nutrient or water
+problems, or tree condition. When did the fruit drop begin? Are the
+fallen fruits clean, damaged, or showing spots? Has there been strong
+wind, heat, or irregular watering? These details can help narrow the
+possibilities.
+
+Conversation: Banana leaves tearing
+
+Farmer: My banana leaves are splitting. Is the plant sick?
+
+Assistant: Banana leaves can split due to wind and are not always a sign
+of disease. Check whether the leaf tissue is otherwise green and
+healthy. Look for unusual spots, yellowing, wilting, or damage to the
+pseudostem. If the plant is otherwise healthy, wind-related tearing may
+be the main explanation. Severe or unusual symptoms should be inspected
+locally.
+
+Conversation: Groundnut yellowing
+
+Farmer: My groundnut crop looks pale. What should I check?
+
+Assistant: Check the crop stage, field moisture, drainage, root health,
+nodules, pest pressure, and soil test history. Legumes such as groundnut
+can obtain nitrogen through biological nitrogen fixation when suitable
+root-nodule bacteria are present and conditions are favourable. But poor
+nodulation, nutrient deficiencies, waterlogging, and other stresses can
+affect growth. A soil or plant assessment can help identify the actual
+issue.
+
+Conversation: Onion storage
+
+Farmer: Can I store freshly harvested onions in a closed room?
+
+Assistant: Onions need appropriate curing and storage conditions.
+Storing wet or poorly cured bulbs in a closed, humid space can encourage
+decay. Follow local recommendations for curing, ventilation, sorting,
+and storage. Remove damaged or diseased bulbs and inspect stored produce
+regularly. Storage conditions should match the variety and local
+climate.
+
+Conversation: Farmer wants to sell quickly
+
+Farmer: I have 300 kg of vegetables and they may spoil soon. What should
+I do?
+
+Assistant: First tell me the vegetable, approximate harvest date,
+current condition, and your location. We should prioritise a quick and
+realistic sale. Check nearby buyers, local markets, collection centres,
+and suitable storage. Compare the actual net amount after transport and
+other charges. Separate damaged produce from sound produce and do not
+misrepresent quality.
+
+Conversation: Farmer cannot access the internet
+
+Farmer: My internet is not working. Can I still get help?
+
+Assistant: If the service supports telephone access, you can use its IVR
+or callback number. You may also receive selected alerts by SMS. If you
+have access to a village agricultural assistant or service centre, they
+can help submit your request. Live market prices, current weather and
+new AI image analysis may need connectivity, but saved information may
+remain available offline.
+
+============================================================ END OF
+CORPUS ============================================================
+
+Maintenance recommendation: This document is a foundational
+general-knowledge corpus. It should be supplemented with separate,
+verified and regularly updated collections for each crop, state, season,
+disease, pest, agricultural practice, pesticide label, government
+scheme, market data source, and local agricultural advisory. Store
+source, publication date, jurisdiction, crop applicability, and review
+date as metadata wherever possible. Review safety-critical agricultural
+content with qualified agronomists before deploying it to farmers.
+
+================================================================================
+PART II — GOVERNMENT SCHEMES, SUBSIDIES, FARMER SERVICES AND LOCAL OFFICES
+Knowledge-base edition: 4 November 2026
+Geographic focus of local directory: Bengaluru, Karnataka, India
+================================================================================
+
+IMPORTANT KNOWLEDGE-BASE RULE
+Government schemes, subsidy budgets, eligibility rules, application windows, crop lists,
+premium rates, district targets and office contacts can change. The information below is
+a navigation and education layer, not a guarantee that an application is open or that a
+farmer will receive a particular amount. Before giving a definitive answer, retrieve the
+latest official notification for the farmer's state, district, taluk, crop, category and
+financial year. Never invent a subsidy percentage, rupee amount, deadline, beneficiary
+quota or approval. If current details are unavailable, say so and direct the farmer to
+the relevant department or official portal.
+
+A farmer should never pay an agent a bribe or share an OTP, UPI PIN, ATM PIN, bank
+password or full card details to obtain a government benefit. Official scheme application
+may involve a legitimate service fee at an authorised centre; ask for a printed receipt.
+
+SECTION 1 — HOW A FARMER SHOULD FIND AND APPLY FOR A GOVERNMENT BENEFIT
+
+A farmer may say:
+"Government has announced a subsidy. How do I know whether I can get it?"
+
+A helpful answer:
+"First, tell me your state, district, taluk and village; what crop or activity you do;
+whether you own, lease or share-cultivate the land; your land area; and what support you
+need. A scheme may be available only for selected crops, districts, categories or a
+limited number of beneficiaries. We should check the current official notification before
+you spend money or buy equipment."
+
+Recommended application journey:
+1. Identify the farmer's actual need: income support, seed, fertilizer, irrigation,
+   machinery, horticulture, livestock, storage, crop insurance, marketing or a loan.
+2. Identify the responsible department. Agriculture, Horticulture, Animal Husbandry,
+   Fisheries, Sericulture, Cooperation, Rural Development and banks administer different
+   benefits.
+3. Confirm the farmer's state, district, taluk, hobli and village. Do not assume that a
+   scheme available in one district is available in another.
+4. Check the current financial-year or crop-season notification and application window.
+5. Check eligibility, land-record requirements, beneficiary category, crop notification,
+   minimum/maximum area, approved equipment list, vendor conditions and subsidy ceiling.
+6. Ask whether the farmer must obtain approval before purchasing an input or machine.
+   Many capital subsidies require prior approval, inspection or purchase from an approved
+   vendor. Do not tell a farmer to buy first unless the official rules explicitly permit it.
+7. Prepare the documents and apply through the official portal, department office,
+   Raitha Samparka Kendra, bank, authorised Common Service Centre (CSC) or other
+   designated channel.
+8. Obtain an acknowledgement/application number and keep a copy.
+9. Track the application and respond to any inspection or document request.
+10. Verify the DBT credit in the farmer's own bank account. Do not treat an application
+    submission as approval or a sanction as proof that money has been credited.
+11. If rejected or delayed, ask for the written reason and use the official grievance
+    channel.
+
+Common documents that may be requested (requirements differ by scheme):
+- Aadhaar or another accepted identity document.
+- Active mobile number; Aadhaar-linked mobile may be needed for OTP-based e-KYC.
+- Bank passbook or account details in the beneficiary's own name, as specified.
+- Land record / Record of Rights (RTC or Pahani in Karnataka), mutation record, survey
+  number and land area.
+- Farmer registration / FRUITS ID in Karnataka where required.
+- Recent photograph.
+- Caste certificate for category-specific benefits, where required.
+- Income certificate, where required.
+- Crop details, season, sowing details and notified crop information.
+- Lease, tenancy, consent or cultivation proof if accepted under the particular scheme.
+- Quotation, invoice, equipment specification or approved-vendor details for asset
+  subsidies.
+- Soil test report, water source details or project report where relevant.
+- Previous insurance policy, bank loan or application details where relevant.
+
+Never assume every scheme requires all these documents. Tell the farmer exactly which
+documents the current scheme notification asks for. Never ask the farmer to post Aadhaar,
+bank account numbers, OTPs or identity documents in a public chat.
+
+SECTION 2 — CENTRAL GOVERNMENT AGRICULTURE SCHEMES
+
+2.1 PM-KISAN — Pradhan Mantri Kisan Samman Nidhi
+Purpose:
+Income support for eligible landholding farmer families through direct benefit transfer.
+
+Core structure:
+- The scheme provides Rs. 6,000 per eligible farmer family per year in three equal
+  instalments, subject to the scheme's current guidelines and eligibility checks.
+- The benefit is transferred to the eligible beneficiary's bank account through DBT.
+- The definition of farmer family and exclusion categories are set by the official
+  guidelines. It is not correct to say that every person who works on a farm qualifies.
+- Institutional landholders and specified higher-income or public-office/professional
+  categories are among the exclusions described in the official guidelines.
+- e-KYC is mandatory for registered beneficiaries. The official portal provides status
+  checking and registration services.
+
+How to help a farmer:
+1. Check whether the farmer's landholding and family details meet the current rules.
+2. Check PM-KISAN beneficiary status and any pending e-KYC or land-seeding issue.
+3. Confirm Aadhaar/bank account validation and the correct beneficiary details.
+4. Use the official portal or visit an authorised CSC / agriculture office for biometric
+   assistance if the farmer cannot complete digital e-KYC.
+5. Keep the acknowledgement and check the official "Know Your Status" facility.
+
+Official portal: https://pmkisan.gov.in/
+Official e-KYC information: https://pmkisan.gov.in/KnowAboutEKYC.aspx
+
+RAG response example:
+Farmer: "I have two acres. Can I get PM-KISAN?"
+Assistant: "Land area alone does not confirm eligibility. PM-KISAN checks the eligible
+farmer-family and land-record details, along with exclusion rules. Which state and
+district is your land in? If you are in Karnataka, your Raitha Samparka Kendra or an
+authorised CSC can help check your FRUITS/land records and PM-KISAN status. Please do
+not share your Aadhaar number or OTP here."
+
+2.2 PMFBY — Pradhan Mantri Fasal Bima Yojana
+Purpose:
+Crop insurance for notified crops and areas against specified crop-loss risks, subject to
+the policy and operational guidelines for that season.
+
+Key points:
+- Availability depends on the state, district, notified crop, season and insurance
+  notification. Not every crop in every village is automatically covered.
+- Farmer premium contribution under the published PMFBY framework is capped by crop
+  category and season. The official FAQ describes maximum farmer-paid rates of 2% of
+  sum insured for Kharif foodgrain/oilseed crops, 1.5% for Rabi foodgrain/oilseed crops,
+  and 5% for annual commercial/horticultural crops, or the actuarial rate if lower.
+  The current season notification must still be checked.
+- Enrolment cut-off dates are seasonal and can differ by state and crop.
+- A farmer should report a localised calamity or post-harvest loss within the time and
+  through the method prescribed in the current policy. Do not assume a universal deadline.
+- Keep the application receipt, policy number, bank details, crop and sowing information.
+- The farmer should not wait until the season ends to ask whether a crop is insured.
+
+How to help after crop damage:
+1. Ask the farmer's village, crop, season and date of damage.
+2. Ask whether the crop and area were notified and whether a policy was purchased.
+3. Tell the farmer to report loss immediately using the official channel and within the
+   current policy's reporting window.
+4. Preserve photographs, field records, policy details and acknowledgement.
+5. Do not promise compensation. Assessment and payment depend on the policy, notification,
+   loss assessment and claim process.
+
+Official portal: https://pmfby.gov.in/
+Official helpline shown on the portal: 14447 (Krishi Rakshak Portal & Helpline).
+The farmer should verify current availability and reporting instructions on the portal.
+
+2.3 Kisan Credit Card (KCC) and Modified Interest Subvention Scheme
+Purpose:
+Short-term institutional credit for eligible farmers' crop cultivation and certain allied
+activities, subject to bank appraisal and current government/banking rules.
+
+What it can help finance:
+- Crop cultivation expenses and eligible working capital.
+- Certain post-harvest and allied activity needs where permitted by the current KCC rules.
+- Dairy, fisheries and animal husbandry working capital may have separate KCC pathways.
+
+How to guide:
+- Approach a bank, Regional Rural Bank, cooperative bank or eligible financial institution.
+- Ask for the KCC application checklist, scale of finance for the crop and district, interest
+  rate, collateral rules, repayment schedule and current interest-subvention conditions.
+- A subsidy or interest benefit is not automatic; it depends on eligibility, prompt repayment
+  conditions and current government/bank rules.
+- Do not encourage a farmer to borrow more than the realistic seasonal requirement.
+- Explain the difference between a loan, an interest concession and a grant. A loan must
+  normally be repaid.
+
+2.4 Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) — Per Drop More Crop
+Purpose:
+Improve water-use efficiency and support micro-irrigation such as drip and sprinkler
+systems, as implemented through the relevant state department and current guidelines.
+
+Potential benefits:
+- Support for eligible drip and sprinkler irrigation systems.
+- Water-use efficiency and improved irrigation management.
+- The subsidy rate, eligible area, crop, farmer category, equipment specification and
+  approved supplier conditions must be checked in the current state notification.
+- Historical district pages may show high subsidy rates, but old percentages must not be
+  presented as guaranteed current rates.
+
+Before purchase:
+Ask the farmer to obtain written confirmation of eligibility, approved specifications,
+approved vendor and whether pre-sanction inspection is required. Keep the quotation and
+application acknowledgement.
+
+2.5 Agriculture Infrastructure Fund (AIF)
+Purpose:
+Financing support for eligible post-harvest management infrastructure and community
+farming assets through eligible lending institutions and project structures.
+
+Examples of eligible project types may include:
+- Warehouses and silos.
+- Pack houses, sorting and grading facilities.
+- Cold-chain and cold-storage infrastructure.
+- Primary processing and eligible supply-chain infrastructure.
+- Community farming assets covered by current guidelines.
+
+Important:
+AIF is primarily a financing facility with defined interest-subvention and credit-guarantee
+features under its guidelines; it should not be described as a cash grant automatically
+paid to every farmer. Eligibility, project type, loan amount, lender and current scheme
+window must be verified.
+
+Official portal: https://agriinfra.dac.gov.in/
+
+2.6 Sub-Mission on Agricultural Mechanization (SMAM)
+Purpose:
+Promote access to farm machinery and mechanisation, including support for eligible
+individuals, groups, cooperatives, FPOs and Custom Hiring Centres, depending on current
+guidelines.
+
+Possible equipment categories:
+- Tractors and power tillers where eligible.
+- Seed drills, planters and transplanters.
+- Harvesters and threshers.
+- Sprayers and plant-protection equipment.
+- Residue-management machinery.
+- Equipment for small and marginal farms and custom-hiring facilities.
+
+Rules:
+- Subsidy percentages and maximum amounts vary by machine, beneficiary category, state
+  allocation and current notification.
+- A machine may need to be on the approved list.
+- Some schemes require online application and prior approval.
+- Never recommend purchasing machinery before checking the current approval process.
+
+2.7 Soil Health Card and Soil Health & Fertility support
+Purpose:
+Promote soil testing and balanced nutrient management.
+
+Farmer-facing value:
+- Soil sample testing.
+- Information on soil pH, organic carbon and nutrient status.
+- Crop-specific fertilizer recommendations based on test results.
+- Better nutrient management and reduced unnecessary fertilizer application.
+
+A Soil Health Card is not a promise of free fertilizer. The farmer should use the test
+recommendation and ask an agriculture officer how to correct the identified deficiency.
+
+Official information: https://soilhealth.dac.gov.in/
+
+2.8 Paramparagat Krishi Vikas Yojana (PKVY) and natural/organic farming support
+Purpose:
+Support eligible clusters and groups transitioning to organic or natural farming practices,
+including training, local production systems, certification/assurance and market linkage
+as provided by current guidelines.
+
+Important:
+- Many benefits are delivered through clusters, groups or implementing agencies rather
+  than as an unrestricted individual cash payment.
+- Certification and labelling rules matter if a farmer wants to sell produce as certified
+  organic.
+- A farmer should not claim that produce is certified organic merely because chemical
+  fertilizer use has been reduced.
+- Check the current scheme version, cluster availability, local implementing agency and
+  certification/PGS requirements.
+
+2.9 Rashtriya Krishi Vikas Yojana (RKVY) / current RKVY components
+Purpose:
+Support state-led agricultural development, innovation, infrastructure, productivity,
+value addition and allied sectors through approved components and projects.
+
+The exact farmer-facing benefit depends on the component implemented in that state and
+district. Do not describe RKVY as one universal cash subsidy. Ask the district agriculture
+office which active component is open.
+
+2.10 National Food Security and Nutrition Mission (NFSNM; formerly NFSM)
+Purpose:
+Improve production and productivity of selected food crops and support demonstrations,
+quality seed, improved practices, training and other approved interventions.
+
+Potential crop focus and support can change by year and state. The farmer must check
+whether the crop, block and intervention are included in the current district action plan.
+
+2.11 Mission for Integrated Development of Horticulture (MIDH)
+Purpose:
+Support horticulture development and eligible interventions in fruits, vegetables, spices,
+flowers, plantation crops, nurseries, protected cultivation, post-harvest management and
+related infrastructure.
+
+Possible assistance areas:
+- Quality planting material and nursery development.
+- Area expansion and orchard establishment.
+- Protected cultivation such as shade-net or polyhouse, where approved.
+- Pack houses, grading, storage and post-harvest systems.
+- Rejuvenation and other crop-specific horticulture interventions.
+
+Subsidy is component-specific and may require technical standards, prior approval,
+inspection and approved planting material or vendors. Check the latest state horticulture
+department guidelines before investment.
+
+2.12 National Mission on Edible Oils — Oilseeds / Oil Palm
+Purpose:
+Increase domestic production of edible oils through eligible seed, cultivation, extension,
+processing and value-chain support.
+
+Farmer must check:
+- Whether the crop and district are covered.
+- Whether seed/planting material and inputs are approved.
+- Whether procurement or price-assurance features apply and under what terms.
+- The current season's beneficiary and subsidy conditions.
+
+2.13 Formation and Promotion of 10,000 Farmer Producer Organisations (FPOs)
+Purpose:
+Help farmers aggregate produce, improve input purchasing, access markets, services,
+storage, processing and institutional finance through member-owned producer organisations.
+
+How an individual farmer may benefit:
+- Join a genuine FPO and understand its membership rules.
+- Pool produce for bulk sale and stronger bargaining.
+- Access inputs and services through group procurement.
+- Explore grading, processing, storage and market contracts.
+- Ask for transparent accounts, weighing records, price calculation and payment timelines.
+
+Do not promise that joining an FPO guarantees a higher price or a grant. Explain membership
+fees, share capital, governance and commercial risks.
+
+2.14 PM-AASHA — Price support and market intervention
+Purpose:
+Support farmers under notified procurement or market intervention mechanisms for selected
+commodities, subject to government decisions and operational arrangements.
+
+Important:
+- Not all crops or all markets are covered at all times.
+- Procurement depends on commodity, quality specifications, quantity limits, procurement
+  window and designated agency.
+- A Minimum Support Price announcement does not automatically mean that every farmer's
+  entire crop will be purchased at MSP.
+- Verify the current procurement centre, dates, registration, quality standard and payment
+  process with the state procurement agency/APMC.
+
+2.15 National Mission on Natural Farming (NMNF)
+Purpose:
+Promote natural farming systems through clusters, training, demonstrations and locally
+adapted practices as implemented under current guidelines.
+
+Do not imply that every natural input is automatically approved or that transition has no
+yield risk. Encourage demonstration plots, soil monitoring and gradual transition.
+
+2.16 PM-Kisan Maandhan Yojana (PM-KMY)
+Purpose:
+A contributory pension scheme for eligible small and marginal farmers, subject to age,
+landholding, exclusion and contribution conditions.
+
+Important:
+This is a pension/contribution arrangement, not an immediate crop subsidy. The farmer
+should obtain the current contribution chart and eligibility rules from the official scheme
+or authorised enrolment channel before joining.
+
+2.17 Other central and allied-sector schemes to check
+Depending on the farmer's activity, the assistant should also check current official
+guidelines for:
+- National Livestock Mission (NLM).
+- Rashtriya Gokul Mission.
+- Animal Husbandry Infrastructure Development Fund (AHIDF).
+- National Programme for Dairy Development (NPDD).
+- Pradhan Mantri Matsya Sampada Yojana (PMMSY).
+- Fisheries and Aquaculture Infrastructure Development Fund (FIDF).
+- National Beekeeping and Honey Mission (NBHM).
+- Namo Drone Didi, where the eligible women SHG/group structure applies.
+- AgriSURE and other eligible agri-startup/rural enterprise financing programmes.
+- Agri-Clinics and Agri-Business Centres (ACABC), where eligible.
+- Rural livelihood and MGNREGA convergence programmes for eligible community or farm
+  works as allowed by state rules.
+
+These are not all direct individual-farmer subsidies. The relevant ministry, bank, group,
+enterprise or state department may be the implementing agency.
+
+SECTION 3 — KARNATAKA STATE AGRICULTURE SCHEMES AND SERVICES
+
+Karnataka has agriculture services delivered through the Department of Agriculture,
+Horticulture, Animal Husbandry, Fisheries, Sericulture, Cooperation, APMCs, banks and
+local bodies. The farmer should first identify the correct department and local office.
+
+3.1 FRUITS — Farmer Registration and Unified Beneficiary Information System
+FRUITS is an important farmer registration and beneficiary information system in
+Karnataka. It supports farmer identification and access to eligible benefits across
+departments.
+
+What the farmer should know:
+- FRUITS registration is not itself approval for every scheme.
+- A FRUITS ID may be used to connect land and beneficiary information for scheme
+  processing.
+- The farmer should ensure name, Aadhaar-related identity fields, bank details, land
+  records and crop details are accurate.
+- If land is inherited, divided, leased or recently mutated, the record may need correction.
+- A farmer who does not use a smartphone can request help at a Raitha Samparka Kendra,
+  authorised service centre or relevant department office.
+
+Karnataka farmer services portal: https://raitamitra.karnataka.gov.in/
+FRUITS portal: https://fruits.karnataka.gov.in/
+
+3.2 Raitha Samparka Kendra (RSK)
+RSKs are local agriculture extension and farmer-contact centres, generally organised at
+hobli level. They are an important offline first stop for farmers.
+
+A farmer can ask the RSK about:
+- Current agriculture department schemes and application windows.
+- Farmer registration and FRUITS-related assistance.
+- Seed availability and certified seed distribution.
+- Soil testing and fertilizer recommendations.
+- Crop pest and disease advice.
+- Demonstrations, training and extension programmes.
+- Eligibility and referral for machinery, irrigation and other subsidies.
+- Where to submit documents and how to track an application.
+- Which taluk or district officer handles a complaint.
+
+The exact services and stock available at each RSK vary. The assistant should locate the
+RSK for the farmer's own hobli, not assume the Bengaluru city office is the correct office.
+
+3.3 Krishi Bhagya Yojane
+Purpose:
+Support rainfed farming and improve rainwater conservation and use.
+
+Historically documented components have included:
+- Farm ponds (Krishi Honda).
+- Pond lining or approved water-retention structures.
+- Pump sets and water-lifting support where permitted.
+- Drip or sprinkler systems.
+- Other approved water-conservation components.
+
+Eligibility and subsidy:
+- Depends on the current year's scheme guidelines, farmer category, land, district,
+  approved design and budget.
+- Historical subsidy percentages must not be presented as current guarantees.
+- A farmer should obtain approval and technical specifications before constructing a pond
+  or purchasing a pump.
+
+3.4 Karnataka farm mechanisation and Krishi Yantra Dhare / custom hiring
+Purpose:
+Improve access to machinery and reduce dependence on manual labour.
+
+Two different routes should be explained:
+A. Individual equipment subsidy: eligible farmers may apply for specified equipment under
+   the active farm mechanisation programme.
+B. Custom hiring: farmers rent machinery from an approved Custom Hiring Centre or
+   Krishi Yantra Dhare facility instead of buying it.
+
+The second route can be especially useful for small farmers who cannot afford a tractor,
+harvester or expensive equipment. Ask the RSK or taluk agriculture office for the nearest
+active centre, equipment list, rent, availability and booking process.
+
+3.5 Micro-irrigation support in Karnataka
+Drip and sprinkler assistance may be implemented through PMKSY Per Drop More Crop and
+state horticulture/agriculture programmes.
+
+The percentage and ceiling depend on the current notification, crop, land area, farmer
+category and component. Do not reuse old rates from a previous financial year. Obtain
+written eligibility and approved supplier details before purchase.
+
+3.6 Karnataka seed distribution and input assistance
+The state may distribute eligible certified or high-yielding seeds and selected inputs
+through seasonal programmes at subsidised rates.
+
+The farmer should ask:
+- Which crop varieties are available for this season?
+- Is the seed certified and suitable for this agro-climatic zone?
+- What is the beneficiary contribution?
+- Is there a per-farmer or per-acre limit?
+- Is Aadhaar/FRUITS registration required?
+- Where and when will the seed be distributed?
+
+Do not recommend a variety solely because it is subsidised. Match the variety to rainfall,
+soil, irrigation, sowing window, market demand and disease resistance.
+
+3.7 Raitha Siri and millet-related incentives
+Raitha Siri has been described in Karnataka scheme information as support for farmers
+growing selected minor millets. Its exact current status, crop list, amount, land ceiling,
+registration and payment conditions must be checked in the current Karnataka government
+notification. Do not promise a fixed per-hectare amount based only on an old scheme page.
+
+3.8 Karnataka crop insurance — Raitha Suraksha / PMFBY implementation
+Karnataka implements crop insurance arrangements through the notified scheme and
+Samrakshane systems for relevant seasons and crops.
+
+Official portal for Karnataka crop insurance: https://samrakshane.karnataka.gov.in/
+The national PMFBY portal is: https://pmfby.gov.in/
+
+A farmer should verify:
+- Notified village/area.
+- Notified crop and season.
+- Enrolment deadline.
+- Premium amount.
+- Insurance company and policy number.
+- Loss reporting procedure and current deadline.
+- Status and grievance channel.
+
+3.9 Karnataka horticulture schemes
+Farmers growing fruit, vegetables, flowers, spices, plantation crops and nursery crops
+should contact the Horticulture Department rather than assuming all benefits are handled
+by the Agriculture Department.
+
+Possible support components under current horticulture programmes may include:
+- Orchard and area expansion.
+- Quality planting material.
+- Protected cultivation, shade-net and polyhouse.
+- Drip irrigation.
+- Pack houses, grading, sorting and post-harvest facilities.
+- Mushroom cultivation and other approved enterprises.
+- Horticulture mechanisation and crop-specific support.
+
+Component, beneficiary share, subsidy cap, approved technical standards and district
+availability must be checked in the current annual guidelines.
+
+3.10 Karnataka livestock and allied agriculture support
+For dairy, cattle, sheep, goat, piggery, poultry, fisheries, beekeeping or sericulture, the
+farmer should contact the corresponding department. Agriculture office staff may refer the
+farmer, but should not be treated as the only authority.
+
+Possible schemes to investigate, subject to current status:
+- Pashu Bhagya and other state livestock assistance.
+- National Livestock Mission.
+- Rashtriya Gokul Mission.
+- AHIDF and dairy infrastructure support.
+- PM Matsya Sampada Yojana for eligible fisheries activities.
+- Sericulture department support for eligible silkworm rearing and reeling activities.
+- Beekeeping and honey mission components.
+
+A livestock subsidy may be credit-linked and require a bank loan, veterinary inspection,
+unit size, insurance or approved project. Explain the loan and subsidy portions separately.
+
+3.11 Karnataka agricultural marketing and market-price services
+Farmers can use APMC yards, regulated market channels, FPOs, cooperatives and approved
+digital market systems depending on the commodity and location.
+
+Useful official/state resources:
+- Karnataka Raitha Mitra: https://raitamitra.karnataka.gov.in/
+- Karnataka e-market / Unified Market Platform information should be checked through
+  current Department of Agricultural Marketing resources.
+- National AGMARKNET market information: https://agmarknet.gov.in/
+- e-NAM: https://www.enam.gov.in/
+
+A displayed mandi price is an indicative market report, not a guaranteed sale price.
+Confirm grade, quality, arrivals, commission, transport, weighing, deductions and payment
+terms before dispatching produce.
+
+3.12 Karnataka farmer grievance and call support
+A farmer who cannot use a website should be able to ask a family member, RSK, CSC,
+panchayat office, FPO or agriculture extension worker to help. The assistant should
+provide a phone-first and offline path.
+
+Some Karnataka government and directory material references a Raitha Call Centre
+number 1800 425 3553. Since contact numbers can change, the assistant must verify this
+number against the current official Karnataka Department of Agriculture contact page
+before presenting it as active. If not verified, direct the farmer to the nearest RSK or
+district agriculture office and do not invent a replacement number.
+
+SECTION 4 — BENGALURU-AREA AGRICULTURE OFFICES AND SUPPORT INSTITUTIONS
+
+This is a Bengaluru starting directory, not a claim that every office is the nearest one
+for every farmer. Bengaluru Urban, Bengaluru Rural and other districts have different
+taluks, hoblis and local field offices. A farmer should share only the village, hobli and
+taluk needed to identify the correct office.
+
+4.1 Commissionerate of Agriculture, Government of Karnataka
+Address listed in public business directories:
+Ambedkar Veedhi, Bengaluru, Karnataka 560001.
+Phone listed in directory: +91 80 2221 2804.
+Typical role: State-level Department of Agriculture administration and routing for
+department matters. A farmer with a routine village-level issue should normally start at
+the local RSK or taluk agriculture office instead of travelling to the state head office.
+Verify the current address, phone and visitor hours before visiting.
+
+4.2 Department of Agriculture office — Central College / Seshadri Road area
+Address listed:
+Central College Department of Agriculture, Central College, 1 Seshadri Road,
+Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru, Karnataka 560001.
+Phone listed in directory: +91 80 2203 5006.
+Potential use: Clarification on state agriculture programmes and referral to the correct
+district or taluk office. Confirm the exact section and visitor access before travel.
+
+4.3 Krishi Sankeerna — Banashankari area
+Location listed:
+Near Banashankari Metro Station / Sub-Registrar area, Umarbagh Layout,
+Banashankari, Bengaluru, Karnataka 560070.
+This complex is associated in public listings with Bengaluru Urban agriculture
+administration and district-level agriculture functions. Confirm the current office,
+department section, officer availability and appointment requirements before visiting.
+
+4.4 Raitha Samparka Kendra — Bidarahalli
+Address listing:
+3P47+RXQ, Bidarahalli, Bengaluru, Karnataka 560049.
+This is a local farmer-contact service point listed for the Bidarahalli area. It may be
+relevant to farmers whose land falls within the corresponding hobli jurisdiction. Confirm
+jurisdiction and current services before travel.
+
+4.5 Raitha Samparka Kendra — Chikkajala
+Address listing:
+5JFM+4R8, Chikkajala, Karnataka 562157.
+This is a local agriculture contact centre listing for the Chikkajala area. Confirm that
+the farmer's village belongs to this RSK before visiting.
+
+4.6 University of Agricultural Sciences, Bengaluru — GKVK
+Address:
+Gandhi Krishi Vignana Kendra (GKVK), Bellary Road, Bengaluru, Karnataka 560065.
+Main public contact listed: +91 80 2333 0153.
+Role:
+- Agricultural research and education.
+- Crop and soil science expertise.
+- Extension activities and farmer-oriented programmes.
+- Krishi Mela and demonstrations.
+- Referral to relevant departments and research/extension specialists.
+
+GKVK is a research and university institution, not a substitute for the farmer's local
+government scheme-sanctioning office.
+
+4.7 Farmers' Training Institute, UAS GKVK
+Address:
+University of Agricultural Sciences, Farmers' Training Institute,
+Gandhi Krishi Vignana Kendra, Bengaluru, Karnataka 560065.
+Phone listed: +91 80 2363 6730.
+Potential support: Farmer training, skill development and extension programmes. Ask about
+current course schedules, eligibility, language, fees (if any) and registration.
+
+4.8 Regional Horticultural Research and Extension Centre (RHREC), GKVK area
+Location listed:
+GKVK / Vignana Kendra, Bengaluru, Karnataka 560065.
+Potential support: Horticulture research and extension-related information. For a subsidy
+application, the farmer should still confirm the responsible Horticulture Department office.
+
+4.9 Directorate of Agricultural Marketing
+Address listed:
+No. 16, 2nd Raj Bhavan Road, Shivaji Nagar, Bengaluru, Karnataka 560001.
+Phone listed in directory: +91 80 2286 4175.
+Potential role: State-level agricultural marketing administration and APMC-related
+coordination. For selling a crop, the local APMC market office is often the more practical
+first contact.
+
+4.10 Karnataka State Agricultural Marketing Board
+Location listed:
+Shivaji Nagar / Raj Bhavan Road area, Bengaluru, Karnataka 560001.
+Potential role: State agricultural marketing board and regulated-market coordination.
+Confirm the correct office section and current contact before visiting.
+
+4.11 ICAR Agricultural Technology Application Research Institute (ATARI), Zone XI
+Location listed:
+Main Research Station / H.A. Farm Post, Bhoopasandra Main Road, Hebbal,
+Bengaluru, Karnataka 560024.
+Potential role: Agricultural extension research and coordination with the Krishi Vigyan
+Kendra network across its zone. It is not normally the first counter for an individual
+subsidy application.
+
+4.12 Krishi Vigyan Kendra (KVK) — how to find the correct one
+A KVK provides district- and crop-relevant training, demonstrations, diagnostics and
+agricultural extension. Farmers should identify the KVK serving their district through the
+ICAR/KVK directory or ask the district agriculture office. Do not assume the Bengaluru
+GKVK campus is the nearest KVK for a farmer living in another district.
+
+OFFICE VISIT CHECKLIST
+Before travelling, the farmer should:
+- Call or confirm the office is still at the listed address.
+- Ask whether the office handles the farmer's village/taluk.
+- Ask which officer or section handles the issue.
+- Carry copies, not leave original land deeds or identity documents without a formal
+  acknowledgement.
+- Carry the scheme name, application number, survey number and relevant crop details.
+- Ask for a written acknowledgement for any submitted document.
+- Avoid paying unofficial cash. Request an official receipt for any authorised fee.
+
+SECTION 5 — HOW TO SUPPORT FARMERS WHO DO NOT OWN OR USE SMARTPHONES
+
+The platform must never assume that every farmer has a smartphone, mobile data, email,
+digital literacy, English fluency or a bank app.
+
+A farmer without a smartphone should still be able to:
+- Ask a question through a shared family phone or a village help desk.
+- Call a support number where an officially verified number exists.
+- Use a basic phone through voice/IVR or SMS if the service supports it.
+- Visit the RSK, CSC, panchayat office, cooperative society, FPO or bank.
+- Receive a printed application checklist, scheme summary or acknowledgement.
+- Ask an extension worker to explain an application in the farmer's preferred language.
+- Authorise a trusted helper where the official process permits it, without sharing PINs
+  or OTPs.
+
+Recommended product design:
+1. Provide a voice-first interface and support local languages such as Kannada, Hindi,
+   Telugu, Tamil and other languages relevant to the region.
+2. Use short sentences and one question at a time.
+3. Read out the key answer and offer a printable or downloadable checklist.
+4. Give an offline route: "Visit your nearest Raitha Samparka Kendra / CSC."
+5. Let an assisted-service operator search schemes using district, taluk, crop and need.
+6. Do not ask for Aadhaar, bank account number, OTP or sensitive documents in ordinary
+   chat.
+7. Explain that an operator can help submit a form but cannot guarantee approval.
+8. Make a clear distinction between an official government office, a private agent and
+   the platform's own vendor.
+9. Provide a complaint path for suspected fraud or unofficial payment demands.
+10. Make it possible to save a case number on paper or by SMS.
+
+Example:
+Farmer: "I do not know how to apply online. I have no smartphone."
+Assistant: "That is okay. You do not need to complete the process alone. Tell me your
+village, taluk and the crop or support you need. I can explain which office to visit and
+what documents to carry. In Karnataka, the local Raitha Samparka Kendra is usually a
+good first place to ask about agriculture schemes. Do not give anyone your OTP or bank
+PIN."
+
+SECTION 6 — SUBSIDY AND GOVERNMENT-SCHEME FRAUD PREVENTION
+
+Common warning signs:
+- Someone promises guaranteed approval for a fee.
+- Someone asks for an OTP, UPI PIN, ATM PIN or bank password.
+- Someone says a subsidy will expire immediately unless money is transferred to a
+  personal account.
+- A vendor claims to be government-approved but cannot show a valid authorisation.
+- A caller asks the farmer to install an unknown screen-sharing or remote-access app.
+- An agent asks the farmer to sign a blank form or hand over original land documents.
+- A message contains a suspicious link or spelling errors and asks for bank credentials.
+- A person promises an impossible subsidy percentage or a fixed cash amount without
+  checking land, crop, category and scheme rules.
+
+Safe response:
+"Please do not transfer money or share an OTP. Ask for the scheme name, government
+order or official notification, authorised office and written receipt. Verify the details
+directly with the department, bank or official portal."
+
+The platform must not:
+- Claim to be a government department.
+- Imply that a vendor is government-authorised without verified evidence.
+- Sell a product as mandatory for a subsidy unless the official scheme says so.
+- Collect sensitive credentials.
+- Promise a sanction or DBT payment.
+- Hide vendor commissions or ranking criteria.
+
+SECTION 7 — FARMER QUESTIONS AND ANSWER PATTERNS FOR RAG
+
+Q: "I own one acre. Which subsidy can I get?"
+A: "The answer depends on your state, district, crop, irrigation source, farmer category
+and the activity you want support for. Are you looking for seeds, drip irrigation,
+machinery, a farm pond, horticulture or a crop loan? I can narrow down the relevant
+scheme, but the current notification must be checked before applying."
+
+Q: "Can I get a tractor subsidy?"
+A: "Possibly, but it depends on the current farm mechanisation scheme, your category,
+landholding rules, equipment specification, district allocation and whether applications
+are open. Ask the RSK or taluk agriculture office for the current approved list. Do not
+buy the tractor before confirming whether prior approval is required."
+
+Q: "I bought a drip system last month. Can I claim subsidy now?"
+A: "Do not assume that a retrospective claim is allowed. Many subsidy programmes require
+application, inspection or approval before purchase. Keep your invoice and contact the
+implementing department immediately. The officer must check the current scheme rules."
+
+Q: "My PM-KISAN payment has not arrived."
+A: "Check your beneficiary status, e-KYC, land-seeding and bank validation on the official
+PM-KISAN portal. If you cannot use the portal, visit an authorised CSC or local agriculture
+office. Do not share your Aadhaar number or OTP in this chat."
+
+Q: "My crop was destroyed by heavy rain. Can I get insurance?"
+A: "First we need to check whether your crop, village and season were notified and whether
+you enrolled in the policy. Report the loss immediately through the current official
+PMFBY/Karnataka channel and follow the policy's reporting deadline. Keep photographs,
+policy details and acknowledgement. Compensation is subject to assessment and policy
+rules."
+
+Q: "I am a tenant farmer. Can I apply?"
+A: "Some schemes and insurance arrangements may recognise cultivators or tenants when
+the required documents and state rules permit it; others require land records in a
+particular form. Tell me your state and district. We should check the exact scheme rules
+and accepted cultivation proof rather than assume you are eligible or ineligible."
+
+Q: "Where is the nearest agriculture office?"
+A: "Please tell me your village, hobli and taluk, or your PIN code. The nearest office must
+be matched to the land's administrative jurisdiction. If you are in Karnataka, the local
+Raitha Samparka Kendra is usually a good first contact."
+
+Q: "The dealer says I must buy his fertilizer to receive a subsidy."
+A: "Do not accept that claim without checking the official scheme notification. Ask the
+dealer to show the approved product list and written rule. Confirm with the agriculture
+officer or RSK. A subsidy should not be used to pressure you into buying an unnecessary
+or unsuitable input."
+
+SECTION 8 — OFFICIAL SOURCES AND REFERENCE LINKS
+
+Use official government sources first. The following links are starting points and should
+be checked for current notices, contacts and application windows:
+
+Central Government:
+- PM-KISAN: https://pmkisan.gov.in/
+- PM-KISAN e-KYC: https://pmkisan.gov.in/KnowAboutEKYC.aspx
+- PMFBY crop insurance: https://pmfby.gov.in/
+- PMFBY FAQ: https://pmfby.gov.in/faq
+- Agriculture Infrastructure Fund: https://agriinfra.dac.gov.in/
+- Soil Health Card: https://soilhealth.dac.gov.in/
+- e-NAM: https://www.enam.gov.in/
+- AGMARKNET: https://agmarknet.gov.in/
+- Ministry of Agriculture and Farmers Welfare: https://agriwelfare.gov.in/
+
+Karnataka:
+- Department of Agriculture / Raitha Mitra: https://raitamitra.karnataka.gov.in/
+- FRUITS farmer registration: https://fruits.karnataka.gov.in/
+- Karnataka crop insurance / Samrakshane: https://samrakshane.karnataka.gov.in/
+- Karnataka K-KISAN information system: https://kkisan.karnataka.gov.in/
+- Bengaluru Urban district agriculture department: https://bengaluruurban.nic.in/en/departments/agriculture-department/
+- Bengaluru Urban agriculture e-governance: https://bengaluruurban.nic.in/en/departments/agriculture-department/e-governance/
+- Bengaluru Rural agriculture department: https://bangalorerural.nic.in/en/agriculture/
+- Bengaluru Rural schemes page: https://bangalorerural.nic.in/en/schemes/
+- University of Agricultural Sciences, Bengaluru: https://uasbangalore.edu.in/
+
+The RAG system should retain the source URL, title, issuing authority, publication date,
+retrieval date and relevant financial year for each government scheme chunk. If a portal
+is unavailable, do not replace it with an unverified third-party application link.
+
+SECTION 9 — REQUIRED RAG METADATA FOR GOVERNMENT SCHEME CHUNKS
+
+Recommended metadata fields:
+- document_type: government_scheme
+- scheme_name
+- scheme_short_name
+- implementing_ministry_or_department
+- central_or_state
+- state
+- district_scope
+- taluk_or_hobli_scope
+- financial_year
+- crop_season
+- crop_or_activity
+- beneficiary_category
+- landholding_or_cultivation_conditions
+- benefit_type: grant / subsidy / DBT / insurance / loan / interest_subvention /
+  training / service / procurement / pension
+- benefit_amount_or_rate
+- amount_status: current_verified / historical_reference / variable / unknown
+- application_start_date
+- application_deadline
+- required_documents
+- application_channel
+- official_portal
+- official_contact
+- grievance_channel
+- source_title
+- source_url
+- source_published_date
+- source_checked_date
+- confidence_level
+- supersedes_version
+
+Do not merge old and current scheme rates into one chunk. Store each financial year's
+guidelines separately and mark superseded documents clearly.
+
+SECTION 10 — RAG RETRIEVAL AND RESPONSE POLICY FOR SCHEMES
+
+When a farmer asks "What schemes are available?", do not return a huge list immediately.
+Ask for the most important missing details one at a time:
+1. State and district (or village/taluk).
+2. Crop or allied activity.
+3. Farmer's objective: income support, crop loss, irrigation, machinery, seed, livestock,
+   storage, market access or loan.
+4. Land ownership/cultivation status and beneficiary category only if relevant to the
+   scheme.
+
+Then:
+- Retrieve current official sources matching the district, crop, financial year and need.
+- Prefer government notifications and department portals over blogs and scheme aggregators.
+- State the benefit type clearly: grant, subsidy, loan, interest concession, insurance,
+  procurement or training.
+- Give amount/rate only when supported by a current official source.
+- Explain whether prior approval is required.
+- Give the application route and document checklist.
+- Provide an offline route for farmers without smartphones.
+- Give the local office only when its jurisdiction is known or clearly label it as a
+  district-level starting point.
+- Mention the date the scheme information was checked.
+- If the current year's rate or application window cannot be verified, say:
+  "I can explain the scheme, but I cannot confirm the current subsidy rate or whether
+  applications are open. Please verify with the local agriculture office before spending
+  money."
+
+The assistant must never:
+- Guarantee eligibility, subsidy approval, crop insurance payout or procurement.
+- Invent a deadline, subsidy rate, office address, phone number or application link.
+- Treat a loan as a grant.
+- Treat an MSP announcement as a guaranteed purchase.
+- Tell a farmer to purchase equipment before confirming the scheme's prior-approval rules.
+- Give legal or financial certainty based on an old notification.
+- Use the Bengaluru directory for a farmer whose location is elsewhere.
+
+END OF GOVERNMENT SCHEMES AND FARMER SERVICES ADDENDUM
