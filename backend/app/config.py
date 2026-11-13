@@ -43,8 +43,18 @@ class Settings(BaseSettings):
     yolo_iou_threshold: float = 0.45
 
     # YOLO Crop Quality Detection Model Settings
-    quality_model_path: str = os.path.join(
-        os.path.dirname(os.path.dirname(os.path.dirname(__file__))), "models", "best.pt"
+    quality_model_path: str = (
+        os.path.join(
+            os.path.dirname(os.path.dirname(__file__)), "models", "quality", "best.pt"
+        )
+        if os.path.isfile(
+            os.path.join(
+                os.path.dirname(os.path.dirname(__file__)), "models", "quality", "best.pt"
+            )
+        )
+        else os.path.join(
+            os.path.dirname(os.path.dirname(os.path.dirname(__file__))), "models", "best.pt"
+        )
     )
     quality_conf_threshold: float = 0.25
     quality_iou_threshold: float = 0.45

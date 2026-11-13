@@ -108,6 +108,16 @@ Edit `backend/.env` and add your API keys:
 flutter pub get
 ```
 
+### Option C: Run with Docker Compose (All Services Containerized)
+
+You can run the entire backend and AI stack (Ollama + RAG Engine + Backend + ChromaDB) in isolated Docker containers with a single command:
+
+```bash
+docker compose up --build -d
+```
+
+> For step-by-step instructions on building individual images, running the Flutter Web dashboard container, and publishing to **Docker Hub**, see the complete [DOCKER_GUIDE.md](DOCKER_GUIDE.md).
+
 ---
 
 ## Running the Project

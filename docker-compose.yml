@@ -1,0 +1,152 @@
+# ==============================================================================
+# KISAN NETRA (CHIP TO CROP) — Full Stack Docker Compose Orchestration
+# ==============================================================================
+services:
+
+  # ----------------------------------------------------------------------------
+  # 1. Ollama LLM & Embedding Service
+  # ----------------------------------------------------------------------------
+  ollama:
+    image: ollama/ollama:latest
+    container_name: kisan-netra-ollama
+    restart: unless-stopped
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_models:/root/.ollama
+    healthcheck:
+      test: ["CMD-SHELL", "ollama list > /dev/null 2>&1 || exit 1"]
+      interval: 15s
+      timeout: 10s
+      retries: 5
+      start_period: 20s
+    networks:
+      - kisan-netra-net
+
+  # ----------------------------------------------------------------------------
+  # 2. Automated Ollama Model Setup (Pulls nomic-embed-text and qwen3:1.7b once)
+  # ----------------------------------------------------------------------------
+  ollama-init:
+    image: ollama/ollama:latest
+    container_name: kisan-netra-ollama-init
+    restart: "no"
+    depends_on:
+      ollama:
+        condition: service_healthy
+    networks:
+      - kisan-netra-net
+    entrypoint: ["/bin/sh", "-c"]
+    command:
+      - |
+        echo "[OLLAMA-INIT] Checking and pulling required models..."
+        ollama pull nomic-embed-text
+        ollama pull qwen3:1.7b
+        echo "[OLLAMA-INIT] nomic-embed-text and qwen3:1.7b ready!"
+
+  # ----------------------------------------------------------------------------
+  # 3. Agricultural RAG Engine Service (Port 8001)
+  # ----------------------------------------------------------------------------
+  rag-engine:
+    build:
+      context: ./rag_engine
+      dockerfile: Dockerfile
+    image: kisan-netra-rag-engine:latest
+    container_name: kisan-netra-rag-engine
+    restart: unless-stopped
+    ports:
+      - "8001:8001"
+    environment:
+      - RAG_HOST=0.0.0.0
+      - RAG_PORT=8001
+      - OLLAMA_BASE_URL=http://ollama:11434
+      - EMBEDDING_MODEL=nomic-embed-text:latest
+      - LLM_MODEL=qwen3:1.7b
+    volumes:
+      - chroma_data:/app/data/chroma_db
+    depends_on:
+      ollama:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8001/health"]
+      interval: 20s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+    networks:
+      - kisan-netra-net
+
+  # ----------------------------------------------------------------------------
+  # 4. Main FastAPI Backend (Port 8000)
+  # ----------------------------------------------------------------------------
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    image: kisan-netra-backend:latest
+    container_name: kisan-netra-backend
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - HOST=0.0.0.0
+      - PORT=8000
+      - RAG_ENGINE_BASE_URL=http://rag-engine:8001
+      - RAG_TIMEOUT_SECONDS=180.0
+      - YOLO_MODEL_PATH=/app/models/yolo26s/best.pt
+      - QUALITY_MODEL_PATH=/app/models/quality/best.pt
+      - CROP_DISEASE_MODEL_PATH=/app/models/crop_disease/best.pt
+    env_file:
+      - path: ./backend/.env
+        required: false
+    volumes:
+      - backend_data:/app/app/data
+    depends_on:
+      rag-engine:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 20s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    networks:
+      - kisan-netra-net
+
+  # ----------------------------------------------------------------------------
+  # 5. Optional Flutter Web Dashboard (Port 3000)
+  # ----------------------------------------------------------------------------
+  frontend-web:
+    build:
+      context: .
+      dockerfile: Dockerfile.web
+    image: kisan-netra-frontend:latest
+    container_name: kisan-netra-web
+    restart: unless-stopped
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+    profiles:
+      - frontend
+      - all
+    networks:
+      - kisan-netra-net
+
+# ------------------------------------------------------------------------------
+# Persistent Docker Volumes
+# ------------------------------------------------------------------------------
+volumes:
+  ollama_models:
+    name: kisan_netra_ollama_models
+  chroma_data:
+    name: kisan_netra_chroma_data
+  backend_data:
+    name: kisan_netra_backend_data
+
+# ------------------------------------------------------------------------------
+# Bridge Network for Inter-Container Communication
+# ------------------------------------------------------------------------------
+networks:
+  kisan-netra-net:
+    name: kisan_netra_network
+    driver: bridge

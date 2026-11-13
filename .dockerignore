@@ -1,0 +1,41 @@
+# Git
+.git
+.gitignore
+
+# Python Virtual Environments & Bytecode
+**/venv/
+**/.venv/
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+.pytest_cache/
+
+# Flutter / Dart Build Outputs
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+coverage/
+android/.gradle/
+android/app/build/
+ios/Pods/
+.idea/
+*.iml
+
+# Secret & Environment Files
+.env
+backend/.env
+rag_engine/.env
+*.key
+*.pem
+*.token
+
+# Local SQLite databases (created dynamically in containers)
+backend/app/community.db
+backend/app/data/mandi_cache.db
+
+# Large raw training archives / unused duplicates
+model3/
+training model.txt
